@@ -1,0 +1,6 @@
+﻿tenant_id,tenant_nm,tier_id,min_val,max_val,rate,rate_start_date,rate_end_date
+1091,1-800-Flowers,1,0,10,7.5,2023-06-01,9999-12-31
+1091,1-800-Flowers,2,10,,10,2023-06-01,9999-12-31
+1030,Sally Beauty Supply,1,0,5,5.75,2023-05-10,2023-08-08
+1030,Sally Beauty Supply,2,5,8,7,2023-05-10,2023-08-08
+1030,Sally Beauty Supply,3,8,,9,2023-05-10,2023-08-08

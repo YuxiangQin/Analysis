@@ -1,0 +1,1035 @@
+SCAC - Carrier Alias,SCAC - Carrier Email Contacts,DC_CARR_ID,SCAC,DC,DC Type,Carrier Type,Empty Trailer Count,4 Week Volume,Target Trailer Pool,Trailers to Remove,Yard Health,Count of days > Target Trailer Pool,Loaded Dwell Avg,Empty Count Dwell > 15days,Loaded Count Dwell >  15days,Loc Nbr,DC City,Carrier Alias,Carrier SCAC,Action Plan,Get-Well Date,SCAC - User2,Count of Trailers Eligible For Tow,Drop Privileges at Risk,Action Plan Needed,Empty Dwell Average
+,,6059-PAM,PAM,6059,Grocery,3PL,1,3,0,1,At Capacity,73,0.0,,,,Olney,P A M TRANSPORT INC - PAM,,,,[],1.0,false,false,3.0
+,,6064-JBR,JBR,6064,Grocery,3PL,1,4,0,1,At Capacity,79,0.0,,,,Cleburne,JB HUNT,,,,[],1.0,false,false,3.0
+,,6082-OTR,OTR,6082,Grocery,3PL,2,4,0,2,Over Capacity,82,0.0,,,,Clarksvile,,,,,[],2.0,false,false,50.0
+,,6083-OTR,OTR,6083,Grocery,3PL,1,11,0,1,Near Capacity,28,0.0,,,,Temple,,,,,[],,false,false,5.0
+,,6095-CFI,CFI,6095,Grocery,3PL,2,12,0,2,Near Capacity,6,0.0,,,,Opelika,CONTRACT FREIGHTERS INC,,,,[],,false,false,14.0
+,,6096-JBR,JBR,6096,Grocery,3PL,2,6,0,2,At Capacity,86,0.0,,,,Johnstown,JB HUNT,,,,[],2.0,false,false,8.0
+,,7014-NFI,NFI,7014,Grocery,3PL,1,9,0,1,Near Capacity,33,0.0,,,,Lewiston,NFI,,,,[],1.0,false,false,4.0
+,,7014-OTR,OTR,7014,Grocery,3PL,4,1,0,4,Near Capacity,35,0.0,,,,Lewiston,,,,,[],4.0,true,true,2.29
+,,7015-OTR,OTR,7015,Grocery,3PL,8,3,0,8,Over Capacity,27,0.0,,,,Bartlesville,,,,,[],,true,true,136.3
+,,7017-CFI,CFI,7017,Grocery,3PL,1,2,0,1,At Capacity,1,0.0,,,,Wintersville,CONTRACT FREIGHTERS INC,,,,[],,false,false,2.0
+,,7019-ABF,ABF,7019,Grocery,3PL,1,2,0,1,At Capacity,27,0.0,,,,Brundidge,ABF FREIGHT SYSTEM INC,,,,[],,false,false,8.0
+,,7030-JBR,JBR,7030,Grocery,3PL,1,1,0,1,Near Capacity,3,0.0,,,,Pottsville,JB HUNT,,,,[],,false,false,6.0
+,,7048-OTR,OTR,7048,Grocery,3PL,1,3,0,1,Over Capacity,7,0.0,,,,McCarran,,,,,[],,false,false,2.0
+,,7055-OTR,OTR,7055,Grocery,3PL,1,2,0,1,Near Capacity,55,1.0,,,,Gas City,,,,,[],1.0,false,false,24.0
+,,7077-ABF,ABF,7077,Grocery,3PL,1,1,0,1,Near Capacity,6,0.0,,,,Cheyenne,ABF FREIGHT SYSTEM INC,,,,[],,false,false,5.0
+,,6042-ANTT,ANTT,6042,Grocery,3PL,1,6,0,1,At Capacity,76,0.0,,,,Pauls Valley,ARNOLD TRANSPORTATION SERVICES INC,,,,[],1.0,false,false,12.0
+,,6042-DART,DART,6042,Grocery,3PL,2,7,0,2,At Capacity,80,0.0,,,,Pauls Valley,DART TRANSIT COMPANY,,,,[],2.0,false,false,5.0
+,,6042-DLVP,DLVP,6042,Grocery,3PL,1,7,0,1,At Capacity,79,0.0,,,,Pauls Valley,,,,,[],1.0,false,false,
+,,6042-FRCI,FRCI,6042,Grocery,3PL,3,10,0,3,At Capacity,93,0.0,,,,Pauls Valley,FREMONT CONTRACT CARRIERS INC,,,,[],3.0,false,false,9.33
+,,6042-HJBT,HJBT,6042,Grocery,3PL,1,3,0,1,At Capacity,91,0.0,,,,Pauls Valley,JB HUNT,,,,[],1.0,false,false,11.0
+,,6042-HLEX,HLEX,6042,Grocery,3PL,1,3,0,1,At Capacity,6,0.0,,,,Pauls Valley,HEARTLAND EXPRESS,,,,[],,false,false,1.0
+,,6042-ODFL,ODFL,6042,Grocery,3PL,1,11,0,1,At Capacity,38,0.0,,,,Pauls Valley,OLD DOMINION FREIGHT LINE INC,,,,[],1.0,false,false,1.0
+,,6042-PAPT,PAPT,6042,Grocery,3PL,2,13,0,2,At Capacity,36,0.0,,,,Pauls Valley,PAPER TRANSPORT LLC,,,,[],2.0,false,false,6.5
+,,6042-RVTS,RVTS,6042,Grocery,3PL,2,11,0,2,At Capacity,83,0.0,,,,Pauls Valley,RIVERSIDE TRANSPORT INC,,,,[],2.0,false,false,3.0
+,,6042-SAIA,SAIA,6042,Grocery,3PL,1,1,0,1,At Capacity,51,0.0,,,,Pauls Valley,SAIA LTL FREIGHT,,,,[],1.0,false,false,8.0
+,,6042-SDLC,SDLC,6042,Grocery,3PL,1,3,0,1,At Capacity,92,0.0,,,,Pauls Valley,SADDLE CREEK TRANSPORTATION INC,,,,[],1.0,false,false,15.0
+,,6042-SVNT,SVNT,6042,Grocery,3PL,5,12,0,5,At Capacity,50,0.0,,,,Pauls Valley,STEVENS TRUCKING CO,,,,[],5.0,true,true,10.3
+,,6042-TAMI,TAMI,6042,Grocery,3PL,1,5,0,1,At Capacity,92,0.0,,,,Pauls Valley,TRANSAM TRUCKING INC,,,,[],1.0,false,false,
+,,6042-TLIN,TLIN,6042,Grocery,3PL,2,12,0,2,At Capacity,6,0.0,,,,Pauls Valley,TRANSCO LINES INC,,,,[],,false,false,3.0
+,,6042-TNTI,TNTI,6042,Grocery,3PL,1,11,0,1,At Capacity,5,,,,,Pauls Valley,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,
+,,6042-TSBC,TSBC,6042,Grocery,3PL,1,2,0,1,At Capacity,12,0.0,,,,Pauls Valley,TRANSPORT DISTRIBUTION COMPANY,,,,[],,false,false,1.0
+,,6042-USIT,USIT,6042,Grocery,3PL,3,8,0,3,At Capacity,92,0.0,,,,Pauls Valley,USA TRUCK LLC,,,,[],3.0,false,false,10.67
+,,6042-USXT,USXT,6042,Grocery,3PL,1,2,0,1,At Capacity,18,0.0,,,,Pauls Valley,,,,,[],,false,false,5.0
+,,6042-WFLY,WFLY,6042,Grocery,3PL,1,3,0,1,At Capacity,26,0.0,,,,Pauls Valley,WESTERN FLYER EXPRESS INC,,,,[],,false,false,5.0
+,,6047-GLMJ,GLMJ,6047,Grocery,3PL,1,2,0,1,Normal Capacity,76,0.0,,,,Bedford,GLM Transport,,,,[],1.0,false,false,5.0
+,,6047-LEQO,LEQO,6047,Grocery,3PL,2,8,0,2,Normal Capacity,90,0.0,,,,Bedford,LEONARD'S EXPRESS INC,,,,[],2.0,false,false,0.5
+,,6055-ATUR,ATUR,6055,Grocery,3PL,2,1,0,2,Over Capacity,39,0.0,,,,Monroe,ARTUR EXPRESS INC,,,,[],2.0,false,false,31.5
+,,6055-CTRQ,CTRQ,6055,Grocery,3PL,2,6,0,2,Over Capacity,71,0.0,,,,Monroe,CFI,,,,[],2.0,false,false,3.0
+,,6055-CVEN,CVEN,6055,Grocery,3PL,2,9,0,2,Over Capacity,23,0.0,,,,Monroe,COVENANT TRANSPORT INC,,,,[],,false,false,5.33
+,,6055-JBHT,JBHT,6055,Grocery,3PL,1,5,0,1,Over Capacity,87,0.0,,,,Monroe,JB HUNT,,,,[],1.0,false,false,3.0
+,,6055-LTAO,LTAO,6055,Grocery,3PL,1,3,0,1,Over Capacity,25,0.0,,,,Monroe,LANDAIR TRANSPORT,,,,[],,false,false,8.0
+,,6055-MLXP,MLXP,6055,Grocery,3PL,4,13,0,4,Over Capacity,33,0.0,,,,Monroe,MILAN SUPPLY CHAIN SOLUTIONS LLC N/K/A ASCEND LLC,,,,[],4.0,true,true,25.75
+,,6055-MTNF,MTNF,6055,Grocery,3PL,1,1,0,1,Over Capacity,70,1.0,,,,Monroe,MILLIS TRANSFER INC,,,,[],1.0,false,false,38.0
+,,6055-OKLE,OKLE,6055,Grocery,3PL,2,1,0,2,Over Capacity,38,0.0,,,,Monroe,OAKLEY TRANSPORT INC,,,,[],2.0,false,false,37.5
+,,6055-SJRG,SJRG,6055,Grocery,3PL,1,10,0,1,Over Capacity,76,0.0,,,,Monroe,"SCHUGEL, J AND R TRUCKING INC",,,,[],1.0,false,false,1.0
+,,6055-SMTA,SMTA,6055,Grocery,3PL,1,4,0,1,Over Capacity,78,0.0,,,,Monroe,SMITH TRANSPORT INC,,,,[],1.0,false,false,14.0
+,,6055-TLIN,TLIN,6055,Grocery,3PL,4,13,0,4,Over Capacity,18,0.0,,,,Monroe,TRANSCO LINES INC,,,,[],,true,true,19.0
+,,6055-USXI,USXI,6055,Grocery,3PL,1,9,0,1,Over Capacity,48,0.0,,,,Monroe,U S XPRESS INC,,,,[],1.0,false,false,2.0
+,,6056-ENGC,ENGC,6056,Grocery,3PL,1,6,0,1,Normal Capacity,92,0.0,,,,Terrell,CR England,,,,[],1.0,false,false,3.0
+,,6056-NAVJ,NAVJ,6056,Grocery,3PL,1,2,0,1,Normal Capacity,83,0.0,,,,Terrell,Navajo Express,,,,[],1.0,false,false,6.0
+,,6056-PRIJ,PRIJ,6056,Grocery,3PL,1,7,0,1,Normal Capacity,81,0.0,,,,Terrell,PRIME INC,,,,[],1.0,false,false,6.0
+,,6057-CTRQ,CTRQ,6057,Grocery,3PL,1,4,0,1,At Capacity,40,0.0,,,,Hammond,CFI,,,,[],1.0,false,false,
+,,6057-DEDD,DEDD,6057,Grocery,3PL,1,3,0,1,At Capacity,86,0.0,,,,Hammond,Dedicated Transport,,,,[],1.0,false,false,8.0
+,,6057-JNJR,JNJR,6057,Grocery,3PL,3,4,0,3,At Capacity,93,0.0,,,,Hammond,JNJ EXPRESS INC,,,,[],3.0,false,false,18.75
+,,6057-JTKY,JTKY,6057,Grocery,3PL,2,8,0,2,At Capacity,78,0.0,,,,Hammond,J TRUCKING COMPANY,,,,[],2.0,false,false,14.0
+,,6057-ODFL,ODFL,6057,Grocery,3PL,1,13,0,1,At Capacity,22,0.0,,,,Hammond,OLD DOMINION FREIGHT LINE INC,,,,[],,false,false,1.5
+,,6057-STVV,STVV,6057,Grocery,3PL,1,1,0,1,At Capacity,1,0.0,,,,Hammond,STEVENS TRANSPORT INC,,,,[],,false,false,2.0
+,,6059-DART,DART,6059,Grocery,3PL,1,11,0,1,At Capacity,77,0.0,,,,Olney,DART TRANSIT COMPANY,,,,[],1.0,false,false,5.0
+,,6059-EXLA,EXLA,6059,Grocery,3PL,1,2,0,1,At Capacity,89,0.0,,,,Olney,ESTES EXPRESS LINES,,,,[],1.0,false,false,1.0
+,,6059-HJBT,HJBT,6059,Grocery,3PL,2,3,0,2,At Capacity,67,0.0,,,,Olney,JB HUNT,,,,[],2.0,false,false,11.5
+,,6059-JBHT,JBHT,6059,Grocery,3PL,1,3,0,1,At Capacity,86,0.0,,,,Olney,JB HUNT,,,,[],1.0,false,false,1.67
+,,6059-MLXO,MLXO,6059,Grocery,3PL,1,1,0,1,At Capacity,77,0.0,,,,Olney,MCLEOD EXPRESS LLC,,,,[],1.0,false,false,10.0
+,,6059-PAPT,PAPT,6059,Grocery,3PL,3,8,0,3,At Capacity,91,0.0,,,,Olney,PAPER TRANSPORT LLC,,,,[],3.0,false,false,31.67
+,,6059-RVTS,RVTS,6059,Grocery,3PL,2,4,0,2,At Capacity,72,0.0,,,,Olney,RIVERSIDE TRANSPORT INC,,,,[],2.0,false,false,40.5
+,,6059-USXI,USXI,6059,Grocery,3PL,1,6,0,1,At Capacity,63,0.0,,,,Olney,U S XPRESS INC,,,,[],1.0,false,false,5.0
+,,6064-ARND,ARND,6064,Grocery,3PL,1,2,0,1,At Capacity,65,0.0,,,,Cleburne,,,,,[],1.0,false,false,13.0
+,,6064-BYLR,BYLR,6064,Grocery,3PL,1,2,0,1,At Capacity,51,0.0,,,,Cleburne,Baylor Trucking Inc.,,,,[],1.0,false,false,5.0
+,,6064-CPIF,CPIF,6064,Grocery,3PL,2,2,0,2,At Capacity,73,0.0,,,,Cleburne,CARGO PARTNERS INTL INC,,,,[],2.0,false,false,14.0
+,,6064-CREN,CREN,6064,Grocery,3PL,1,2,0,1,At Capacity,37,0.0,,,,Cleburne,CR England,,,,[],1.0,false,false,10.0
+,,6064-FFHT,FFHT,6064,Grocery,3PL,1,2,0,1,At Capacity,60,0.0,,,,Cleburne,,,,,[],1.0,false,false,8.0
+,,6064-FRCI,FRCI,6064,Grocery,3PL,1,7,0,1,At Capacity,81,0.0,,,,Cleburne,FREMONT CONTRACT CARRIERS INC,,,,[],1.0,false,false,3.0
+,,6064-HLEX,HLEX,6064,Grocery,3PL,1,9,0,1,At Capacity,28,0.0,,,,Cleburne,HEARTLAND EXPRESS,,,,[],,false,false,2.0
+,,6064-LEGS,LEGS,6064,Grocery,3PL,1,4,0,1,At Capacity,83,0.0,,,,Cleburne,New Legend,,,,[],1.0,false,false,4.0
+,,6064-NVDD,NVDD,6064,Grocery,3PL,1,4,0,1,At Capacity,87,0.0,,,,Cleburne,Navajo Express,,,,[],1.0,false,false,8.0
+,,6064-PAPT,PAPT,6064,Grocery,3PL,2,4,0,2,At Capacity,91,0.0,,,,Cleburne,PAPER TRANSPORT LLC,,,,[],2.0,false,false,3.0
+,,6064-RDXO,RDXO,6064,Grocery,3PL,2,11,0,2,At Capacity,32,0.0,,,,Cleburne,"RAIDER EXPRESS, INC.",,,,[],2.0,false,false,6.0
+,,6064-SJRG,SJRG,6064,Grocery,3PL,1,5,0,1,At Capacity,92,0.0,,,,Cleburne,"SCHUGEL, J AND R TRUCKING INC",,,,[],1.0,false,false,2.0
+,,6064-TLIN,TLIN,6064,Grocery,3PL,1,4,0,1,At Capacity,9,0.0,,,,Cleburne,TRANSCO LINES INC,,,,[],,false,false,3.0
+,,6064-USXI,USXI,6064,Grocery,3PL,1,7,0,1,At Capacity,40,0.0,,,,Cleburne,U S XPRESS INC,,,,[],1.0,false,false,9.0
+,,6065-ROEV,ROEV,6065,Grocery,3PL,3,11,0,3,Over Capacity,70,0.0,,,,Harrisonville,ROEHL TRANSPORT INC,,,,[],3.0,false,false,8.67
+,,6071-ATGD,ATGD,6071,Grocery,3PL,2,9,0,2,Over Capacity,50,0.0,,,,Winter Haven,ATLANTIC GOOD SERVICES INC,,,,[],2.0,false,false,10.0
+,,6071-TTMS,TTMS,6071,Grocery,3PL,2,2,0,2,Over Capacity,14,0.0,,,,Winter Haven,TOTAL TRANSPORTATION OF MISSISSIPPI LLC,,,,[],,false,false,2.33
+,,6072-COOY,COOY,6072,Grocery,3PL,3,9,0,3,Over Capacity,8,0.0,,,,New Albany,,,,,[],,false,false,5.67
+,,6072-CTRQ,CTRQ,6072,Grocery,3PL,2,11,0,2,Over Capacity,20,0.0,,,,New Albany,CFI,,,,[],,false,false,11.0
+,,6072-MLXP,MLXP,6072,Grocery,3PL,1,12,0,1,Over Capacity,26,,,,,New Albany,MILAN SUPPLY CHAIN SOLUTIONS LLC N/K/A ASCEND LLC,,,,[],,false,false,
+,,6072-ODFL,ODFL,6072,Grocery,3PL,1,13,0,1,Over Capacity,85,0.0,,,,New Albany,OLD DOMINION FREIGHT LINE INC,,,,[],1.0,false,false,1.0
+,,6072-PAPT,PAPT,6072,Grocery,3PL,5,10,0,5,Over Capacity,92,0.0,,,,New Albany,PAPER TRANSPORT LLC,,,,[],5.0,true,true,58.0
+,,6072-WERE,WERE,6072,Grocery,3PL,2,8,0,2,Over Capacity,20,0.0,,,,New Albany,WERNER,,,,[],,false,false,4.0
+,,6073-AYLB,AYLB,6073,Grocery,3PL,1,1,0,1,Over Capacity,19,1.0,,,,Pageland,AY LOGISTICS INC,,,,[],,false,false,21.0
+,,6073-DART,DART,6073,Grocery,3PL,1,1,0,1,Over Capacity,8,,,,,Pageland,DART TRANSIT COMPANY,,,,[],,false,false,
+,,6073-MLXP,MLXP,6073,Grocery,3PL,5,9,0,5,Over Capacity,92,0.0,,,,Pageland,MILAN SUPPLY CHAIN SOLUTIONS LLC N/K/A ASCEND LLC,,,,[],5.0,true,true,26.4
+,,6073-MRRC,MRRC,6073,Grocery,3PL,1,2,0,1,Over Capacity,69,0.0,,,,Pageland,R C MOORE INC,,,,[],1.0,false,false,1.0
+,,6073-MTRK,MTRK,6073,Grocery,3PL,1,9,0,1,Over Capacity,35,0.0,,,,Pageland,MET EXPRESS INC,,,,[],1.0,false,false,2.0
+,,6073-PAMT,PAMT,6073,Grocery,3PL,1,5,0,1,Over Capacity,49,0.0,,,,Pageland,P A M TRANSPORT INC,,,,[],1.0,false,false,9.0
+,,6073-VOUM,VOUM,6073,Grocery,3PL,1,3,0,1,Over Capacity,91,1.0,,,,Pageland,"VOLUME TRANSPORTATION, INC.",,,,[],1.0,false,false,17.0
+,,6073-WEND,WEND,6073,Grocery,3PL,1,1,0,1,Over Capacity,13,0.0,,,,Pageland,WERNER,,,,[],,false,false,14.0
+,,6073-WVPK,WVPK,6073,Grocery,3PL,1,5,0,1,Over Capacity,91,0.0,,,,Pageland,WAVEPOINT TRUCKING COMPANY LLC,,,,[],1.0,false,false,1.0
+,,6074-SALJ,SALJ,6074,Grocery,3PL,1,12,0,1,Near Capacity,55,0.0,,,,Garrett,A.L. SMITH TRUCKING INC,,,,[],1.0,false,false,3.0
+,,6077-HIRS,HIRS,6077,Grocery,3PL,1,3,0,1,Near Capacity,3,0.0,,,,Moberly,HIRSCHBACH MOTOR LINES IN,,,,[],,false,false,1.33
+,,6077-ODFL,ODFL,6077,Grocery,3PL,1,4,0,1,Near Capacity,91,0.0,,,,Moberly,OLD DOMINION FREIGHT LINE INC,,,,[],1.0,false,false,2.0
+,,6077-PSIM,PSIM,6077,Grocery,3PL,1,5,0,1,Near Capacity,71,0.0,,,,Moberly,P S I TRANSPORTATION,,,,[],1.0,false,false,6.0
+,,6077-SHAF,SHAF,6077,Grocery,3PL,2,11,0,2,Near Capacity,84,0.0,,,,Moberly,SHAFFER TRUCKING INC,,,,[],2.0,false,false,3.0
+,,6077-SWFT,SWFT,6077,Grocery,3PL,6,2,0,6,Near Capacity,27,0.0,,,,Moberly,SWIFT,,Trailer pool should be 4 based on IB and OB volume. Swift will work on removing 4-6 trailers over the next 1.5 weeks.,2024-04-17,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,true,true,87.5
+,,6077-SWQC,SWQC,6077,Grocery,3PL,1,13,0,1,Near Capacity,28,0.0,,,,Moberly,SWIFT,,,,[],,false,false,3.0
+,,6082-CALJ,CALJ,6082,Grocery,3PL,2,12,0,2,Over Capacity,90,0.0,,,,Clarksvile,CAL-ARK,,,,[],2.0,false,false,15.0
+,,6082-CPIF,CPIF,6082,Grocery,3PL,1,3,0,1,Over Capacity,19,0.0,,,,Clarksvile,CARGO PARTNERS INTL INC,,,,[],,false,false,7.0
+,,6082-CWQS,CWQS,6082,Grocery,3PL,1,2,0,1,Over Capacity,89,0.0,,,,Clarksvile,CCS TRANSPORTATION INC,,,,[],1.0,false,false,11.0
+,,6082-DART,DART,6082,Grocery,3PL,3,9,0,3,Over Capacity,64,0.0,,,,Clarksvile,DART TRANSIT COMPANY,,,,[],3.0,false,false,12.0
+,,6082-DMCC,DMCC,6082,Grocery,3PL,3,5,0,3,Over Capacity,90,0.0,,,,Clarksvile,FREYMILLER,,,,[],3.0,false,false,17.33
+,,6082-EXLA,EXLA,6082,Grocery,3PL,1,2,0,1,Over Capacity,61,0.0,,,,Clarksvile,ESTES EXPRESS LINES,,,,[],1.0,false,false,8.0
+,,6082-FRCI,FRCI,6082,Grocery,3PL,2,11,0,2,Over Capacity,39,0.0,,,,Clarksvile,FREMONT CONTRACT CARRIERS INC,,,,[],2.0,false,false,3.0
+,,6082-HUMD,HUMD,6082,Grocery,3PL,2,11,0,2,Over Capacity,46,0.0,,,,Clarksvile,"HUMMER, DON TRUCKING CORPORATION",,,,[],2.0,false,false,3.0
+,,6082-KNIG,KNIG,6082,Grocery,3PL,4,7,0,4,Over Capacity,90,0.0,,,,Clarksvile,KNIGHT TRANSPORTATION INC,,,,[],4.0,true,true,64.0
+,,6082-PAMT,PAMT,6082,Grocery,3PL,3,3,0,3,Over Capacity,87,0.0,,,,Clarksvile,P A M TRANSPORT INC,,,,[],3.0,false,false,2.33
+,,6082-PAPT,PAPT,6082,Grocery,3PL,2,11,0,2,Over Capacity,90,0.0,,,,Clarksvile,PAPER TRANSPORT LLC,,,,[],2.0,false,false,8.5
+,,6082-PASC,PASC,6082,Grocery,3PL,1,8,0,1,Over Capacity,80,0.0,,,,Clarksvile,PASCHALL TRUCK LINES INC (KY-CORP),,,,[],1.0,false,false,4.0
+,,6082-RDLN,RDLN,6082,Grocery,3PL,4,3,0,4,Over Capacity,90,0.0,,,,Clarksvile,REDLINE INC,,,,[],4.0,true,true,23.5
+,,6082-SLXA,SLXA,6082,Grocery,3PL,2,2,0,2,Over Capacity,87,2.0,,,,Clarksvile,STALLION EXPRESS INC,,,,[],2.0,false,false,22.5
+,,6082-SVNT,SVNT,6082,Grocery,3PL,4,1,0,4,Over Capacity,11,0.0,,,,Clarksvile,STEVENS TRUCKING CO,,,,[],,true,true,5.5
+,,6082-TYSF,TYSF,6082,Grocery,3PL,1,11,0,1,Over Capacity,2,0.0,,,,Clarksvile,TYSON,,,,[],,false,false,4.0
+,,6082-USIT,USIT,6082,Grocery,3PL,5,11,0,5,Over Capacity,48,0.0,,,,Clarksvile,USA TRUCK LLC,,,,[],5.0,true,true,14.0
+,,6082-WERE,WERE,6082,Grocery,3PL,2,6,0,2,Over Capacity,74,0.0,,,,Clarksvile,WERNER,,,,[],2.0,false,false,5.0
+,,6082-WFLY,WFLY,6082,Grocery,3PL,1,10,0,1,Over Capacity,87,0.0,,,,Clarksvile,WESTERN FLYER EXPRESS INC,,,,[],1.0,false,false,2.0
+,,6082-WSGS,WSGS,6082,Grocery,3PL,2,10,0,2,Over Capacity,76,0.0,,,,Clarksvile,WEST SIDE TRANSPORT INC,,,,[],2.0,false,false,5.5
+,,6082-ZMLL,ZMLL,6082,Grocery,3PL,3,6,0,3,Over Capacity,90,0.0,,,,Clarksvile,ZERO MOUNTAIN LOGISTICS,,,,[],3.0,false,false,19.0
+,,6083-HIRS,HIRS,6083,Grocery,3PL,1,8,0,1,Near Capacity,5,0.0,,,,Temple,HIRSCHBACH MOTOR LINES IN,,,,[],,false,false,4.0
+,,6083-JBHT,JBHT,6083,Grocery,3PL,1,3,0,1,Near Capacity,66,1.0,,,,Temple,JB HUNT,,,,[],1.0,false,false,402.0
+,,6083-KNIG,KNIG,6083,Grocery,3PL,3,6,0,3,Near Capacity,80,0.0,,,,Temple,KNIGHT TRANSPORTATION INC,,,,[],3.0,false,false,9.0
+,,6083-ODFL,ODFL,6083,Grocery,3PL,2,11,0,2,Near Capacity,32,0.0,,,,Temple,OLD DOMINION FREIGHT LINE INC,,,,[],2.0,false,false,8.0
+,,6083-RYDD,RYDD,6083,Grocery,3PL,2,2,0,2,Near Capacity,71,2.0,,,,Temple,RYDER INTEGRATED LOGISTICS INC,,,,[],2.0,false,false,26.5
+,,6083-SCNN,SCNN,6083,Grocery,3PL,1,10,0,1,Near Capacity,69,0.0,,,,Temple,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",1.0,false,false,1.0
+,,6083-SDLC,SDLC,6083,Grocery,3PL,2,3,0,2,Near Capacity,85,0.0,,,,Temple,SADDLE CREEK TRANSPORTATION INC,,,,[],2.0,false,false,1.0
+,,6083-TNIN,TNIN,6083,Grocery,3PL,2,4,0,2,Near Capacity,90,2.0,,,,Temple,TRI NATIONAL,,,,[],2.0,false,false,137.5
+,,6083-USIT,USIT,6083,Grocery,3PL,2,4,0,2,Near Capacity,62,0.0,,,,Temple,USA TRUCK LLC,,,,[],2.0,false,false,
+,,6084-FTAT,FTAT,6084,Grocery,3PL,2,6,0,2,Over Capacity,89,0.0,,,,Los Lunas,FRONTIER TRANSPORTATION INC,,,,[],2.0,false,false,45.5
+,,6084-HDTI,HDTI,6084,Grocery,3PL,2,12,0,2,Over Capacity,32,0.0,,,,Los Lunas,"HERMAN, DANNY TRUCKING INC",,,,[],2.0,false,false,5.0
+,,6084-PASC,PASC,6084,Grocery,3PL,1,3,0,1,Over Capacity,89,0.0,,,,Los Lunas,PASCHALL TRUCK LINES INC (KY-CORP),,,,[],1.0,false,false,1.0
+,,6084-TCUS,TCUS,6084,Grocery,3PL,2,3,0,2,Over Capacity,49,0.0,,,,Los Lunas,TRUCKS-FOR-YOU INC,,,,[],2.0,false,false,27.0
+,,6085-AHLY,AHLY,6085,Grocery,3PL,4,12,0,4,Near Capacity,42,0.0,,,,Tobyhanna,"ASHLEY DISTRIBUTION SERVICES, LTD.",,,,[],4.0,true,true,8.25
+,,6085-CAIT,CAIT,6085,Grocery,3PL,1,2,0,1,Near Capacity,66,0.0,,,,Tobyhanna,CAINE TRANSFER,,,,[],1.0,false,false,14.0
+,,6085-ENGC,ENGC,6085,Grocery,3PL,3,11,0,3,Near Capacity,27,0.0,,,,Tobyhanna,CR England,,,,[],,false,false,14.0
+,,6085-FXFE,FXFE,6085,Grocery,3PL,1,1,0,1,Near Capacity,86,0.0,,,,Tobyhanna,FEDEX FREIGHT (FEDEX FREIGHT EAST INC),,,,[],1.0,false,false,11.0
+,,6085-LUAC,LUAC,6085,Grocery,3PL,1,1,0,1,Near Capacity,1,,,,,Tobyhanna,,,,,[],,false,false,
+,,6085-ODFL,ODFL,6085,Grocery,3PL,1,11,0,1,Near Capacity,2,0.0,,,,Tobyhanna,OLD DOMINION FREIGHT LINE INC,,,,[],,false,false,1.5
+,,6085-OTRV,OTRV,6085,Grocery,3PL,1,5,0,1,Near Capacity,35,0.0,,,,Tobyhanna,,,,,[],1.0,false,false,7.0
+,,6085-PFLD,PFLD,6085,Grocery,3PL,2,7,0,2,Near Capacity,84,0.0,,,,Tobyhanna,PLAINFIELD TRUCKING INC,,,,[],2.0,false,false,14.0
+,,6085-SWFT,SWFT,6085,Grocery,3PL,1,6,0,1,Near Capacity,89,0.0,,,,Tobyhanna,SWIFT,,,,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",1.0,false,false,2.5
+,,6085-TLIN,TLIN,6085,Grocery,3PL,2,1,0,2,Near Capacity,80,2.0,,,,Tobyhanna,TRANSCO LINES INC,,,,[],2.0,false,false,61.5
+,,6090-ANDS,ANDS,6090,Grocery,3PL,2,8,0,2,At Capacity,82,0.0,,,,Corinne,COREY ANDERSON TRUCKING LLC,,,,[],2.0,false,false,7.5
+,,6090-ATJL,ATJL,6090,Grocery,3PL,1,2,0,1,At Capacity,11,,,,,Corinne,ATS,,,,[],,false,false,
+,,6090-CREN,CREN,6090,Grocery,3PL,2,11,0,2,At Capacity,81,0.0,,,,Corinne,CR England,,,,[],2.0,false,false,8.0
+,,6090-HUMD,HUMD,6090,Grocery,3PL,1,10,0,1,At Capacity,16,,,,,Corinne,"HUMMER, DON TRUCKING CORPORATION",,,,[],,false,false,
+,,6090-ODFL,ODFL,6090,Grocery,3PL,1,12,0,1,At Capacity,7,0.0,,,,Corinne,OLD DOMINION FREIGHT LINE INC,,,,[],,false,false,2.0
+,,6090-OTRE,OTRE,6090,Grocery,3PL,1,1,0,1,At Capacity,19,0.0,,,,Corinne,,,,,[],,false,false,14.0
+,,6090-SAPI,SAPI,6090,Grocery,3PL,1,6,0,1,At Capacity,27,,,,,Corinne,,,,,[],,false,false,
+,,6090-SPXQ,SPXQ,6090,Grocery,3PL,2,11,0,2,At Capacity,66,0.0,,,,Corinne,SHIPEX INC,,,,[],2.0,false,false,7.0
+,,6090-UDLC,UDLC,6090,Grocery,3PL,1,2,0,1,At Capacity,25,0.0,,,,Corinne,UPDIKE DISTRIBUTION LOGISTICS LLC,,,,[],,false,false,11.0
+,,6095-CLAM,CLAM,6095,Grocery,3PL,1,3,0,1,Near Capacity,75,0.0,,,,Opelika,CROWLEY LATIN AMERICA SERVICES LLC,,,,[],1.0,false,false,4.0
+,,6095-CPIF,CPIF,6095,Grocery,3PL,4,3,0,4,Near Capacity,89,0.0,,,,Opelika,CARGO PARTNERS INTL INC,,,,[],4.0,true,true,50.0
+,,6095-EXLA,EXLA,6095,Grocery,3PL,2,2,0,2,Near Capacity,56,0.0,,,,Opelika,ESTES EXPRESS LINES,,,,[],2.0,false,false,32.5
+,,6095-FXFE,FXFE,6095,Grocery,3PL,1,1,0,1,Near Capacity,31,0.0,,,,Opelika,FEDEX FREIGHT (FEDEX FREIGHT EAST INC),,,,[],1.0,false,false,7.0
+,,6095-LUAC,LUAC,6095,Grocery,3PL,1,2,0,1,Near Capacity,2,0.0,,,,Opelika,,,,,[],,false,false,4.0
+,,6095-MTNF,MTNF,6095,Grocery,3PL,1,2,0,1,Near Capacity,70,1.0,,,,Opelika,MILLIS TRANSFER INC,,,,[],1.0,false,false,17.0
+,,6095-ODFL,ODFL,6095,Grocery,3PL,2,7,0,2,Near Capacity,81,0.0,,,,Opelika,OLD DOMINION FREIGHT LINE INC,,,,[],2.0,false,false,10.5
+,,6095-ROEV,ROEV,6095,Grocery,3PL,1,7,0,1,Near Capacity,84,0.0,,,,Opelika,ROEHL TRANSPORT INC,,,,[],1.0,false,false,6.0
+,,6095-SAIA,SAIA,6095,Grocery,3PL,1,1,0,1,Near Capacity,27,1.0,,,,Opelika,SAIA LTL FREIGHT,,,,[],,false,false,29.0
+,,6095-SDLC,SDLC,6095,Grocery,3PL,1,2,0,1,Near Capacity,48,1.0,,,,Opelika,SADDLE CREEK TRANSPORTATION INC,,,,[],1.0,false,false,5789.0
+,,6095-TTMA,TTMA,6095,Grocery,3PL,4,11,0,4,Near Capacity,51,0.0,,,,Opelika,TOTAL TRANSPORTATION OF MISSISSIPPI LLC,,,,[],4.0,true,true,5.0
+,,6095-WENP,WENP,6095,Grocery,3PL,3,4,0,3,Near Capacity,78,0.0,,,,Opelika,WERNER,,,,[],3.0,false,false,26.33
+,,6096-HJBT,HJBT,6096,Grocery,3PL,1,11,0,1,At Capacity,16,0.0,,,,Johnstown,JB HUNT,,,,[],,false,false,3.0
+,,6096-JBHT,JBHT,6096,Grocery,3PL,7,8,0,7,At Capacity,90,0.0,,,,Johnstown,JB HUNT,,,,[],7.0,true,true,14.25
+,,6096-LEQO,LEQO,6096,Grocery,3PL,2,5,0,2,At Capacity,64,0.0,,,,Johnstown,LEONARD'S EXPRESS INC,,,,[],2.0,false,false,15.0
+,,6096-ODFL,ODFL,6096,Grocery,3PL,2,9,0,2,At Capacity,58,0.0,,,,Johnstown,OLD DOMINION FREIGHT LINE INC,,,,[],2.0,false,false,7.5
+,,6096-SCDS,SCDS,6096,Grocery,3PL,1,9,0,1,At Capacity,23,0.0,,,,Johnstown,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,4.0
+,,6096-SNIK,SNIK,6096,Grocery,3PL,1,6,0,1,At Capacity,81,0.0,,,,Johnstown,"STRIMBU, NICK INC",,,,[],1.0,false,false,3.0
+,,6097-CVEN,CVEN,6097,Grocery,3PL,2,12,0,2,At Capacity,86,0.0,,,,London,COVENANT TRANSPORT INC,,,,[],2.0,false,false,5.5
+,,6097-EPES,EPES,6097,Grocery,3PL,4,9,0,4,At Capacity,90,0.0,,,,London,EPES TRANSPORT SYSTEM INCORPORATED,,,,[],4.0,true,true,14.75
+,,6097-EXLA,EXLA,6097,Grocery,3PL,1,1,0,1,At Capacity,64,0.0,,,,London,ESTES EXPRESS LINES,,,,[],1.0,false,false,9.0
+,,6097-MTEN,MTEN,6097,Grocery,3PL,1,7,0,1,At Capacity,55,0.0,,,,London,MARTEN TRANSPORT LTD,,,,[],1.0,false,false,4.0
+,,6097-PAMT,PAMT,6097,Grocery,3PL,1,4,0,1,At Capacity,64,0.0,,,,London,P A M TRANSPORT INC,,,,[],1.0,false,false,6.0
+,,6097-PPEA,PPEA,6097,Grocery,3PL,1,6,0,1,At Capacity,87,0.0,,,,London,TUCKER FREIGHT LINES,,,,[],1.0,false,false,5.0
+,,6097-RVTS,RVTS,6097,Grocery,3PL,2,13,0,2,At Capacity,1,0.0,,,,London,RIVERSIDE TRANSPORT INC,,,,[],,false,false,4.0
+,,6097-RYDD,RYDD,6097,Grocery,3PL,2,11,0,2,At Capacity,59,0.0,,,,London,RYDER INTEGRATED LOGISTICS INC,,,,[],2.0,false,false,7.0
+,,6097-TLIN,TLIN,6097,Grocery,3PL,3,13,0,3,At Capacity,45,0.0,,,,London,TRANSCO LINES INC,,,,[],3.0,false,false,16.5
+,,6097-TTGO,TTGO,6097,Grocery,3PL,1,2,0,1,At Capacity,88,0.0,,,,London,TRIO TRUCKING INC,,,,[],1.0,false,false,5.0
+,,6099-CLAM,CLAM,6099,Grocery,3PL,2,2,0,2,Near Capacity,2,0.0,,,,Macclenny,CROWLEY LATIN AMERICA SERVICES LLC,,,,[],,false,false,2.0
+,,6099-CRAM,CRAM,6099,Grocery,3PL,9,1,0,9,Near Capacity,14,0.0,,,,Macclenny,CROWLEY LOGISTICS LLC,,,,[],,true,true,52.0
+,,6099-WEND,WEND,6099,Grocery,3PL,2,6,0,2,Near Capacity,80,0.0,,,,Macclenny,WERNER,,,,[],2.0,false,false,7.5
+,,6099-WERE,WERE,6099,Grocery,3PL,1,3,0,1,Near Capacity,79,1.0,,,,Macclenny,WERNER,,,,[],1.0,false,false,18.0
+,,7010-LXGP,LXGP,7010,Grocery,3PL,4,9,0,4,At Capacity,90,0.0,,,,New Caney,LOGISTICS TRANSPORTATION INC,,,,[],4.0,true,true,15.25
+,,7012-BEHQ,BEHQ,7012,Grocery,3PL,2,8,0,2,At Capacity,90,0.0,,,,Washington Court House,BEHNKE INC,,,,[],2.0,false,false,7.0
+,,7012-CPIF,CPIF,7012,Grocery,3PL,1,8,0,1,At Capacity,23,,,,,Washington Court House,CARGO PARTNERS INTL INC,,,,[],,false,false,
+,,7012-HIRS,HIRS,7012,Grocery,3PL,3,7,0,3,At Capacity,90,0.0,,,,Washington Court House,HIRSCHBACH MOTOR LINES IN,,,,[],3.0,false,false,9.33
+,,7012-JBHT,JBHT,7012,Grocery,3PL,1,6,0,1,At Capacity,71,0.0,,,,Washington Court House,JB HUNT,,,,[],1.0,false,false,
+,,7012-PAPT,PAPT,7012,Grocery,3PL,1,8,0,1,At Capacity,77,0.0,,,,Washington Court House,PAPER TRANSPORT LLC,,,,[],1.0,false,false,7.0
+,,7012-RCXB,RCXB,7012,Grocery,3PL,2,11,0,2,At Capacity,49,0.0,,,,Washington Court House,RED CLASSIC TRANSIT LLC,,,,[],2.0,false,false,4.0
+,,7012-SHAF,SHAF,7012,Grocery,3PL,1,9,0,1,At Capacity,38,0.0,,,,Washington Court House,SHAFFER TRUCKING INC,,,,[],1.0,false,false,2.5
+,,7013-HAEI,HAEI,7013,Grocery,3PL,1,5,0,1,At Capacity,48,0.0,,,,Casa Grande,HEARTLAND EXPRESS SERVICES INC,,,,[],1.0,false,false,14.0
+,,7014-ACXJ,ACXJ,7014,Grocery,3PL,1,4,0,1,Near Capacity,81,0.0,,,,Lewiston,A-C MOTOR EXPRESS LLC,,,,[],1.0,false,false,3.0
+,,7014-CBRD,CBRD,7014,Grocery,3PL,1,9,0,1,Near Capacity,37,0.0,,,,Lewiston,"CHAMBERLAND, R F INC",,,,[],1.0,false,false,7.0
+,,7014-DUTM,DUTM,7014,Grocery,3PL,2,2,0,2,Near Capacity,84,0.0,,,,Lewiston,DUTCH MAID PRODUCE INC,,,,[],2.0,false,false,27.0
+,,7014-GILL,GILL,7014,Grocery,3PL,2,12,0,2,Near Capacity,24,0.0,,,,Lewiston,G & I LOGISTICS INC,,,,[],,false,false,5.0
+,,7014-HIRS,HIRS,7014,Grocery,3PL,1,4,0,1,Near Capacity,58,0.0,,,,Lewiston,HIRSCHBACH MOTOR LINES IN,,,,[],1.0,false,false,13.0
+,,7014-LRGR,LRGR,7014,Grocery,3PL,1,3,0,1,Near Capacity,80,0.0,,,,Lewiston,LANDSTAR RANGER INC,,,,[],1.0,false,false,7.0
+,,7014-MDLD,MDLD,7014,Grocery,3PL,1,1,0,1,Near Capacity,16,1.0,,,,Lewiston,MIDLAND TRANSPORT LIMITED,,,,[],,false,false,18.0
+,,7014-NAFT,NAFT,7014,Grocery,3PL,2,4,0,2,Near Capacity,29,0.0,,,,Lewiston,NFI TRANSPORTATION,,,,[],,false,false,2.0
+,,7014-NFTI,NFTI,7014,Grocery,3PL,1,9,0,1,Near Capacity,22,1.0,,,,Lewiston,NFI INTERACTIVE LOGISTICS LLC,,,,[],,false,false,20.0
+,,7014-NRTT,NRTT,7014,Grocery,3PL,2,9,0,2,Near Capacity,57,0.0,,,,Lewiston,NORTHEAST TRANSPORT INC,,,,[],2.0,false,false,4.5
+,,7014-ODFL,ODFL,7014,Grocery,3PL,1,6,0,1,Near Capacity,58,0.0,,,,Lewiston,OLD DOMINION FREIGHT LINE INC,,,,[],1.0,false,false,3.0
+,,7014-SCDS,SCDS,7014,Grocery,3PL,2,4,0,2,Near Capacity,17,0.0,,,,Lewiston,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,6.0
+,,7014-SCNN,SCNN,7014,Grocery,3PL,1,5,0,1,Near Capacity,24,0.0,,,,Lewiston,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,2.0
+,,7014-SMTA,SMTA,7014,Grocery,3PL,3,10,0,3,Near Capacity,17,0.0,,,,Lewiston,SMITH TRANSPORT INC,,,,[],,false,false,2.0
+,,7014-YARL,YARL,7014,Grocery,3PL,1,1,0,1,Near Capacity,33,0.0,,,,Lewiston,,,,,[],1.0,false,false,7.0
+,,7015-ANTT,ANTT,7015,Grocery,3PL,2,3,0,2,Over Capacity,89,0.0,,,,Bartlesville,ARNOLD TRANSPORTATION SERVICES INC,,,,[],2.0,false,false,16.0
+,,7015-COXS,COXS,7015,Grocery,3PL,1,13,0,1,Over Capacity,13,0.0,,,,Bartlesville,"CONTINENTAL EXPRESS, INC.",,,,[],,false,false,2.5
+,,7015-DART,DART,7015,Grocery,3PL,3,7,0,3,Over Capacity,83,0.0,,,,Bartlesville,DART TRANSIT COMPANY,,,,[],3.0,false,false,4.0
+,,7015-HLEX,HLEX,7015,Grocery,3PL,4,12,0,4,Over Capacity,52,0.0,,,,Bartlesville,HEARTLAND EXPRESS,,,,[],4.0,true,true,3.25
+,,7015-JBHT,JBHT,7015,Grocery,3PL,5,8,0,5,Over Capacity,90,0.0,,,,Bartlesville,JB HUNT,,,,[],5.0,true,true,32.75
+,,7015-PRPD,PRPD,7015,Grocery,3PL,1,7,0,1,Over Capacity,11,,,,,Bartlesville,,,,,[],,false,false,
+,,7015-RYDD,RYDD,7015,Grocery,3PL,1,3,0,1,Over Capacity,39,1.0,,,,Bartlesville,RYDER INTEGRATED LOGISTICS INC,,,,[],1.0,false,false,21.0
+,,7015-SVNT,SVNT,7015,Grocery,3PL,7,12,0,7,Over Capacity,56,0.0,,,,Bartlesville,STEVENS TRUCKING CO,,,,[],7.0,true,true,10.86
+,,7015-TFYI,TFYI,7015,Grocery,3PL,1,4,0,1,Over Capacity,61,0.0,,,,Bartlesville,TRUCKS FOR YOU INC,,,,[],1.0,false,false,3.0
+,,7016-ENGA,ENGA,7016,Grocery,3PL,5,5,0,5,At Capacity,90,0.0,,,,Gordonsville,"ENGLAND, C R INC (ENGLAND DEDICATED)",,,,[],5.0,true,true,11.6
+,,7016-ENGC,ENGC,7016,Grocery,3PL,1,5,0,1,At Capacity,83,0.0,,,,Gordonsville,CR England,,,,[],1.0,false,false,5.0
+,,7016-KNIG,KNIG,7016,Grocery,3PL,1,1,0,1,At Capacity,87,0.0,,,,Gordonsville,KNIGHT TRANSPORTATION INC,,,,[],1.0,false,false,5.0
+,,7016-LWRS,LWRS,7016,Grocery,3PL,1,3,0,1,At Capacity,78,,,,,Gordonsville,LAWRENCE TRANSPORTATION SYSTEMS INC,,,,[],1.0,false,false,
+,,7016-NFIL,NFIL,7016,Grocery,3PL,1,1,0,1,At Capacity,3,0.0,,,,Gordonsville,NFI INTERACTIVE LOGISTICS LLC,,,,[],,false,false,5.0
+,,7016-PAPT,PAPT,7016,Grocery,3PL,2,10,0,2,At Capacity,90,0.0,,,,Gordonsville,PAPER TRANSPORT LLC,,,,[],2.0,false,false,10.0
+,,7016-PASC,PASC,7016,Grocery,3PL,1,3,0,1,At Capacity,80,0.0,,,,Gordonsville,PASCHALL TRUCK LINES INC (KY-CORP),,,,[],1.0,false,false,4.0
+,,7016-VOUM,VOUM,7016,Grocery,3PL,1,1,0,1,At Capacity,46,1.0,,,,Gordonsville,"VOLUME TRANSPORTATION, INC.",,,,[],1.0,false,false,16.0
+,,7017-ECMT,ECMT,7017,Grocery,3PL,4,3,0,4,At Capacity,90,0.0,,,,Wintersville,E C M TRANSPORT LLC,,,,[],4.0,true,true,38.5
+,,7017-JATV,JATV,7017,Grocery,3PL,2,9,0,2,At Capacity,90,0.0,,,,Wintersville,JAT of Fort Wayne Inc,,,,[],2.0,false,false,7.5
+,,7017-KNIG,KNIG,7017,Grocery,3PL,2,1,0,2,At Capacity,63,2.0,,,,Wintersville,KNIGHT TRANSPORTATION INC,,,,[],2.0,false,false,35.0
+,,7017-MTRK,MTRK,7017,Grocery,3PL,1,4,0,1,At Capacity,59,0.0,,,,Wintersville,MET EXPRESS INC,,,,[],1.0,false,false,3.0
+,,7017-MTUO,MTUO,7017,Grocery,3PL,1,3,0,1,At Capacity,64,0.0,,,,Wintersville,MAST TRUCKING INC,,,,[],1.0,false,false,48.0
+,,7017-RCXB,RCXB,7017,Grocery,3PL,1,11,0,1,At Capacity,59,0.0,,,,Wintersville,RED CLASSIC TRANSIT LLC,,,,[],1.0,false,false,6.0
+,,7017-SEDA,SEDA,7017,Grocery,3PL,2,9,0,2,At Capacity,79,0.0,,,,Wintersville,SUPERIOR SUGARDALE MEATS,,,,[],2.0,false,false,4.0
+,,7017-SHAF,SHAF,7017,Grocery,3PL,1,7,0,1,At Capacity,56,0.0,,,,Wintersville,SHAFFER TRUCKING INC,,,,[],1.0,false,false,2.0
+,,7017-STVV,STVV,7017,Grocery,3PL,2,11,0,2,At Capacity,82,0.0,,,,Wintersville,STEVENS TRANSPORT INC,,,,[],2.0,false,false,3.0
+,,7018-ASLO,ASLO,7018,Grocery,3PL,1,1,0,1,At Capacity,64,0.0,,,,North Platte,AMERICAS SERVICE LINE LLC,,,,[],1.0,false,false,11.0
+,,7018-DEKR,DEKR,7018,Grocery,3PL,1,2,0,1,At Capacity,88,0.0,,,,North Platte,DECKER TRUCK LINE,,,,[],1.0,false,false,15.0
+,,7018-GOMI,GOMI,7018,Grocery,3PL,1,1,0,1,At Capacity,87,1.0,,,,North Platte,GREATER OMAHA EXPRESS LLC,,,,[],1.0,false,false,22.0
+,,7018-JAKO,JAKO,7018,Grocery,3PL,1,1,0,1,At Capacity,82,0.0,,,,North Platte,JACKO LOGISTICS LLC,,,,[],1.0,false,false,14.0
+,,7018-KNIG,KNIG,7018,Grocery,3PL,2,11,0,2,At Capacity,89,0.0,,,,North Platte,KNIGHT TRANSPORTATION INC,,,,[],2.0,false,false,7.0
+,,7018-MWEX,MWEX,7018,Grocery,3PL,1,6,0,1,At Capacity,88,0.0,,,,North Platte,MIDWEST EXPRESS,,,,[],1.0,false,false,8.5
+,,7018-MWSE,MWSE,7018,Grocery,3PL,1,2,0,1,At Capacity,79,0.0,,,,North Platte,MIDWEST EXPRESS CORPORATION,,,,[],1.0,false,false,6.0
+,,7018-NEBT,NEBT,7018,Grocery,3PL,1,4,0,1,At Capacity,16,0.0,,,,North Platte,Nebraska Transport Co,,,,[],,false,false,8.0
+,,7018-ODFL,ODFL,7018,Grocery,3PL,1,13,0,1,At Capacity,7,0.0,,,,North Platte,OLD DOMINION FREIGHT LINE INC,,,,[],,false,false,5.5
+,,7018-RVTS,RVTS,7018,Grocery,3PL,1,1,0,1,At Capacity,49,0.0,,,,North Platte,RIVERSIDE TRANSPORT INC,,,,[],1.0,false,false,3.0
+,,7018-RYDD,RYDD,7018,Grocery,3PL,2,8,0,2,At Capacity,82,0.0,,,,North Platte,RYDER INTEGRATED LOGISTICS INC,,,,[],2.0,false,false,5.0
+,,7018-SWFT,SWFT,7018,Grocery,3PL,3,9,0,3,At Capacity,77,0.0,,,,North Platte,SWIFT,,"We have a new center point lane for this location, coming out of Fontana. we need to maintain three trailers",,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",3.0,false,false,30.25
+,,7018-TTJE,TTJE,7018,Grocery,3PL,3,12,0,3,At Capacity,66,0.0,,,,North Platte,TIMMONS TRANSIT INC,,,,[],3.0,false,false,13.25
+,,7019-CRFS,CRFS,7019,Grocery,3PL,1,3,0,1,At Capacity,63,0.0,,,,Brundidge,SWIFT,,,,"[{'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}]",1.0,false,false,14.0
+,,7019-ODFL,ODFL,7019,Grocery,3PL,2,10,0,2,At Capacity,89,0.0,,,,Brundidge,OLD DOMINION FREIGHT LINE INC,,,,[],2.0,false,false,7.0
+,,7019-PAPT,PAPT,7019,Grocery,3PL,1,1,0,1,At Capacity,10,0.0,,,,Brundidge,PAPER TRANSPORT LLC,,,,[],,false,false,
+,,7019-ROEV,ROEV,7019,Grocery,3PL,1,2,0,1,At Capacity,74,0.0,,,,Brundidge,ROEHL TRANSPORT INC,,,,[],1.0,false,false,9.0
+,,7019-WERE,WERE,7019,Grocery,3PL,1,12,0,1,At Capacity,6,0.0,,,,Brundidge,WERNER,,,,[],,false,false,1.0
+,,7021-APGD,APGD,7021,Grocery,3PL,2,6,0,2,Over Capacity,64,0.0,,,,Grandview,ASHLEY PNW,,,,[],2.0,false,false,6.0
+,,7021-TNTI,TNTI,7021,Grocery,3PL,3,9,0,3,Over Capacity,65,0.0,,,,Grandview,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",3.0,false,false,3.25
+,,7023-ARKA,ARKA,7023,Grocery,3PL,1,1,0,1,Over Capacity,2,0.0,,,,Arcadia,,,,,[],,false,false,3.0
+,,7023-CYLI,CYLI,7023,Grocery,3PL,5,12,0,5,Over Capacity,33,0.0,,,,Arcadia,CROWLEY LOGISTRICS INC,,,,[],5.0,true,true,6.2
+,,7023-EQUT,EQUT,7023,Grocery,3PL,1,1,0,1,Over Capacity,50,1.0,,,,Arcadia,EQUITY TRANSPORTATION COMPANY INC,,,,[],1.0,false,false,19.0
+,,7023-FCLC,FCLC,7023,Grocery,3PL,1,4,0,1,Over Capacity,2,0.0,,,,Arcadia,CARROLL FULMER,,,,[],,false,false,1.0
+,,7023-GGER,GGER,7023,Grocery,3PL,2,13,0,2,Over Capacity,1,0.0,,,,Arcadia,GINGERICH INC,,,,[],,false,false,2.0
+,,7023-JBHT,JBHT,7023,Grocery,3PL,1,1,0,1,Over Capacity,24,0.0,,,,Arcadia,JB HUNT,,,,[],,false,false,1.0
+,,7023-KNIG,KNIG,7023,Grocery,3PL,3,9,0,3,Over Capacity,90,0.0,,,,Arcadia,KNIGHT TRANSPORTATION INC,,,,[],3.0,false,false,14.0
+,,7023-SBAN,SBAN,7023,Grocery,3PL,3,11,0,3,Over Capacity,15,0.0,,,,Arcadia,Sabal Transport Inc.,,,,[],,false,false,2.0
+,,7023-SBJA,SBJA,7023,Grocery,3PL,1,12,0,1,Over Capacity,14,0.0,,,,Arcadia,,,,,[],,false,false,1.5
+,,7023-SRTJ,SRTJ,7023,Grocery,3PL,2,12,0,2,Over Capacity,89,0.0,,,,Arcadia,STAR TRANSPORT LOGISTICS INC,,,,[],2.0,false,false,1.5
+,,7023-WIEL,WIEL,7023,Grocery,3PL,1,11,0,1,Over Capacity,21,0.0,,,,Arcadia,WEL Companies Inc,,,,[],,false,false,1.0
+,,7024-HJBR,HJBR,7024,Grocery,3PL,1,1,0,1,Over Capacity,2,0.0,,,,Sterling,,,,,[],,false,false,2.0
+,,7024-NUWT,NUWT,7024,Grocery,3PL,1,12,0,1,Over Capacity,89,0.0,,,,Sterling,NU-WAY TRANSPORTATION SERVICES INC,,,,[],1.0,false,false,2.0
+,,7024-ROEV,ROEV,7024,Grocery,3PL,3,10,0,3,Over Capacity,74,0.0,,,,Sterling,ROEHL TRANSPORT INC,,,,[],3.0,false,false,15.33
+,,7024-RYDD,RYDD,7024,Grocery,3PL,2,13,0,2,Over Capacity,45,0.0,,,,Sterling,RYDER INTEGRATED LOGISTICS INC,,,,[],2.0,false,false,4.5
+,,7030-DMRA,DMRA,7030,Grocery,3PL,3,12,0,3,Near Capacity,86,0.0,,,,Pottsville,D & M TRANSPORTATION SOLUTIONS LLC,,,,[],3.0,false,false,5.5
+,,7030-ENGC,ENGC,7030,Grocery,3PL,2,2,0,2,Near Capacity,17,0.0,,,,Pottsville,CR England,,,,[],,false,false,66.0
+,,7030-FNLL,FNLL,7030,Grocery,3PL,1,13,0,1,Near Capacity,67,0.0,,,,Pottsville,FANELLI BROTHERS TRUCKING COMPANY,,,,[],1.0,false,false,1.0
+,,7030-HART,HART,7030,Grocery,3PL,1,2,0,1,Near Capacity,4,0.0,,,,Pottsville,,,,,[],,false,false,2.0
+,,7030-HTSH,HTSH,7030,Grocery,3PL,2,2,0,2,Near Capacity,28,0.0,,,,Pottsville,HIRSCHBACH TRANSPORTATION SERVICES INC,,,,[],,false,false,8.0
+,,7030-ODFL,ODFL,7030,Grocery,3PL,1,11,0,1,Near Capacity,27,0.0,,,,Pottsville,OLD DOMINION FREIGHT LINE INC,,,,[],,false,false,1.0
+,,7030-SHAF,SHAF,7030,Grocery,3PL,3,12,0,3,Near Capacity,43,0.0,,,,Pottsville,SHAFFER TRUCKING INC,,,,[],3.0,false,false,7.67
+,,7030-SMTA,SMTA,7030,Grocery,3PL,1,6,0,1,Near Capacity,79,0.0,,,,Pottsville,SMITH TRANSPORT INC,,,,[],1.0,false,false,4.0
+,,7047-ATUR,ATUR,7047,Grocery,3PL,1,13,0,1,Normal Capacity,5,0.0,,,,Fontana,ARTUR EXPRESS INC,,,,[],,false,false,2.0
+,,7047-CRHY,CRHY,7047,Grocery,3PL,1,5,0,1,Normal Capacity,39,,,,,Fontana,Cargo Solutions Express Inc,,,,[],1.0,false,false,
+,,7047-PGLI,PGLI,7047,Grocery,3PL,1,6,0,1,Normal Capacity,27,,,,,Fontana,,,,,[],,false,false,
+,,7047-SNRS,SNRS,7047,Grocery,3PL,1,8,0,1,Normal Capacity,78,0.0,,,,Fontana,SUNRISE EXPRESS INC,,,,[],1.0,false,false,1.0
+,,7048-CRFS,CRFS,7048,Grocery,3PL,1,5,0,1,Over Capacity,5,0.0,,,,McCarran,SWIFT,,,,"[{'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}]",,false,false,3.0
+,,7048-FTAT,FTAT,7048,Grocery,3PL,2,9,0,2,Over Capacity,38,0.0,,,,McCarran,FRONTIER TRANSPORTATION INC,,,,[],2.0,false,false,16.0
+,,7048-JBHT,JBHT,7048,Grocery,3PL,6,4,0,6,Over Capacity,87,0.0,,,,McCarran,JB HUNT,,,,[],6.0,true,true,45.17
+,,7048-TTLQ,TTLQ,7048,Grocery,3PL,1,13,0,1,Over Capacity,4,0.0,,,,McCarran,Taylor Truckline INC.,,,,[],,false,false,39.0
+,,7055-HAEI,HAEI,7055,Grocery,3PL,1,7,0,1,Near Capacity,37,0.0,,,,Gas City,HEARTLAND EXPRESS SERVICES INC,,,,[],1.0,false,false,2.0
+,,7055-JATV,JATV,7055,Grocery,3PL,1,5,0,1,Near Capacity,79,0.0,,,,Gas City,JAT of Fort Wayne Inc,,,,[],1.0,false,false,4.0
+,,7055-NUWT,NUWT,7055,Grocery,3PL,1,11,0,1,Near Capacity,80,0.0,,,,Gas City,NU-WAY TRANSPORTATION SERVICES INC,,,,[],1.0,false,false,
+,,7055-USIT,USIT,7055,Grocery,3PL,1,1,0,1,Near Capacity,28,1.0,,,,Gas City,USA TRUCK LLC,,,,[],,false,false,24.0
+,,7077-ADNS,ADNS,7077,Grocery,3PL,2,7,0,2,Near Capacity,86,0.0,,,,Cheyenne,DOUG ANDRUS DISTRIBUTION,,,,[],2.0,false,false,4.5
+,,7077-BTAK,BTAK,7077,Grocery,3PL,1,6,0,1,Near Capacity,82,0.0,,,,Cheyenne,BUTLER TRANSPORT INC,,,,[],1.0,false,false,5.0
+,,7077-ENGC,ENGC,7077,Grocery,3PL,1,3,0,1,Near Capacity,13,0.0,,,,Cheyenne,CR England,,,,[],,false,false,3.0
+,,7077-FXFE,FXFE,7077,Grocery,3PL,1,1,0,1,Near Capacity,62,0.0,,,,Cheyenne,FEDEX FREIGHT (FEDEX FREIGHT EAST INC),,,,[],1.0,false,false,3.0
+,,7077-GUMA,GUMA,7077,Grocery,3PL,1,4,0,1,Near Capacity,76,0.0,,,,Cheyenne,GULICK TRUCKING INC,,,,[],1.0,false,false,3.0
+,,7077-HLBO,HLBO,7077,Grocery,3PL,1,4,0,1,Near Capacity,81,0.0,,,,Cheyenne,HILL BROTHERS TRANSPORTATION INC,,,,[],1.0,false,false,6.0
+,,7077-HLEX,HLEX,7077,Grocery,3PL,3,3,0,3,Near Capacity,11,0.0,,,,Cheyenne,HEARTLAND EXPRESS,,,,[],,false,false,2.0
+,,7077-HUMD,HUMD,7077,Grocery,3PL,1,2,0,1,Near Capacity,41,0.0,,,,Cheyenne,"HUMMER, DON TRUCKING CORPORATION",,,,[],1.0,false,false,1.0
+,,7077-JAKO,JAKO,7077,Grocery,3PL,2,4,0,2,Near Capacity,87,0.0,,,,Cheyenne,JACKO LOGISTICS LLC,,,,[],2.0,false,false,8.5
+,,7077-KRZE,KRZE,7077,Grocery,3PL,2,8,0,2,Near Capacity,87,0.0,,,,Cheyenne,KRAZE TRUCKING,,,,[],2.0,false,false,5.0
+,,7077-RYDD,RYDD,7077,Grocery,3PL,1,4,0,1,Near Capacity,85,0.0,,,,Cheyenne,RYDER INTEGRATED LOGISTICS INC,,,,[],1.0,false,false,2.0
+,,7077-SHKE,SHKE,7077,Grocery,3PL,3,11,0,3,Near Capacity,87,0.0,,,,Cheyenne,SHARKEY TRANSPORTATION INC,,,,[],3.0,false,false,3.5
+,,7077-SIAH,SIAH,7077,Grocery,3PL,1,1,0,1,Near Capacity,4,0.0,,,,Cheyenne,,,,,[],,false,false,5.0
+,,7077-SNRS,SNRS,7077,Grocery,3PL,2,13,0,2,Near Capacity,26,0.0,,,,Cheyenne,SUNRISE EXPRESS INC,,,,[],,false,false,10.0
+,,7077-WFLY,WFLY,7077,Grocery,3PL,1,4,0,1,Near Capacity,80,0.0,,,,Cheyenne,WESTERN FLYER EXPRESS INC,,,,[],1.0,false,false,2.0
+,,7079-AAXB,AAXB,7079,Grocery,3PL,1,1,0,1,Near Capacity,18,0.0,,,,Mankato,A & A EXPRESS,,,,[],,false,false,4.0
+,,7079-FTNA,FTNA,7079,Grocery,3PL,1,10,0,1,Near Capacity,39,0.0,,,,Mankato,Fortune Transportation,,,,[],1.0,false,false,1.0
+,,7079-HLBO,HLBO,7079,Grocery,3PL,1,6,0,1,Near Capacity,54,0.0,,,,Mankato,HILL BROTHERS TRANSPORTATION INC,,,,[],1.0,false,false,8.0
+,,7079-HUMD,HUMD,7079,Grocery,3PL,2,7,0,2,Near Capacity,71,0.0,,,,Mankato,"HUMMER, DON TRUCKING CORPORATION",,,,[],2.0,false,false,2.0
+,,7079-MGNL,MGNL,7079,Grocery,3PL,1,3,0,1,Near Capacity,82,1.0,,,,Mankato,MAGNUM LTD,,,,[],1.0,false,false,27.0
+,,7079-RBTW,RBTW,7079,Grocery,3PL,1,5,0,1,Near Capacity,52,0.0,,,,Mankato,C H ROBINSON WORLDWIDE,,,,[],1.0,false,false,
+,,7084-JHCS,JHCS,7084,Grocery,3PL,1,12,0,1,At Capacity,7,0.0,,,,Hunter Park,JAMES H CLARK & SON INC,,,,[],,false,false,1.0
+,,8348-BAYN,BAYN,8348,Grocery,3PL,1,1,0,1,Normal Capacity,2,,,,,,BAY & BAY TRANSFER CO INC,,,,[],,false,false,
+,,8348-HEYL,HEYL,8348,Grocery,3PL,2,11,0,2,Normal Capacity,25,0.0,,,,,HEYL LOGISTICS INC,,,,[],,false,false,5.5
+,,8348-KLMV,KLMV,8348,Grocery,3PL,2,9,0,2,Normal Capacity,51,0.0,,,,,KLLM TRANSPORT SERVICES LLC,,,,[],2.0,false,false,4.0
+,,8851-CYLI,CYLI,8851,Grocery,3PL,1,4,0,1,Over Capacity,49,0.0,,,,Cocoa,CROWLEY LOGISTRICS INC,,,,[],1.0,false,false,3.0
+,,8851-JBSY,JBSY,8851,Grocery,3PL,1,3,0,1,Over Capacity,20,0.0,,,,Cocoa,,,,,[],,false,false,6.0
+,,8851-SHAF,SHAF,8851,Grocery,3PL,5,9,0,5,Over Capacity,58,0.0,,,,Cocoa,SHAFFER TRUCKING INC,,,,[],5.0,true,true,4.8
+,,8851-SMLU,SMLU,8851,Grocery,3PL,2,9,0,2,Over Capacity,53,0.0,,,,Cocoa,SEABOARD MARINE LTD,,,,[],2.0,false,false,3.0
+,,6055-PRPD1,PRPD1,6055,Grocery,3PL,1,13,0,1,Over Capacity,8,0.0,,,,Monroe,,,,,[],,false,false,8.0
+,,6059-MONA1,MONA1,6059,Grocery,3PL,2,4,0,2,At Capacity,90,0.0,,,,Olney,,,,,[],2.0,false,false,7.0
+,,7019-PRPD1,PRPD1,7019,Grocery,3PL,2,10,0,2,At Capacity,29,1.0,,,,Brundidge,,,,,[],,false,false,21.0
+,,8851-PRPD1,PRPD1,8851,Grocery,3PL,1,11,0,1,Over Capacity,15,0.0,,,,Cocoa,,,,,[],,false,false,2.0
+,,6073-CFI,CFI,6073,Grocery,3PL,2,18,1,1,Over Capacity,1,0.0,,,,Pageland,CONTRACT FREIGHTERS INC,,,,[],,false,false,1.67
+,,7014-PAM,PAM,7014,Grocery,3PL,1,14,1,0,Near Capacity,0,0.0,,,,Lewiston,P A M TRANSPORT INC - PAM,,,,[],,false,false,23.0
+,,6042-HIRS,HIRS,6042,Grocery,3PL,5,14,1,4,At Capacity,6,0.0,,,,Pauls Valley,HIRSCHBACH MOTOR LINES IN,,,,[],,false,true,1.5
+,,6042-KNIG,KNIG,6042,Grocery,3PL,3,17,1,2,At Capacity,41,0.0,,,,Pauls Valley,KNIGHT TRANSPORTATION INC,,,,[],,false,false,6.33
+,,6042-MTEN,MTEN,6042,Grocery,3PL,3,34,1,2,At Capacity,33,0.0,,,,Pauls Valley,MARTEN TRANSPORT LTD,,,,[],,false,false,2.0
+,,6042-SWFT,SWFT,6042,Grocery,3PL,3,19,1,2,At Capacity,80,0.0,,,,Pauls Valley,SWIFT,,,,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,false,false,14.0
+,,6047-BYLR,BYLR,6047,Grocery,3PL,3,14,1,2,Normal Capacity,88,0.0,,,,Bedford,Baylor Trucking Inc.,,,,[],,false,false,6.33
+,,6047-DART,DART,6047,Grocery,3PL,1,26,1,0,Normal Capacity,0,0.0,,,,Bedford,DART TRANSIT COMPANY,,,,[],,false,false,
+,,6047-HIRS,HIRS,6047,Grocery,3PL,3,33,1,2,Normal Capacity,93,0.0,,,,Bedford,HIRSCHBACH MOTOR LINES IN,,,,[],,false,false,5.0
+,,6047-HJBT,HJBT,6047,Grocery,3PL,2,37,1,1,Normal Capacity,2,0.0,,,,Bedford,JB HUNT,,,,[],,false,false,1.0
+,,6047-KLTR,KLTR,6047,Grocery,3PL,4,30,1,3,Normal Capacity,11,0.0,,,,Bedford,"KELLER, THOMAS E TRUCKING INC",,,,[],,false,false,3.25
+,,6047-USIT,USIT,6047,Grocery,3PL,1,19,1,0,Normal Capacity,0,0.0,,,,Bedford,USA TRUCK LLC,,,,[],,false,false,1.0
+,,6047-USXI,USXI,6047,Grocery,3PL,2,26,1,1,Normal Capacity,1,0.0,,,,Bedford,U S XPRESS INC,,,,[],,false,false,4.0
+,,6055-BYLR,BYLR,6055,Grocery,3PL,1,27,1,0,Over Capacity,0,0.0,,,,Monroe,Baylor Trucking Inc.,,,,[],,false,false,3.0
+,,6055-CWAS,CWAS,6055,Grocery,3PL,2,15,1,1,Over Capacity,72,0.0,,,,Monroe,COWAN SYSTEMS LLC,,,,[],,false,false,4.0
+,,6055-EQUT,EQUT,6055,Grocery,3PL,2,22,1,1,Over Capacity,18,0.0,,,,Monroe,EQUITY TRANSPORTATION COMPANY INC,,,,[],,false,false,4.33
+,,6055-HEYL,HEYL,6055,Grocery,3PL,2,14,1,1,Over Capacity,6,0.0,,,,Monroe,HEYL LOGISTICS INC,,,,[],,false,false,3.0
+,,6055-HJBT,HJBT,6055,Grocery,3PL,5,33,1,4,Over Capacity,92,0.0,,,,Monroe,JB HUNT,,,,[],,true,true,4.29
+,,6055-HLEX,HLEX,6055,Grocery,3PL,3,15,1,2,Over Capacity,11,0.0,,,,Monroe,HEARTLAND EXPRESS,,,,[],,false,false,38.0
+,,6055-KNIG,KNIG,6055,Grocery,3PL,3,23,1,2,Over Capacity,9,0.0,,,,Monroe,KNIGHT TRANSPORTATION INC,,,,[],,false,false,6.0
+,,6055-PAPT,PAPT,6055,Grocery,3PL,3,33,1,2,Over Capacity,92,0.0,,,,Monroe,PAPER TRANSPORT LLC,,,,[],,false,false,17.33
+,,6055-PRIJ,PRIJ,6055,Grocery,3PL,2,29,1,1,Over Capacity,2,0.0,,,,Monroe,PRIME INC,,,,[],,false,false,2.5
+,,6055-ROEV,ROEV,6055,Grocery,3PL,2,30,1,1,Over Capacity,6,0.0,,,,Monroe,ROEHL TRANSPORT INC,,,,[],,false,false,2.5
+,,6055-SHAF,SHAF,6055,Grocery,3PL,1,24,1,0,Over Capacity,0,0.0,,,,Monroe,SHAFFER TRUCKING INC,,,,[],,false,false,4.0
+,,6055-TTMS,TTMS,6055,Grocery,3PL,6,39,1,5,Over Capacity,92,0.0,,,,Monroe,TOTAL TRANSPORTATION OF MISSISSIPPI LLC,,,,[],,true,true,4.0
+,,6056-METG,METG,6056,Grocery,3PL,2,15,1,1,Normal Capacity,4,0.0,,,,Terrell,Moeller Trucking Inc.,,,,[],,false,false,3.0
+,,6056-MTEN,MTEN,6056,Grocery,3PL,3,34,1,2,Normal Capacity,3,0.0,,,,Terrell,MARTEN TRANSPORT LTD,,,,[],,false,false,1.0
+,,6056-RDXO,RDXO,6056,Grocery,3PL,4,39,1,3,Normal Capacity,93,0.0,,,,Terrell,"RAIDER EXPRESS, INC.",,,,[],,false,false,2.0
+,,6057-CPGP,CPGP,6057,Grocery,3PL,2,19,1,1,At Capacity,93,0.0,,,,Hammond,CONTAINERPORT GROUP INC,,,,[],,false,false,14.0
+,,6057-HIRS,HIRS,6057,Grocery,3PL,4,36,1,3,At Capacity,5,0.0,,,,Hammond,HIRSCHBACH MOTOR LINES IN,,,,[],,false,false,5.0
+,,6057-HLEX,HLEX,6057,Grocery,3PL,2,27,1,1,At Capacity,1,0.0,,,,Hammond,HEARTLAND EXPRESS,,,,[],,false,false,3.0
+,,6057-JBHT,JBHT,6057,Grocery,3PL,2,21,1,1,At Capacity,5,0.0,,,,Hammond,JB HUNT,,,,[],,false,false,16.5
+,,6057-PRIJ,PRIJ,6057,Grocery,3PL,2,22,1,1,At Capacity,1,0.0,,,,Hammond,PRIME INC,,,,[],,false,false,3.33
+,,6057-ROEV,ROEV,6057,Grocery,3PL,3,16,1,2,At Capacity,18,0.0,,,,Hammond,ROEHL TRANSPORT INC,,,,[],,false,false,2.67
+,,6057-SWFT,SWFT,6057,Grocery,3PL,1,26,1,0,At Capacity,0,0.0,,,,Hammond,SWIFT,,,,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,false,false,2.0
+,,6057-TLIN,TLIN,6057,Grocery,3PL,3,18,1,2,At Capacity,73,0.0,,,,Hammond,TRANSCO LINES INC,,,,[],,false,false,5.33
+,,6057-TTLQ,TTLQ,6057,Grocery,3PL,3,34,1,2,At Capacity,11,0.0,,,,Hammond,Taylor Truckline INC.,,,,[],,false,false,3.0
+,,6057-USXI,USXI,6057,Grocery,3PL,2,30,1,1,At Capacity,2,0.0,,,,Hammond,U S XPRESS INC,,,,[],,false,false,2.5
+,,6059-BYLR,BYLR,6059,Grocery,3PL,2,21,1,1,At Capacity,5,0.0,,,,Olney,Baylor Trucking Inc.,,,,[],,false,false,2.0
+,,6059-CXTQ,CXTQ,6059,Grocery,3PL,5,15,1,4,At Capacity,8,0.0,,,,Olney,COX TRANSFER INC,,,,[],,false,true,2.25
+,,6059-HIET,HIET,6059,Grocery,3PL,4,20,1,3,At Capacity,44,0.0,,,,Olney,HIEL TRUCKING INC,,,,[],,false,false,13.0
+,,6059-HKRA,HKRA,6059,Grocery,3PL,5,37,1,4,At Capacity,21,0.0,,,,Olney,WM HOEKSTRA & SONS,,,,[],,true,true,7.4
+,,6059-HLEX,HLEX,6059,Grocery,3PL,3,21,1,2,At Capacity,3,0.0,,,,Olney,HEARTLAND EXPRESS,,,,[],,false,false,1.67
+,,6059-KLTR,KLTR,6059,Grocery,3PL,2,15,1,1,At Capacity,93,0.0,,,,Olney,"KELLER, THOMAS E TRUCKING INC",,,,[],,false,false,2.0
+,,6059-KMTN,KMTN,6059,Grocery,3PL,3,18,1,2,At Capacity,44,0.0,,,,Olney,"KELLER, MARVIN TRUCKING INC",,,,[],,false,false,28.33
+,,6059-SWFT,SWFT,6059,Grocery,3PL,2,21,1,1,At Capacity,26,0.0,,,,Olney,SWIFT,,,,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,false,false,6.0
+,,6059-TLIN,TLIN,6059,Grocery,3PL,5,27,1,4,At Capacity,71,0.0,,,,Olney,TRANSCO LINES INC,,,,[],,true,true,5.8
+,,6059-WIKW,WIKW,6059,Grocery,3PL,1,14,1,0,At Capacity,0,0.0,,,,Olney,WAYNE WILKENS TRUCKING,,,,[],,false,false,2.5
+,,6059-WSGS,WSGS,6059,Grocery,3PL,5,37,1,4,At Capacity,63,0.0,,,,Olney,WEST SIDE TRANSPORT INC,,,,[],,true,true,6.2
+,,6064-ATUR,ATUR,6064,Grocery,3PL,2,25,1,1,At Capacity,4,0.0,,,,Cleburne,ARTUR EXPRESS INC,,,,[],,false,false,4.0
+,,6064-DMCC,DMCC,6064,Grocery,3PL,3,20,1,2,At Capacity,77,0.0,,,,Cleburne,FREYMILLER,,,,[],,false,false,5.33
+,,6064-MGRB,MGRB,6064,Grocery,3PL,5,22,1,4,At Capacity,92,0.0,,,,Cleburne,MCGUIRE TRANSPORTATION,,,,[],,true,true,7.8
+,,6064-MTEN,MTEN,6064,Grocery,3PL,3,41,1,2,At Capacity,7,0.0,,,,Cleburne,MARTEN TRANSPORT LTD,,,,[],,false,false,4.0
+,,6064-ROEV,ROEV,6064,Grocery,3PL,2,34,1,1,At Capacity,20,0.0,,,,Cleburne,ROEHL TRANSPORT INC,,,,[],,false,false,3.33
+,,6064-RVTS,RVTS,6064,Grocery,3PL,2,15,1,1,At Capacity,1,0.0,,,,Cleburne,RIVERSIDE TRANSPORT INC,,,,[],,false,false,3.0
+,,6064-SDLC,SDLC,6064,Grocery,3PL,5,20,1,4,At Capacity,69,0.0,,,,Cleburne,SADDLE CREEK TRANSPORTATION INC,,,,[],,true,true,10.6
+,,6064-SWFT,SWFT,6064,Grocery,3PL,3,40,1,2,At Capacity,1,0.0,,,,Cleburne,SWIFT,,,,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,false,false,28.0
+,,6065-HIRS,HIRS,6065,Grocery,3PL,4,34,1,3,Over Capacity,36,0.0,,,,Harrisonville,HIRSCHBACH MOTOR LINES IN,,,,[],,false,false,3.75
+,,6065-HLEX,HLEX,6065,Grocery,3PL,1,31,1,0,Over Capacity,0,0.0,,,,Harrisonville,HEARTLAND EXPRESS,,,,[],,false,false,2.0
+,,6065-KTPS,KTPS,6065,Grocery,3PL,3,19,1,2,Over Capacity,25,0.0,,,,Harrisonville,KNIGHT TRANSPORTATION INC,,,,[],,false,false,6.75
+,,6065-MPYN,MPYN,6065,Grocery,3PL,3,27,1,2,Over Capacity,13,0.0,,,,Harrisonville,MURPHY TRANSPORTATION INC,,,,[],,false,false,7.75
+,,6065-OWEL,OWEL,6065,Grocery,3PL,6,17,1,5,Over Capacity,1,0.0,,,,Harrisonville,OUT WEST EXPRESS LLC,,,,[],,false,false,4.67
+,,6065-USXI,USXI,6065,Grocery,3PL,5,39,1,4,Over Capacity,11,0.0,,,,Harrisonville,U S XPRESS INC,,,,[],,true,true,5.75
+,,6071-CYLI,CYLI,6071,Grocery,3PL,8,41,1,7,Over Capacity,17,0.0,,,,Winter Haven,CROWLEY LOGISTRICS INC,,,,[],,true,true,8.75
+,,6071-HJBT,HJBT,6071,Grocery,3PL,4,31,1,3,Over Capacity,92,0.0,,,,Winter Haven,JB HUNT,,,,[],,false,false,4.0
+,,6071-PAYL,PAYL,6071,Grocery,3PL,4,30,1,3,Over Capacity,8,0.0,,,,Winter Haven,PAYSTAR LOGISTICS,,,,[],,false,false,6.67
+,,6071-SBAN,SBAN,6071,Grocery,3PL,5,21,1,4,Over Capacity,2,0.0,,,,Winter Haven,Sabal Transport Inc.,,,,[],,false,false,2.29
+,,6071-SHAF,SHAF,6071,Grocery,3PL,3,33,1,2,Over Capacity,34,0.0,,,,Winter Haven,SHAFFER TRUCKING INC,,,,[],,false,false,1.0
+,,6072-ADSJ,ADSJ,6072,Grocery,3PL,2,31,1,1,Over Capacity,14,0.0,,,,New Albany,AVERITT TRUCKLOAD EXPRESS,,,,[],,false,false,1.0
+,,6072-CTTT,CTTT,6072,Grocery,3PL,1,15,1,0,Over Capacity,0,0.0,,,,New Albany,"Contract Freighters, Inc",,,,[],,false,false,2.0
+,,6072-DART,DART,6072,Grocery,3PL,3,14,1,2,Over Capacity,74,0.0,,,,New Albany,DART TRANSIT COMPANY,,,,[],,false,false,5.67
+,,6072-DBKA,DBKA,6072,Grocery,3PL,1,15,1,0,Over Capacity,0,0.0,,,,New Albany,DOBBS TRUCKING LLC,,,,[],,false,false,2.0
+,,6072-HLEX,HLEX,6072,Grocery,3PL,4,34,1,3,Over Capacity,2,0.0,,,,New Albany,HEARTLAND EXPRESS,,,,[],,false,false,2.0
+,,6072-JBHT,JBHT,6072,Grocery,3PL,2,23,1,1,Over Capacity,4,0.0,,,,New Albany,JB HUNT,,,,[],,false,false,3.0
+,,6072-JRCB,JRCB,6072,Grocery,3PL,2,23,1,1,Over Capacity,7,0.0,,,,New Albany,J & J DRIVEAWAY SYSTEMS LLC,,,,[],,false,false,2.75
+,,6072-KMTN,KMTN,6072,Grocery,3PL,4,29,1,3,Over Capacity,58,0.0,,,,New Albany,"KELLER, MARVIN TRUCKING INC",,,,[],,false,false,4.25
+,,6072-RBEK,RBEK,6072,Grocery,3PL,1,18,1,0,Over Capacity,0,0.0,,,,New Albany,Roberts Trucking Co LLC,,,,[],,false,false,2.5
+,,6072-TTLQ,TTLQ,6072,Grocery,3PL,4,22,1,3,Over Capacity,76,0.0,,,,New Albany,Taylor Truckline INC.,,,,[],,false,false,58.83
+,,6073-CWAS,CWAS,6073,Grocery,3PL,5,26,1,4,Over Capacity,18,0.0,,,,Pageland,COWAN SYSTEMS LLC,,,,[],,true,true,5.8
+,,6073-CYLI,CYLI,6073,Grocery,3PL,5,39,1,4,Over Capacity,92,0.0,,,,Pageland,CROWLEY LOGISTRICS INC,,,,[],,true,true,5.75
+,,6073-ENGC,ENGC,6073,Grocery,3PL,3,20,1,2,Over Capacity,55,0.0,,,,Pageland,CR England,,,,[],,false,false,4.33
+,,6073-JBHT,JBHT,6073,Grocery,3PL,2,41,1,1,Over Capacity,2,0.0,,,,Pageland,JB HUNT,,,,[],,false,false,2.0
+,,6073-PASC,PASC,6073,Grocery,3PL,1,21,1,0,Over Capacity,0,0.0,,,,Pageland,PASCHALL TRUCK LINES INC (KY-CORP),,,,[],,false,false,2.0
+,,6073-SMTA,SMTA,6073,Grocery,3PL,2,15,1,1,Over Capacity,67,0.0,,,,Pageland,SMITH TRANSPORT INC,,,,[],,false,false,2.0
+,,6073-STVV,STVV,6073,Grocery,3PL,1,19,1,0,Over Capacity,0,0.0,,,,Pageland,STEVENS TRANSPORT INC,,,,[],,false,false,5.5
+,,6073-USIT,USIT,6073,Grocery,3PL,3,27,1,2,Over Capacity,92,0.0,,,,Pageland,USA TRUCK LLC,,,,[],,false,false,5.0
+,,6073-USXI,USXI,6073,Grocery,3PL,1,31,1,0,Over Capacity,0,0.0,,,,Pageland,U S XPRESS INC,,,,[],,false,false,2.0
+,,6073-WERE,WERE,6073,Grocery,3PL,3,41,1,2,Over Capacity,18,0.0,,,,Pageland,WERNER,,,,[],,false,false,3.0
+,,6074-COXS,COXS,6074,Grocery,3PL,1,37,1,0,Near Capacity,0,0.0,,,,Garrett,"CONTINENTAL EXPRESS, INC.",,,,[],,false,false,
+,,6074-CRFS,CRFS,6074,Grocery,3PL,1,16,1,0,Near Capacity,0,0.0,,,,Garrett,SWIFT,,,,"[{'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}]",,false,false,1.5
+,,6074-NALC,NALC,6074,Grocery,3PL,1,27,1,0,Near Capacity,0,0.0,,,,Garrett,NATIONAL CARRIERS INC,,,,[],,false,false,1.0
+,,6077-JOFD,JOFD,6077,Grocery,3PL,1,14,1,0,Near Capacity,0,0.0,,,,Moberly,JOHNSON FEED INC,,,,[],,false,false,3.0
+,,6077-MTEN,MTEN,6077,Grocery,3PL,3,26,1,2,Near Capacity,32,0.0,,,,Moberly,MARTEN TRANSPORT LTD,,,,[],,false,false,6.0
+,,6082-DDOG,DDOG,6082,Grocery,3PL,2,21,1,1,Over Capacity,1,0.0,,,,Clarksvile,Dedicated Logistics LLC,,,,[],,false,false,2.5
+,,6082-HGBT,HGBT,6082,Grocery,3PL,1,17,1,0,Over Capacity,0,0.0,,,,Clarksvile,"HIGGINS, BRENT TRUCKING INC",,,,[],,false,false,1.0
+,,6082-HJBT,HJBT,6082,Grocery,3PL,6,29,1,5,Over Capacity,90,0.0,,,,Clarksvile,JB HUNT,,,,[],,true,true,7.56
+,,6082-HLEX,HLEX,6082,Grocery,3PL,6,27,1,5,Over Capacity,5,0.0,,,,Clarksvile,HEARTLAND EXPRESS,,,,[],,false,false,1.29
+,,6082-KMTN,KMTN,6082,Grocery,3PL,4,23,1,3,Over Capacity,90,0.0,,,,Clarksvile,"KELLER, MARVIN TRUCKING INC",,,,[],,false,false,3.75
+,,6082-NALC,NALC,6082,Grocery,3PL,1,14,1,0,Over Capacity,0,0.0,,,,Clarksvile,NATIONAL CARRIERS INC,,,,[],,false,false,2.0
+,,6082-NAVJ,NAVJ,6082,Grocery,3PL,1,14,1,0,Over Capacity,0,0.0,,,,Clarksvile,Navajo Express,,,,[],,false,false,2.0
+,,6082-ODFL,ODFL,6082,Grocery,3PL,3,15,1,2,Over Capacity,52,0.0,,,,Clarksvile,OLD DOMINION FREIGHT LINE INC,,,,[],,false,false,6.33
+,,6082-SWFT,SWFT,6082,Grocery,3PL,1,36,1,0,Over Capacity,0,0.0,,,,Clarksvile,SWIFT,,,,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,false,false,1.0
+,,6082-TLIN,TLIN,6082,Grocery,3PL,4,35,1,3,Over Capacity,7,0.0,,,,Clarksvile,TRANSCO LINES INC,,,,[],,false,false,1.0
+,,6082-TSBC,TSBC,6082,Grocery,3PL,5,24,1,4,Over Capacity,88,0.0,,,,Clarksvile,TRANSPORT DISTRIBUTION COMPANY,,,,[],,true,true,1.0
+,,6082-TTLQ,TTLQ,6082,Grocery,3PL,5,16,1,4,Over Capacity,90,0.0,,,,Clarksvile,Taylor Truckline INC.,,,,[],,true,true,5.8
+,,6083-ANTT,ANTT,6083,Grocery,3PL,2,15,1,1,Near Capacity,90,0.0,,,,Temple,ARNOLD TRANSPORTATION SERVICES INC,,,,[],,false,false,8.5
+,,6083-CJHT,CJHT,6083,Grocery,3PL,1,31,1,0,Near Capacity,0,,,,,Temple,"CHRISTNER, JOHN TRUCKING INC",,,,[],,false,false,
+,,6083-HLEX,HLEX,6083,Grocery,3PL,4,37,1,3,Near Capacity,6,0.0,,,,Temple,HEARTLAND EXPRESS,,,,[],,false,false,1.0
+,,6083-MJCR,MJCR,6083,Grocery,3PL,5,15,1,4,Near Capacity,26,0.0,,,,Temple,M & J CARRIERS LLC,,,,[],,true,true,14.0
+,,6083-MTNF,MTNF,6083,Grocery,3PL,3,15,1,2,Near Capacity,10,0.0,,,,Temple,MILLIS TRANSFER INC,,,,[],,false,false,5.67
+,,6083-SVNT,SVNT,6083,Grocery,3PL,2,32,1,1,Near Capacity,1,0.0,,,,Temple,STEVENS TRUCKING CO,,,,[],,false,false,7.0
+,,6083-SWFT,SWFT,6083,Grocery,3PL,2,34,1,1,Near Capacity,90,0.0,,,,Temple,SWIFT,,,,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,false,false,5.0
+,,6083-TFYI,TFYI,6083,Grocery,3PL,3,21,1,2,Near Capacity,50,0.0,,,,Temple,TRUCKS FOR YOU INC,,,,[],,false,false,5.0
+,,6084-FRCI,FRCI,6084,Grocery,3PL,5,32,1,4,Over Capacity,90,0.0,,,,Los Lunas,FREMONT CONTRACT CARRIERS INC,,,,[],,true,true,4.0
+,,6084-KNIG,KNIG,6084,Grocery,3PL,14,40,1,13,Over Capacity,35,0.0,,,,Los Lunas,KNIGHT TRANSPORTATION INC,,,,[],,true,true,3.23
+,,6084-LEGS,LEGS,6084,Grocery,3PL,2,37,1,1,Over Capacity,14,0.0,,,,Los Lunas,New Legend,,,,[],,false,false,2.0
+,,6084-OWEL,OWEL,6084,Grocery,3PL,4,25,1,3,Over Capacity,12,0.0,,,,Los Lunas,OUT WEST EXPRESS LLC,,,,[],,false,false,6.2
+,,6084-STVV,STVV,6084,Grocery,3PL,2,31,1,1,Over Capacity,7,0.0,,,,Los Lunas,STEVENS TRANSPORT INC,,,,[],,false,false,2.0
+,,6084-SWFT,SWFT,6084,Grocery,3PL,4,19,1,3,Over Capacity,90,0.0,,,,Los Lunas,SWIFT,,,,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,false,false,95.33
+,,6084-TFYI,TFYI,6084,Grocery,3PL,4,41,1,3,Over Capacity,90,0.0,,,,Los Lunas,TRUCKS FOR YOU INC,,,,[],,false,false,15.6
+,,6084-UCNN,UCNN,6084,Grocery,3PL,3,37,1,2,Over Capacity,16,0.0,,,,Los Lunas,U S CONNECTION,,,,[],,false,false,3.5
+,,6084-WSXI,WSXI,6084,Grocery,3PL,1,29,1,0,Over Capacity,0,0.0,,,,Los Lunas,WESTERN EXPRESS INC,,,,[],,false,false,12.0
+,,6085-BAYN,BAYN,6085,Grocery,3PL,1,22,1,0,Near Capacity,0,0.0,,,,Tobyhanna,BAY & BAY TRANSFER CO INC,,,,[],,false,false,3.0
+,,6085-CKQE,CKQE,6085,Grocery,3PL,2,30,1,1,Near Capacity,2,0.0,,,,Tobyhanna,CKKC ENTERPRISES INC,,,,[],,false,false,3.0
+,,6085-DART,DART,6085,Grocery,3PL,2,29,1,1,Near Capacity,1,0.0,,,,Tobyhanna,DART TRANSIT COMPANY,,,,[],,false,false,2.0
+,,6085-HLEX,HLEX,6085,Grocery,3PL,3,28,1,2,Near Capacity,6,0.0,,,,Tobyhanna,HEARTLAND EXPRESS,,,,[],,false,false,4.0
+,,6085-MBMK,MBMK,6085,Grocery,3PL,2,24,1,1,Near Capacity,1,,,,,Tobyhanna,MARTINS BULK MILK SERVICE INC,,,,[],,false,false,
+,,6085-MTNF,MTNF,6085,Grocery,3PL,4,36,1,3,Near Capacity,3,0.0,,,,Tobyhanna,MILLIS TRANSFER INC,,,,[],,false,false,3.0
+,,6085-NAVE,NAVE,6085,Grocery,3PL,2,28,1,1,Near Capacity,1,0.0,,,,Tobyhanna,Navajo Express,,,,[],,false,false,3.0
+,,6085-RCXB,RCXB,6085,Grocery,3PL,2,17,1,1,Near Capacity,75,0.0,,,,Tobyhanna,RED CLASSIC TRANSIT LLC,,,,[],,false,false,16.33
+,,6085-RDXO,RDXO,6085,Grocery,3PL,1,21,1,0,Near Capacity,0,0.0,,,,Tobyhanna,"RAIDER EXPRESS, INC.",,,,[],,false,false,1.0
+,,6085-WERE,WERE,6085,Grocery,3PL,3,24,1,2,Near Capacity,13,0.0,,,,Tobyhanna,WERNER,,,,[],,false,false,4.67
+,,6085-WIEL,WIEL,6085,Grocery,3PL,4,39,1,3,Near Capacity,11,0.0,,,,Tobyhanna,WEL Companies Inc,,,,[],,false,false,3.5
+,,6090-ANJL,ANJL,6090,Grocery,3PL,1,28,1,0,At Capacity,0,0.0,,,,Corinne,ANDRUS TRANSPORTATION SERVICES INC,,,,[],,false,false,1.0
+,,6090-CWAS,CWAS,6090,Grocery,3PL,1,21,1,0,At Capacity,0,0.0,,,,Corinne,COWAN SYSTEMS LLC,,,,[],,false,false,
+,,6090-GDFY,GDFY,6090,Grocery,3PL,2,40,1,1,At Capacity,10,0.0,,,,Corinne,GODFREY TRUCKING INC,,,,[],,false,false,1.5
+,,6090-HAEI,HAEI,6090,Grocery,3PL,3,28,1,2,At Capacity,11,0.0,,,,Corinne,HEARTLAND EXPRESS SERVICES INC,,,,[],,false,false,5.5
+,,6090-LEGS,LEGS,6090,Grocery,3PL,2,17,1,1,At Capacity,8,0.0,,,,Corinne,New Legend,,,,[],,false,false,3.5
+,,6090-METG,METG,6090,Grocery,3PL,2,17,1,1,At Capacity,13,0.0,,,,Corinne,Moeller Trucking Inc.,,,,[],,false,false,7.0
+,,6090-RTNH,RTNH,6090,Grocery,3PL,2,17,1,1,At Capacity,1,0.0,,,,Corinne,ROYALANE TRUCKING,,,,[],,false,false,2.0
+,,6090-SHAF,SHAF,6090,Grocery,3PL,2,38,1,1,At Capacity,25,0.0,,,,Corinne,SHAFFER TRUCKING INC,,,,[],,false,false,3.0
+,,6090-SNRS,SNRS,6090,Grocery,3PL,3,19,1,2,At Capacity,19,0.0,,,,Corinne,SUNRISE EXPRESS INC,,,,[],,false,false,5.33
+,,6090-WERE,WERE,6090,Grocery,3PL,2,15,1,1,At Capacity,1,0.0,,,,Corinne,WERNER,,,,[],,false,false,2.5
+,,6090-WSXI,WSXI,6090,Grocery,3PL,1,15,1,0,At Capacity,0,0.0,,,,Corinne,WESTERN EXPRESS INC,,,,[],,false,false,1.5
+,,6091-CYLI,CYLI,6091,Grocery,3PL,3,15,1,2,Over Capacity,9,0.0,,,,Henderson,CROWLEY LOGISTRICS INC,,,,[],,false,false,3.0
+,,6091-ENGC,ENGC,6091,Grocery,3PL,5,29,1,4,Over Capacity,49,0.0,,,,Henderson,CR England,,,,[],,true,true,2.4
+,,6091-SHAF,SHAF,6091,Grocery,3PL,2,35,1,1,Over Capacity,2,0.0,,,,Henderson,SHAFFER TRUCKING INC,,,,[],,false,false,3.0
+,,6095-GRTV,GRTV,6095,Grocery,3PL,2,17,1,1,Near Capacity,2,0.0,,,,Opelika,"GARRISON, R E TRUCKING INC",,,,[],,false,false,2.0
+,,6095-HLEX,HLEX,6095,Grocery,3PL,1,39,1,0,Near Capacity,0,0.0,,,,Opelika,HEARTLAND EXPRESS,,,,[],,false,false,1.67
+,,6095-HTSH,HTSH,6095,Grocery,3PL,3,18,1,2,Near Capacity,60,0.0,,,,Opelika,HIRSCHBACH TRANSPORTATION SERVICES INC,,,,[],,false,false,11.5
+,,6095-JBHT,JBHT,6095,Grocery,3PL,7,29,1,6,Near Capacity,90,0.0,,,,Opelika,JB HUNT,,,,[],,true,true,17.0
+,,6095-KNIG,KNIG,6095,Grocery,3PL,1,16,1,0,Near Capacity,0,0.0,,,,Opelika,KNIGHT TRANSPORTATION INC,,,,[],,false,false,2.0
+,,6095-MLXP,MLXP,6095,Grocery,3PL,3,17,1,2,Near Capacity,12,0.0,,,,Opelika,MILAN SUPPLY CHAIN SOLUTIONS LLC N/K/A ASCEND LLC,,,,[],,false,false,5.67
+,,6095-PRIJ,PRIJ,6095,Grocery,3PL,2,36,1,1,Near Capacity,13,0.0,,,,Opelika,PRIME INC,,,,[],,false,false,2.25
+,,6095-SCNN,SCNN,6095,Grocery,3PL,2,17,1,1,Near Capacity,57,0.0,,,,Opelika,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,45.0
+,,6095-SHAF,SHAF,6095,Grocery,3PL,2,26,1,1,Near Capacity,66,0.0,,,,Opelika,SHAFFER TRUCKING INC,,,,[],,false,false,2.0
+,,6095-STVV,STVV,6095,Grocery,3PL,2,23,1,1,Near Capacity,72,0.0,,,,Opelika,STEVENS TRANSPORT INC,,,,[],,false,false,6.0
+,,6095-TTLQ,TTLQ,6095,Grocery,3PL,2,15,1,1,Near Capacity,5,0.0,,,,Opelika,Taylor Truckline INC.,,,,[],,false,false,5.0
+,,6095-TTMS,TTMS,6095,Grocery,3PL,6,30,1,5,Near Capacity,90,0.0,,,,Opelika,TOTAL TRANSPORTATION OF MISSISSIPPI LLC,,,,[],,true,true,6.0
+,,6096-AFMH,AFMH,6096,Grocery,3PL,2,15,1,1,At Capacity,27,0.0,,,,Johnstown,AGRO FARMA (CHOBANI GREEK YOGURT),,,,[],,false,false,2.0
+,,6096-DMRA,DMRA,6096,Grocery,3PL,1,35,1,0,At Capacity,0,0.0,,,,Johnstown,D & M TRANSPORTATION SOLUTIONS LLC,,,,[],,false,false,1.0
+,,6096-DUPO,DUPO,6096,Grocery,3PL,1,19,1,0,At Capacity,0,0.0,,,,Johnstown,DUPONT MOTOR LINES INC,,,,[],,false,false,5.0
+,,6096-HAEI,HAEI,6096,Grocery,3PL,3,26,1,2,At Capacity,9,0.0,,,,Johnstown,HEARTLAND EXPRESS SERVICES INC,,,,[],,false,false,8.5
+,,6096-HIRS,HIRS,6096,Grocery,3PL,3,26,1,2,At Capacity,48,0.0,,,,Johnstown,HIRSCHBACH MOTOR LINES IN,,,,[],,false,false,6.0
+,,6096-NPAT,NPAT,6096,Grocery,3PL,3,36,1,2,At Capacity,27,0.0,,,,Johnstown,NAPA TRANSPORTATION INC,,,,[],,false,false,1.33
+,,6096-PDTS,PDTS,6096,Grocery,3PL,2,39,1,1,At Capacity,1,0.0,,,,Johnstown,PERDUE TRANSPORTATION INCORPORATED,,,,[],,false,false,2.5
+,,6096-PTES,PTES,6096,Grocery,3PL,3,37,1,2,At Capacity,41,0.0,,,,Johnstown,H O WOLDING INC D/B/A BISON TRANSPORT USA F/K/A POTTLES TRANSPORTATION LLC,,,,[],,false,false,8.5
+,,6096-ROEV,ROEV,6096,Grocery,3PL,3,34,1,2,At Capacity,90,0.0,,,,Johnstown,ROEHL TRANSPORT INC,,,,[],,false,false,3.0
+,,6096-SULN,SULN,6096,Grocery,3PL,2,23,1,1,At Capacity,5,0.0,,,,Johnstown,SUPERIOR TRUCK LINES,,,,[],,false,false,4.5
+,,6096-WOLH,WOLH,6096,Grocery,3PL,4,26,1,3,At Capacity,68,0.0,,,,Johnstown,H O WOLDING INC D/B/A BISON TRANSPORT USA,,,,[],,false,false,13.33
+,,6097-COXS,COXS,6097,Grocery,3PL,2,19,1,1,At Capacity,5,0.0,,,,London,"CONTINENTAL EXPRESS, INC.",,,,[],,false,false,4.5
+,,6097-CWAS,CWAS,6097,Grocery,3PL,2,23,1,1,At Capacity,2,0.0,,,,London,COWAN SYSTEMS LLC,,,,[],,false,false,2.5
+,,6097-DART,DART,6097,Grocery,3PL,3,37,1,2,At Capacity,11,0.0,,,,London,DART TRANSIT COMPANY,,,,[],,false,false,3.0
+,,6097-HLEX,HLEX,6097,Grocery,3PL,4,40,1,3,At Capacity,4,0.0,,,,London,HEARTLAND EXPRESS,,,,[],,false,false,
+,,6097-KNIG,KNIG,6097,Grocery,3PL,4,34,1,3,At Capacity,14,0.0,,,,London,KNIGHT TRANSPORTATION INC,,,,[],,false,false,3.33
+,,6097-OZRK,OZRK,6097,Grocery,3PL,3,28,1,2,At Capacity,1,0.0,,,,London,OZARK MOTOR LINES INC,,,,[],,false,false,2.67
+,,6097-PRIJ,PRIJ,6097,Grocery,3PL,4,24,1,3,At Capacity,4,0.0,,,,London,PRIME INC,,,,[],,false,false,3.0
+,,6097-RCXB,RCXB,6097,Grocery,3PL,3,18,1,2,At Capacity,25,0.0,,,,London,RED CLASSIC TRANSIT LLC,,,,[],,false,false,4.0
+,,6097-ROEV,ROEV,6097,Grocery,3PL,3,33,1,2,At Capacity,33,0.0,,,,London,ROEHL TRANSPORT INC,,,,[],,false,false,4.0
+,,6097-SALJ,SALJ,6097,Grocery,3PL,3,25,1,2,At Capacity,90,0.0,,,,London,A.L. SMITH TRUCKING INC,,,,[],,false,false,3.67
+,,6097-USIT,USIT,6097,Grocery,3PL,5,39,1,4,At Capacity,41,0.0,,,,London,USA TRUCK LLC,,,,[],,true,true,5.4
+,,6099-CPGP,CPGP,6099,Grocery,3PL,2,15,1,1,Near Capacity,36,0.0,,,,Macclenny,CONTAINERPORT GROUP INC,,,,[],,false,false,6.0
+,,6099-CYLI,CYLI,6099,Grocery,3PL,1,30,1,0,Near Capacity,0,0.0,,,,Macclenny,CROWLEY LOGISTRICS INC,,,,[],,false,false,1.0
+,,6099-HJBI,HJBI,6099,Grocery,3PL,3,16,1,2,Near Capacity,9,0.0,,,,Macclenny,JB Hunt,,,,[],,false,false,2.33
+,,6099-HJBT,HJBT,6099,Grocery,3PL,7,34,1,6,Near Capacity,38,0.0,,,,Macclenny,JB HUNT,,,,[],,true,true,52.71
+,,6099-PRIJ,PRIJ,6099,Grocery,3PL,1,25,1,0,Near Capacity,0,0.0,,,,Macclenny,PRIME INC,,,,[],,false,false,1.0
+,,6099-TNTI,TNTI,6099,Grocery,3PL,1,26,1,0,Near Capacity,0,0.0,,,,Macclenny,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,
+,,6858-CYLI,CYLI,6858,Grocery,3PL,5,40,1,4,Over Capacity,76,0.0,,,,Mebane,CROWLEY LOGISTRICS INC,,,,[],,true,true,7.2
+,,6858-ENGC,ENGC,6858,Grocery,3PL,2,22,1,1,Over Capacity,11,0.0,,,,Mebane,CR England,,,,[],,false,false,2.0
+,,7010-CPGP,CPGP,7010,Grocery,3PL,6,24,1,5,At Capacity,24,0.0,,,,New Caney,CONTAINERPORT GROUP INC,,,,[],,true,true,10.1
+,,7010-HJBT,HJBT,7010,Grocery,3PL,2,25,1,1,At Capacity,66,0.0,,,,New Caney,JB HUNT,,,,[],,false,false,23.33
+,,7010-KNIG,KNIG,7010,Grocery,3PL,1,19,1,0,At Capacity,0,0.0,,,,New Caney,KNIGHT TRANSPORTATION INC,,,,[],,false,false,1.5
+,,7010-TNTI,TNTI,7010,Grocery,3PL,5,24,1,4,At Capacity,52,0.0,,,,New Caney,SCHNEIDER,,This facility is called out 2 times.,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,true,true,16.0
+,,7010-TTMS,TTMS,7010,Grocery,3PL,5,27,1,4,At Capacity,3,0.0,,,,New Caney,TOTAL TRANSPORTATION OF MISSISSIPPI LLC,,,,[],,false,false,3.0
+,,7010-USXI,USXI,7010,Grocery,3PL,2,19,1,1,At Capacity,5,0.0,,,,New Caney,U S XPRESS INC,,,,[],,false,false,24.0
+,,7012-BNUN,BNUN,7012,Grocery,3PL,3,40,1,2,At Capacity,3,0.0,,,,Washington Court House,BARR-NUNN TRANSPORTATION INC,,,,[],,false,false,2.25
+,,7012-CVEN,CVEN,7012,Grocery,3PL,3,40,1,2,At Capacity,1,0.0,,,,Washington Court House,COVENANT TRANSPORT INC,,,,[],,false,false,1.75
+,,7012-DART,DART,7012,Grocery,3PL,3,27,1,2,At Capacity,6,0.0,,,,Washington Court House,DART TRANSIT COMPANY,,,,[],,false,false,2.0
+,,7012-KBTR,KBTR,7012,Grocery,3PL,2,38,1,1,At Capacity,1,0.0,,,,Washington Court House,K B TRANSPORT,,,,[],,false,false,2.0
+,,7012-LATO,LATO,7012,Grocery,3PL,2,15,1,1,At Capacity,48,0.0,,,,Washington Court House,L & A TRANSPORT LLC,,,,[],,false,false,1.0
+,,7012-LVTR,LVTR,7012,Grocery,3PL,3,30,1,2,At Capacity,16,0.0,,,,Washington Court House,L V TRUCKING INC,,,,[],,false,false,2.0
+,,7012-MPTO,MPTO,7012,Grocery,3PL,2,19,1,1,At Capacity,14,0.0,,,,Washington Court House,MAP TRANSPORTATION INC,,,,[],,false,false,5.5
+,,7012-NAVJ,NAVJ,7012,Grocery,3PL,1,23,1,0,At Capacity,0,0.0,,,,Washington Court House,Navajo Express,,,,[],,false,false,2.0
+,,7012-SWFT,SWFT,7012,Grocery,3PL,3,25,1,2,At Capacity,24,0.0,,,,Washington Court House,SWIFT,,,,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,false,false,13.67
+,,7012-USXI,USXI,7012,Grocery,3PL,1,35,1,0,At Capacity,0,0.0,,,,Washington Court House,U S XPRESS INC,,,,[],,false,false,
+,,7012-WERE,WERE,7012,Grocery,3PL,3,18,1,2,At Capacity,16,0.0,,,,Washington Court House,WERNER,,,,[],,false,false,5.0
+,,7012-WSGS,WSGS,7012,Grocery,3PL,4,22,1,3,At Capacity,19,0.0,,,,Washington Court House,WEST SIDE TRANSPORT INC,,,,[],,false,false,5.67
+,,7013-CRFS,CRFS,7013,Grocery,3PL,1,22,1,0,At Capacity,0,0.0,,,,Casa Grande,SWIFT,,,,"[{'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}]",,false,false,1.67
+,,7013-HLEX,HLEX,7013,Grocery,3PL,6,40,1,5,At Capacity,12,0.0,,,,Casa Grande,HEARTLAND EXPRESS,,,,[],,true,true,5.0
+,,7013-SHAF,SHAF,7013,Grocery,3PL,1,19,1,0,At Capacity,0,0.0,,,,Casa Grande,SHAFFER TRUCKING INC,,,,[],,false,false,2.0
+,,7014-ASNT,ASNT,7014,Grocery,3PL,3,22,1,2,Near Capacity,14,0.0,,,,Lewiston,A & S SERVICES GROUP LLC (KINARD TRUCKING DIVISION),,,,[],,false,false,6.0
+,,7014-BTIJ,BTIJ,7014,Grocery,3PL,5,16,1,4,Near Capacity,35,0.0,,,,Lewiston,BRADWAY TRUCKING INC,,,,[],,true,true,18.25
+,,7014-CIEQ,CIEQ,7014,Grocery,3PL,2,15,1,1,Near Capacity,3,0.0,,,,Lewiston,COWAN SYSTEMS LLC,,,,[],,false,false,3.0
+,,7014-ENGQ,ENGQ,7014,Grocery,3PL,2,15,1,1,Near Capacity,2,0.0,,,,Lewiston,CR England,,,,[],,false,false,6.0
+,,7014-FCNC,FCNC,7014,Grocery,3PL,5,18,1,4,Near Capacity,49,0.0,,,,Lewiston,FALCON TRANSPORT,,,,[],,true,true,11.25
+,,7014-FCNW,FCNW,7014,Grocery,3PL,3,28,1,2,Near Capacity,8,0.0,,,,Lewiston,FALCON TRANSPORTATION LLC,,,,[],,false,false,9.5
+,,7014-HUBG,HUBG,7014,Grocery,3PL,6,15,1,5,Near Capacity,64,0.0,,,,Lewiston,HUB GROUP,,,,[],,true,true,20.67
+,,7014-NPAT,NPAT,7014,Grocery,3PL,4,31,1,3,Near Capacity,17,0.0,,,,Lewiston,NAPA TRANSPORTATION INC,,,,[],,false,false,1.8
+,,7014-PRIM,PRIM,7014,Grocery,3PL,2,40,1,1,Near Capacity,2,0.0,,,,Lewiston,PRIME SHIPPING INTERNATIONAL INC,,,,[],,false,false,4.0
+,,7014-ROEV,ROEV,7014,Grocery,3PL,5,20,1,4,Near Capacity,90,0.0,,,,Lewiston,ROEHL TRANSPORT INC,,,,[],,true,true,12.2
+,,7014-SHAF,SHAF,7014,Grocery,3PL,3,28,1,2,Near Capacity,90,0.0,,,,Lewiston,SHAFFER TRUCKING INC,,,,[],,false,false,8.75
+,,7014-STVV,STVV,7014,Grocery,3PL,3,31,1,2,Near Capacity,4,0.0,,,,Lewiston,STEVENS TRANSPORT INC,,,,[],,false,false,5.0
+,,7015-FRCI,FRCI,7015,Grocery,3PL,2,14,1,1,Over Capacity,9,0.0,,,,Bartlesville,FREMONT CONTRACT CARRIERS INC,,,,[],,false,false,8.0
+,,7015-HGBT,HGBT,7015,Grocery,3PL,4,15,1,3,Over Capacity,87,0.0,,,,Bartlesville,"HIGGINS, BRENT TRUCKING INC",,,,[],,false,false,10.0
+,,7015-HJBT,HJBT,7015,Grocery,3PL,5,31,1,4,Over Capacity,69,0.0,,,,Bartlesville,JB HUNT,,,,[],,true,true,5.0
+,,7015-NAVJ,NAVJ,7015,Grocery,3PL,3,18,1,2,Over Capacity,5,0.0,,,,Bartlesville,Navajo Express,,,,[],,false,false,15.0
+,,7015-ODFL,ODFL,7015,Grocery,3PL,3,17,1,2,Over Capacity,29,0.0,,,,Bartlesville,OLD DOMINION FREIGHT LINE INC,,,,[],,false,false,6.5
+,,7015-PAPT,PAPT,7015,Grocery,3PL,3,14,1,2,Over Capacity,89,0.0,,,,Bartlesville,PAPER TRANSPORT LLC,,,,[],,false,false,6.0
+,,7015-RVTS,RVTS,7015,Grocery,3PL,3,15,1,2,Over Capacity,30,0.0,,,,Bartlesville,RIVERSIDE TRANSPORT INC,,,,[],,false,false,2.0
+,,7015-TAMI,TAMI,7015,Grocery,3PL,3,40,1,2,Over Capacity,12,0.0,,,,Bartlesville,TRANSAM TRUCKING INC,,,,[],,false,false,10.2
+,,7015-TNTI,TNTI,7015,Grocery,3PL,2,24,1,1,Over Capacity,20,0.0,,,,Bartlesville,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,7.67
+,,7015-USIT,USIT,7015,Grocery,3PL,3,24,1,2,Over Capacity,7,0.0,,,,Bartlesville,USA TRUCK LLC,,,,[],,false,false,4.0
+,,7016-CPIF,CPIF,7016,Grocery,3PL,5,21,1,4,At Capacity,90,0.0,,,,Gordonsville,CARGO PARTNERS INTL INC,,,,[],,true,true,25.8
+,,7016-CVEN,CVEN,7016,Grocery,3PL,1,28,1,0,At Capacity,0,0.0,,,,Gordonsville,COVENANT TRANSPORT INC,,,,[],,false,false,3.0
+,,7016-DPMQ,DPMQ,7016,Grocery,3PL,3,17,1,2,At Capacity,4,0.0,,,,Gordonsville,DPM LOGISTICS LLC,,,,[],,false,false,4.5
+,,7016-FCLC,FCLC,7016,Grocery,3PL,1,36,1,0,At Capacity,0,0.0,,,,Gordonsville,CARROLL FULMER,,,,[],,false,false,5.0
+,,7016-HJBT,HJBT,7016,Grocery,3PL,1,23,1,0,At Capacity,0,,,,,Gordonsville,JB HUNT,,,,[],,false,false,
+,,7016-METG,METG,7016,Grocery,3PL,3,34,1,2,At Capacity,8,0.0,,,,Gordonsville,Moeller Trucking Inc.,,,,[],,false,false,1.67
+,,7016-PREZ,PREZ,7016,Grocery,3PL,1,38,1,0,At Capacity,0,0.0,,,,Gordonsville,,,,,[],,false,false,7.0
+,,7016-RCXB,RCXB,7016,Grocery,3PL,3,15,1,2,At Capacity,34,0.0,,,,Gordonsville,RED CLASSIC TRANSIT LLC,,,,[],,false,false,10.33
+,,7016-SCNN,SCNN,7016,Grocery,3PL,1,39,1,0,At Capacity,0,0.0,,,,Gordonsville,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,2.33
+,,7016-SMTA,SMTA,7016,Grocery,3PL,4,27,1,3,At Capacity,38,0.0,,,,Gordonsville,SMITH TRANSPORT INC,,,,[],,false,false,5.8
+,,7016-SWFT,SWFT,7016,Grocery,3PL,4,26,1,3,At Capacity,2,0.0,,,,Gordonsville,SWIFT,,,,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,false,false,14.67
+,,7016-USIT,USIT,7016,Grocery,3PL,4,37,1,3,At Capacity,50,0.0,,,,Gordonsville,USA TRUCK LLC,,,,[],,false,false,17.6
+,,7016-USXI,USXI,7016,Grocery,3PL,7,40,1,6,At Capacity,8,0.0,,,,Gordonsville,U S XPRESS INC,,,,[],,false,true,4.9
+,,7017-BYLR,BYLR,7017,Grocery,3PL,5,33,1,4,At Capacity,15,0.0,,,,Wintersville,Baylor Trucking Inc.,,,,[],,true,true,5.0
+,,7017-COXS,COXS,7017,Grocery,3PL,2,25,1,1,At Capacity,14,0.0,,,,Wintersville,"CONTINENTAL EXPRESS, INC.",,,,[],,false,false,4.33
+,,7017-JBHT,JBHT,7017,Grocery,3PL,2,36,1,1,At Capacity,2,0.0,,,,Wintersville,JB HUNT,,,,[],,false,false,1.0
+,,7017-SALJ,SALJ,7017,Grocery,3PL,3,29,1,2,At Capacity,4,0.0,,,,Wintersville,A.L. SMITH TRUCKING INC,,,,[],,false,false,3.67
+,,7017-SMTA,SMTA,7017,Grocery,3PL,4,26,1,3,At Capacity,61,0.0,,,,Wintersville,SMITH TRANSPORT INC,,,,[],,false,false,2.0
+,,7018-FRCI,FRCI,7018,Grocery,3PL,7,39,1,6,At Capacity,90,0.0,,,,North Platte,FREMONT CONTRACT CARRIERS INC,,,,[],,true,true,11.67
+,,7018-JOFD,JOFD,7018,Grocery,3PL,3,26,1,2,At Capacity,90,0.0,,,,North Platte,JOHNSON FEED INC,,,,[],,false,false,3.0
+,,7018-PRIM,PRIM,7018,Grocery,3PL,1,23,1,0,At Capacity,0,0.0,,,,North Platte,PRIME SHIPPING INTERNATIONAL INC,,,,[],,false,false,2.0
+,,7018-SNRS,SNRS,7018,Grocery,3PL,5,34,1,4,At Capacity,13,0.0,,,,North Platte,SUNRISE EXPRESS INC,,,,[],,true,true,5.33
+,,7018-STVV,STVV,7018,Grocery,3PL,1,39,1,0,At Capacity,0,0.0,,,,North Platte,STEVENS TRANSPORT INC,,,,[],,false,false,1.0
+,,7018-TAMI,TAMI,7018,Grocery,3PL,4,22,1,3,At Capacity,77,0.0,,,,North Platte,TRANSAM TRUCKING INC,,,,[],,false,false,4.0
+,,7018-TTLI,TTLI,7018,Grocery,3PL,3,26,1,2,At Capacity,15,0.0,,,,North Platte,TAYLOR TRANSPORTATION & LOGISTICS INC,,,,[],,false,false,3.67
+,,7018-WERE,WERE,7018,Grocery,3PL,3,14,1,2,At Capacity,4,0.0,,,,North Platte,WERNER,,,,[],,false,false,7.67
+,,7019-HLEX,HLEX,7019,Grocery,3PL,3,30,1,2,At Capacity,9,0.0,,,,Brundidge,HEARTLAND EXPRESS,,,,[],,false,false,2.75
+,,7019-JBHT,JBHT,7019,Grocery,3PL,8,17,1,7,At Capacity,90,0.0,,,,Brundidge,JB HUNT,,,,[],,true,true,20.07
+,,7019-KNIG,KNIG,7019,Grocery,3PL,2,36,1,1,At Capacity,89,0.0,,,,Brundidge,KNIGHT TRANSPORTATION INC,,,,[],,false,false,1.0
+,,7019-SDRW,SDRW,7019,Grocery,3PL,2,31,1,1,At Capacity,1,,,,,Brundidge,"SANDERS, WILEY TRUCK LINES INC",,,,[],,false,false,
+,,7019-TTLI,TTLI,7019,Grocery,3PL,3,23,1,2,At Capacity,19,0.0,,,,Brundidge,TAYLOR TRANSPORTATION & LOGISTICS INC,,,,[],,false,false,7.0
+,,7021-DAIG,DAIG,7021,Grocery,3PL,2,23,1,1,Over Capacity,20,0.0,,,,Grandview,DARIGOLD INC,,,,[],,false,false,1.0
+,,7021-TTPW,TTPW,7021,Grocery,3PL,1,22,1,0,Over Capacity,0,0.0,,,,Grandview,"Tate Transportation, Inc.",,,,[],,false,false,2.0
+,,7023-ABTS,ABTS,7023,Grocery,3PL,1,30,1,0,Over Capacity,0,0.0,,,,Arcadia,ABCO Transportation,,,,[],,false,false,9.0
+,,7023-GING,GING,7023,Grocery,3PL,4,29,1,3,Over Capacity,33,0.0,,,,Arcadia,GINGERICH TRUCKING LLC,,,,[],,false,false,8.0
+,,7023-HAEI,HAEI,7023,Grocery,3PL,3,14,1,2,Over Capacity,5,0.0,,,,Arcadia,HEARTLAND EXPRESS SERVICES INC,,,,[],,false,false,4.5
+,,7023-HEYL,HEYL,7023,Grocery,3PL,2,28,1,1,Over Capacity,34,0.0,,,,Arcadia,HEYL LOGISTICS INC,,,,[],,false,false,1.0
+,,7023-HLEX,HLEX,7023,Grocery,3PL,2,17,1,1,Over Capacity,2,0.0,,,,Arcadia,HEARTLAND EXPRESS,,,,[],,false,false,1.5
+,,7023-JTKY,JTKY,7023,Grocery,3PL,5,38,1,4,Over Capacity,26,0.0,,,,Arcadia,J TRUCKING COMPANY,,,,[],,true,true,15.2
+,,7023-KLMI,KLMI,7023,Grocery,3PL,2,30,1,1,Over Capacity,6,0.0,,,,Arcadia,KLLM TRANSPORT SERVICES LLC,,,,[],,false,false,2.67
+,,7023-LSLG,LSLG,7023,Grocery,3PL,5,20,1,4,Over Capacity,90,0.0,,,,Arcadia,LGL GLOBAL,,,,[],,true,true,7.0
+,,7023-ROEV,ROEV,7023,Grocery,3PL,2,27,1,1,Over Capacity,4,0.0,,,,Arcadia,ROEHL TRANSPORT INC,,,,[],,false,false,5.0
+,,7024-JBHR,JBHR,7024,Grocery,3PL,6,41,1,5,Over Capacity,29,0.0,,,,Sterling,JB HUNT,,,,[],,true,true,6.0
+,,7024-NAVE,NAVE,7024,Grocery,3PL,1,18,1,0,Over Capacity,0,0.0,,,,Sterling,Navajo Express,,,,[],,false,false,2.0
+,,7024-OTRO,OTRO,7024,Grocery,3PL,2,14,1,1,Over Capacity,46,0.0,,,,Sterling,OLSEN TRUCKING,,,,[],,false,false,1.5
+,,7024-RCXB,RCXB,7024,Grocery,3PL,2,21,1,1,Over Capacity,70,0.0,,,,Sterling,RED CLASSIC TRANSIT LLC,,,,[],,false,false,3.0
+,,7024-RGPO,RGPO,7024,Grocery,3PL,3,21,1,2,Over Capacity,28,0.0,,,,Sterling,R G TRANSPORT LLC,,,,[],,false,false,3.67
+,,7024-SVNT,SVNT,7024,Grocery,3PL,4,16,1,3,Over Capacity,90,0.0,,,,Sterling,STEVENS TRUCKING CO,,,,[],,false,false,12.5
+,,7024-SWFT,SWFT,7024,Grocery,3PL,3,26,1,2,Over Capacity,39,0.0,,,,Sterling,SWIFT,,,,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,false,false,2.67
+,,7024-WERE,WERE,7024,Grocery,3PL,1,22,1,0,Over Capacity,0,0.0,,,,Sterling,WERNER,,,,[],,false,false,2.0
+,,7030-BNUN,BNUN,7030,Grocery,3PL,5,20,1,4,Near Capacity,90,0.0,,,,Pottsville,BARR-NUNN TRANSPORTATION INC,,,,[],,true,true,9.0
+,,7030-CIEQ,CIEQ,7030,Grocery,3PL,2,15,1,1,Near Capacity,3,0.0,,,,Pottsville,COWAN SYSTEMS LLC,,,,[],,false,false,18.0
+,,7030-DUPO,DUPO,7030,Grocery,3PL,2,26,1,1,Near Capacity,4,0.0,,,,Pottsville,DUPONT MOTOR LINES INC,,,,[],,false,false,3.5
+,,7030-EVTP,EVTP,7030,Grocery,3PL,5,28,1,4,Near Capacity,90,0.0,,,,Pottsville,EVAN TRANSPORTATION INC,,,,[],,true,true,6.6
+,,7030-KLTR,KLTR,7030,Grocery,3PL,2,17,1,1,Near Capacity,3,0.0,,,,Pottsville,"KELLER, THOMAS E TRUCKING INC",,,,[],,false,false,5.0
+,,7030-NELA,NELA,7030,Grocery,3PL,4,16,1,3,Near Capacity,90,0.0,,,,Pottsville,NATIONAL ELITE TRANSPORTATION LLC,,,,[],,false,false,7.5
+,,7030-NPAT,NPAT,7030,Grocery,3PL,2,31,1,1,Near Capacity,1,0.0,,,,Pottsville,NAPA TRANSPORTATION INC,,,,[],,false,false,
+,,7030-TNTI,TNTI,7030,Grocery,3PL,1,32,1,0,Near Capacity,0,,,,,Pottsville,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,
+,,7030-USXI,USXI,7030,Grocery,3PL,1,35,1,0,Near Capacity,0,0.0,,,,Pottsville,U S XPRESS INC,,,,[],,false,false,1.0
+,,7030-WOLH,WOLH,7030,Grocery,3PL,3,30,1,2,Near Capacity,3,0.0,,,,Pottsville,H O WOLDING INC D/B/A BISON TRANSPORT USA,,,,[],,false,false,3.0
+,,7047-GDFY,GDFY,7047,Grocery,3PL,2,27,1,1,Normal Capacity,6,0.0,,,,Fontana,GODFREY TRUCKING INC,,,,[],,false,false,1.0
+,,7047-JBHT,JBHT,7047,Grocery,3PL,4,41,1,3,Normal Capacity,22,0.0,,,,Fontana,JB HUNT,,,,[],,false,false,2.0
+,,7047-LXDI,LXDI,7047,Grocery,3PL,2,23,1,1,Normal Capacity,1,0.0,,,,Fontana,,,,,[],,false,false,
+,,7047-TMUQ,TMUQ,7047,Grocery,3PL,1,31,1,0,Normal Capacity,0,0.0,,,,Fontana,T M T INDUSTRIES INC,,,,[],,false,false,1.0
+,,7048-GTZJ,GTZJ,7048,Grocery,3PL,1,28,1,0,Over Capacity,0,0.0,,,,McCarran,GHUMMAN TRUCKING INC,,,,[],,false,false,2.0
+,,7048-HLEX,HLEX,7048,Grocery,3PL,3,23,1,2,Over Capacity,31,0.0,,,,McCarran,HEARTLAND EXPRESS,,,,[],,false,false,2.33
+,,7048-KAMW,KAMW,7048,Grocery,3PL,2,32,1,1,Over Capacity,1,0.0,,,,McCarran,KAM-WAY TRANSPORTATION INC,,,,[],,false,false,1.5
+,,7048-SWFT,SWFT,7048,Grocery,3PL,3,36,1,2,Over Capacity,87,0.0,,,,McCarran,SWIFT,,"Due to inbound volume, we would need 3 trailers on site. Working on removing 2 highest idle ones.",2024-04-12,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,false,false,8.67
+,,7048-WERE,WERE,7048,Grocery,3PL,6,21,1,5,Over Capacity,71,0.0,,,,McCarran,WERNER,,,,[],,true,true,13.0
+,,7055-AKHT,AKHT,7055,Grocery,3PL,2,18,1,1,Near Capacity,16,0.0,,,,Gas City,ARMOUR ECKRICH TRANSPORTATION,,,,[],,false,false,2.5
+,,7055-BYLR,BYLR,7055,Grocery,3PL,3,25,1,2,Near Capacity,40,0.0,,,,Gas City,Baylor Trucking Inc.,,,,[],,false,false,1.0
+,,7055-CVEN,CVEN,7055,Grocery,3PL,1,23,1,0,Near Capacity,0,0.0,,,,Gas City,COVENANT TRANSPORT INC,,,,[],,false,false,2.67
+,,7055-DART,DART,7055,Grocery,3PL,5,34,1,4,Near Capacity,73,0.0,,,,Gas City,DART TRANSIT COMPANY,,,,[],,true,true,4.5
+,,7055-DTNY,DTNY,7055,Grocery,3PL,3,28,1,2,Near Capacity,5,0.0,,,,Gas City,DEDICATED TRANSPORTATION SYSTEMS LLC,,,,[],,false,false,4.0
+,,7055-HIRS,HIRS,7055,Grocery,3PL,1,29,1,0,Near Capacity,0,0.0,,,,Gas City,HIRSCHBACH MOTOR LINES IN,,,,[],,false,false,2.0
+,,7055-HKRA,HKRA,7055,Grocery,3PL,2,25,1,1,Near Capacity,87,0.0,,,,Gas City,WM HOEKSTRA & SONS,,,,[],,false,false,9.0
+,,7055-HMDT,HMDT,7055,Grocery,3PL,3,23,1,2,Near Capacity,15,0.0,,,,Gas City,HMD TRUCKING INC,,,,[],,false,false,3.33
+,,7055-KLTR,KLTR,7055,Grocery,3PL,1,35,1,0,Near Capacity,0,0.0,,,,Gas City,"KELLER, THOMAS E TRUCKING INC",,,,[],,false,false,2.5
+,,7055-KNIG,KNIG,7055,Grocery,3PL,2,35,1,1,Near Capacity,6,0.0,,,,Gas City,KNIGHT TRANSPORTATION INC,,,,[],,false,false,5.0
+,,7055-PPEA,PPEA,7055,Grocery,3PL,2,19,1,1,Near Capacity,1,0.0,,,,Gas City,TUCKER FREIGHT LINES,,,,[],,false,false,5.0
+,,7055-RCXB,RCXB,7055,Grocery,3PL,4,28,1,3,Near Capacity,45,0.0,,,,Gas City,RED CLASSIC TRANSIT LLC,,,,[],,false,false,10.75
+,,7055-RGPO,RGPO,7055,Grocery,3PL,6,24,1,5,Near Capacity,72,0.0,,,,Gas City,R G TRANSPORT LLC,,,,[],,true,true,7.0
+,,7055-RTQR,RTQR,7055,Grocery,3PL,3,41,1,2,Near Capacity,13,0.0,,,,Gas City,RENEWABLE TRANSPORT SERVICES INC,,,,[],,false,false,3.5
+,,7055-SHAF,SHAF,7055,Grocery,3PL,2,36,1,1,Near Capacity,1,0.0,,,,Gas City,SHAFFER TRUCKING INC,,,,[],,false,false,6.0
+,,7055-SWFT,SWFT,7055,Grocery,3PL,1,27,1,0,Near Capacity,0,0.0,,,,Gas City,SWIFT,,,,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,false,false,4.33
+,,7055-TNTI,TNTI,7055,Grocery,3PL,1,22,1,0,Near Capacity,0,0.0,,,,Gas City,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,
+,,7077-DEKR,DEKR,7077,Grocery,3PL,4,34,1,3,Near Capacity,87,0.0,,,,Cheyenne,DECKER TRUCK LINE,,,,[],,false,false,3.0
+,,7077-DMCC,DMCC,7077,Grocery,3PL,2,14,1,1,Near Capacity,13,0.0,,,,Cheyenne,FREYMILLER,,,,[],,false,false,5.5
+,,7077-HAEI,HAEI,7077,Grocery,3PL,1,15,1,0,Near Capacity,0,0.0,,,,Cheyenne,HEARTLAND EXPRESS SERVICES INC,,,,[],,false,false,2.0
+,,7077-NAVJ,NAVJ,7077,Grocery,3PL,2,28,1,1,Near Capacity,24,0.0,,,,Cheyenne,Navajo Express,,,,[],,false,false,6.33
+,,7077-ODFL,ODFL,7077,Grocery,3PL,2,16,1,1,Near Capacity,7,0.0,,,,Cheyenne,OLD DOMINION FREIGHT LINE INC,,,,[],,false,false,1.0
+,,7077-PCGV,PCGV,7077,Grocery,3PL,3,41,1,2,Near Capacity,16,0.0,,,,Cheyenne,PREFERRED CARTAGE SERVICE INC,,,,[],,false,false,1.0
+,,7077-RDXO,RDXO,7077,Grocery,3PL,3,26,1,2,Near Capacity,87,0.0,,,,Cheyenne,"RAIDER EXPRESS, INC.",,,,[],,false,false,5.0
+,,7077-SWFT,SWFT,7077,Grocery,3PL,4,28,1,3,Near Capacity,3,0.0,,,,Cheyenne,SWIFT,,,,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,false,false,7.33
+,,7077-TKRK,TKRK,7077,Grocery,3PL,3,26,1,2,Near Capacity,87,0.0,,,,Cheyenne,TREKKER LOGISTICS LLC,,,,[],,false,false,4.5
+,,7079-BAYN,BAYN,7079,Grocery,3PL,3,30,1,2,Near Capacity,1,0.0,,,,Mankato,BAY & BAY TRANSFER CO INC,,,,[],,false,false,
+,,7079-BINN,BINN,7079,Grocery,3PL,1,18,1,0,Near Capacity,0,0.0,,,,Mankato,BUSHMANNS INCORPORATED,,,,[],,false,false,2.5
+,,7079-HEYL,HEYL,7079,Grocery,3PL,3,41,1,2,Near Capacity,86,0.0,,,,Mankato,HEYL LOGISTICS INC,,,,[],,false,false,2.0
+,,7079-HIRS,HIRS,7079,Grocery,3PL,4,28,1,3,Near Capacity,12,0.0,,,,Mankato,HIRSCHBACH MOTOR LINES IN,,,,[],,false,false,7.0
+,,7079-KNJT,KNJT,7079,Grocery,3PL,2,17,1,1,Near Capacity,1,0.0,,,,Mankato,K & J TRUCKING INC,,,,[],,false,false,2.0
+,,7079-MBMK,MBMK,7079,Grocery,3PL,2,21,1,1,Near Capacity,2,0.0,,,,Mankato,MARTINS BULK MILK SERVICE INC,,,,[],,false,false,2.5
+,,7079-ROEK,ROEK,7079,Grocery,3PL,4,35,1,3,Near Capacity,28,0.0,,,,Mankato,ROEHL,,,,[],,false,false,5.75
+,,8348-NAVJ,NAVJ,8348,Grocery,3PL,7,18,1,6,Normal Capacity,38,0.0,,,,,Navajo Express,,,,[],,true,true,10.4
+,,8348-PRIJ,PRIJ,8348,Grocery,3PL,3,14,1,2,Normal Capacity,10,0.0,,,,,PRIME INC,,,,[],,false,false,4.33
+,,8851-KINI,KINI,8851,Grocery,3PL,4,17,1,3,Over Capacity,40,0.0,,,,Cocoa,KTL INC.,,,,[],,false,false,6.25
+,,8851-KLMI,KLMI,8851,Grocery,3PL,4,22,1,3,Over Capacity,3,0.0,,,,Cocoa,KLLM TRANSPORT SERVICES LLC,,,,[],,false,false,4.75
+,,8851-PRIJ,PRIJ,8851,Grocery,3PL,2,16,1,1,Over Capacity,5,0.0,,,,Cocoa,PRIME INC,,,,[],,false,false,4.5
+,,8851-TTMS,TTMS,8851,Grocery,3PL,3,25,1,2,Over Capacity,28,0.0,,,,Cocoa,TOTAL TRANSPORTATION OF MISSISSIPPI LLC,,,,[],,false,false,2.5
+,,8851-WIEL,WIEL,8851,Grocery,3PL,1,31,1,0,Over Capacity,0,0.0,,,,Cocoa,WEL Companies Inc,,,,[],,false,false,1.5
+,,8852-MTEN,MTEN,8852,Grocery,3PL,1,16,1,0,Near Capacity,0,0.0,,,,Shafter,MARTEN TRANSPORT LTD,,,,[],,false,false,2.0
+,,6084-PRPD1,PRPD1,6084,Grocery,3PL,1,15,1,0,Over Capacity,0,0.0,,,,Los Lunas,,,,,[],,false,false,4.0
+,,6097-PRPD1,PRPD1,6097,Grocery,3PL,2,27,1,1,At Capacity,3,0.0,,,,London,,,,,[],,false,false,3.0
+,,4047-W-2374,W-2374,4047,Grocery,3PL,1,26,1,0,At Capacity,0,,,,,,,,,,[],,false,false,
+,,8852-W-6888,W-6888,8852,Grocery,3PL,9,14,1,8,Near Capacity,58,,,,,Shafter,,,,,[],,true,true,
+,,8852-W-7825,W-7825,8852,Grocery,3PL,1,25,1,0,Near Capacity,0,,,,,Shafter,,,,,[],,false,false,
+,,6042-CJHT,CJHT,6042,Grocery,3PL,1,59,2,0,At Capacity,0,0.0,,,,Pauls Valley,"CHRISTNER, JOHN TRUCKING INC",,,,[],,false,false,14.0
+,,6042-PRIJ,PRIJ,6042,Grocery,3PL,4,48,2,2,At Capacity,5,0.0,,,,Pauls Valley,PRIME INC,,,,[],,false,false,2.0
+,,6042-SCNN,SCNN,6042,Grocery,3PL,1,42,2,0,At Capacity,0,0.0,,,,Pauls Valley,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,3.5
+,,6047-BNUN,BNUN,6047,Grocery,3PL,8,67,2,6,Normal Capacity,93,0.0,,,,Bedford,BARR-NUNN TRANSPORTATION INC,,,,[],,true,true,6.63
+,,6047-COXS,COXS,6047,Grocery,3PL,3,45,2,1,Normal Capacity,1,0.0,,,,Bedford,"CONTINENTAL EXPRESS, INC.",,,,[],,false,false,1.5
+,,6047-CRCR,CRCR,6047,Grocery,3PL,6,62,2,4,Normal Capacity,93,0.0,,,,Bedford,CRETE,,,,[],,true,true,4.0
+,,6047-SWFT,SWFT,6047,Grocery,3PL,3,54,2,1,Normal Capacity,1,0.0,,,,Bedford,SWIFT,,,,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,false,false,
+,,6055-PGDB,PGDB,6055,Grocery,3PL,7,68,2,5,Over Capacity,31,0.0,,,,Monroe,PROCTER & GAMBLE DISTRIBUTING LLC,,,,[],,true,true,8.83
+,,6055-USIT,USIT,6055,Grocery,3PL,13,66,2,11,Over Capacity,75,0.0,,,,Monroe,USA TRUCK LLC,,,,[],,true,true,15.45
+,,6055-WSXI,WSXI,6055,Grocery,3PL,2,47,2,0,Over Capacity,0,0.0,,,,Monroe,WESTERN EXPRESS INC,,,,[],,false,false,2.0
+,,6057-DART,DART,6057,Grocery,3PL,2,56,2,0,At Capacity,0,0.0,,,,Hammond,DART TRANSIT COMPANY,,,,[],,false,false,1.0
+,,6057-HJBT,HJBT,6057,Grocery,3PL,5,44,2,3,At Capacity,19,0.0,,,,Hammond,JB HUNT,,,,[],,false,false,3.25
+,,6057-KNIG,KNIG,6057,Grocery,3PL,1,52,2,0,At Capacity,0,0.0,,,,Hammond,KNIGHT TRANSPORTATION INC,,,,[],,false,false,
+,,6057-MYRW,MYRW,6057,Grocery,3PL,6,52,2,4,At Capacity,90,0.0,,,,Hammond,MEYERS WAREHOUSE INC,,,,[],,true,true,5.4
+,,6057-PGDB,PGDB,6057,Grocery,3PL,4,63,2,2,At Capacity,4,0.0,,,,Hammond,PROCTER & GAMBLE DISTRIBUTING LLC,,,,[],,false,false,2.25
+,,6057-SCNN,SCNN,6057,Grocery,3PL,1,58,2,0,At Capacity,0,0.0,,,,Hammond,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,3.5
+,,6059-CVEN,CVEN,6059,Grocery,3PL,6,57,2,4,At Capacity,2,0.0,,,,Olney,COVENANT TRANSPORT INC,,,,[],,false,false,3.5
+,,6059-KNIG,KNIG,6059,Grocery,3PL,2,42,2,0,At Capacity,0,0.0,,,,Olney,KNIGHT TRANSPORTATION INC,,,,[],,false,false,1.0
+,,6059-ROEV,ROEV,6059,Grocery,3PL,6,56,2,4,At Capacity,91,0.0,,,,Olney,ROEHL TRANSPORT INC,,,,[],,true,true,5.67
+,,6062-TFTM,TFTM,6062,Grocery,3PL,2,45,2,0,Over Capacity,0,0.0,,,,Shelbyville,TAYLOR FARMS TENNESSEE INC,,,,[],,false,false,1.0
+,,6064-JBHT,JBHT,6064,Grocery,3PL,2,49,2,0,At Capacity,0,0.0,,,,Cleburne,JB HUNT,,,,[],,false,false,2.0
+,,6064-STVV,STVV,6064,Grocery,3PL,1,50,2,0,At Capacity,0,0.0,,,,Cleburne,STEVENS TRANSPORT INC,,,,[],,false,false,
+,,6064-TFYI,TFYI,6064,Grocery,3PL,4,47,2,2,At Capacity,6,0.0,,,,Cleburne,TRUCKS FOR YOU INC,,,,[],,false,false,4.75
+,,6065-BTAK,BTAK,6065,Grocery,3PL,2,51,2,0,Over Capacity,0,0.0,,,,Harrisonville,BUTLER TRANSPORT INC,,,,[],,false,false,1.0
+,,6065-PRIJ,PRIJ,6065,Grocery,3PL,4,59,2,2,Over Capacity,7,0.0,,,,Harrisonville,PRIME INC,,,,[],,false,false,3.0
+,,6065-SHAF,SHAF,6065,Grocery,3PL,4,52,2,2,Over Capacity,1,0.0,,,,Harrisonville,SHAFFER TRUCKING INC,,,,[],,false,false,3.33
+,,6065-SHKE,SHKE,6065,Grocery,3PL,2,45,2,0,Over Capacity,0,0.0,,,,Harrisonville,SHARKEY TRANSPORTATION INC,,,,[],,false,false,3.0
+,,6065-SWFT,SWFT,6065,Grocery,3PL,5,69,2,3,Over Capacity,11,0.0,,,,Harrisonville,SWIFT,,,,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,false,false,7.25
+,,6065-TAMI,TAMI,6065,Grocery,3PL,3,50,2,1,Over Capacity,91,0.0,,,,Harrisonville,TRANSAM TRUCKING INC,,,,[],,false,false,4.0
+,,6071-ABTS,ABTS,6071,Grocery,3PL,2,43,2,0,Over Capacity,0,0.0,,,,Winter Haven,ABCO Transportation,,,,[],,false,false,6.0
+,,6071-CRCR,CRCR,6071,Grocery,3PL,1,58,2,0,Over Capacity,0,0.0,,,,Winter Haven,CRETE,,,,[],,false,false,1.0
+,,6071-SDLC,SDLC,6071,Grocery,3PL,4,53,2,2,Over Capacity,13,0.0,,,,Winter Haven,SADDLE CREEK TRANSPORTATION INC,,,,[],,false,false,10.0
+,,6072-CVEN,CVEN,6072,Grocery,3PL,4,42,2,2,Over Capacity,2,0.0,,,,New Albany,COVENANT TRANSPORT INC,,,,[],,false,false,5.33
+,,6072-KNIG,KNIG,6072,Grocery,3PL,7,63,2,5,Over Capacity,7,0.0,,,,New Albany,KNIGHT TRANSPORTATION INC,,,,[],,false,true,3.58
+,,6072-ROEV,ROEV,6072,Grocery,3PL,5,65,2,3,Over Capacity,5,0.0,,,,New Albany,ROEHL TRANSPORT INC,,,,[],,false,false,1.0
+,,6072-SWFT,SWFT,6072,Grocery,3PL,4,48,2,2,Over Capacity,1,0.0,,,,New Albany,SWIFT,,,,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,false,false,6.5
+,,6072-TTMS,TTMS,6072,Grocery,3PL,2,57,2,0,Over Capacity,0,0.0,,,,New Albany,TOTAL TRANSPORTATION OF MISSISSIPPI LLC,,,,[],,false,false,2.0
+,,6072-USXI,USXI,6072,Grocery,3PL,1,43,2,0,Over Capacity,0,0.0,,,,New Albany,U S XPRESS INC,,,,[],,false,false,112.0
+,,6073-FCLC,FCLC,6073,Grocery,3PL,3,54,2,1,Over Capacity,8,0.0,,,,Pageland,CARROLL FULMER,,,,[],,false,false,1.0
+,,6073-HIRS,HIRS,6073,Grocery,3PL,3,56,2,1,Over Capacity,1,0.0,,,,Pageland,HIRSCHBACH MOTOR LINES IN,,,,[],,false,false,1.5
+,,6073-ROEV,ROEV,6073,Grocery,3PL,1,49,2,0,Over Capacity,0,0.0,,,,Pageland,ROEHL TRANSPORT INC,,,,[],,false,false,1.0
+,,6074-METG,METG,6074,Grocery,3PL,3,46,2,1,Near Capacity,3,0.0,,,,Garrett,Moeller Trucking Inc.,,,,[],,false,false,1.67
+,,6077-ENGC,ENGC,6077,Grocery,3PL,1,59,2,0,Near Capacity,0,0.0,,,,Moberly,CR England,,,,[],,false,false,3.0
+,,6077-PRIJ,PRIJ,6077,Grocery,3PL,2,63,2,0,Near Capacity,0,0.0,,,,Moberly,PRIME INC,,,,[],,false,false,1.75
+,,6082-JBHT,JBHT,6082,Grocery,3PL,5,47,2,3,Over Capacity,90,0.0,,,,Clarksvile,JB HUNT,,,,[],,false,false,5.25
+,,6082-PRIJ,PRIJ,6082,Grocery,3PL,4,63,2,2,Over Capacity,2,0.0,,,,Clarksvile,PRIME INC,,,,[],,false,false,3.33
+,,6082-ROEV,ROEV,6082,Grocery,3PL,4,55,2,2,Over Capacity,11,0.0,,,,Clarksvile,ROEHL TRANSPORT INC,,,,[],,false,false,4.0
+,,6082-TAMI,TAMI,6082,Grocery,3PL,6,49,2,4,Over Capacity,2,0.0,,,,Clarksvile,TRANSAM TRUCKING INC,,,,[],,false,false,3.6
+,,6082-USXI,USXI,6082,Grocery,3PL,11,62,2,9,Over Capacity,90,0.0,,,,Clarksvile,U S XPRESS INC,,,,[],,true,true,4.7
+,,6083-BCBO,BCBO,6083,Grocery,3PL,4,59,2,2,Near Capacity,1,0.0,,,,Temple,BCB TRANSPORT LLC,,,,[],,false,false,4.17
+,,6083-COXS,COXS,6083,Grocery,3PL,5,67,2,3,Near Capacity,13,0.0,,,,Temple,"CONTINENTAL EXPRESS, INC.",,,,[],,false,false,4.5
+,,6083-HJBT,HJBT,6083,Grocery,3PL,2,60,2,0,Near Capacity,0,0.0,,,,Temple,JB HUNT,,,,[],,false,false,1.0
+,,6083-PGDB,PGDB,6083,Grocery,3PL,5,68,2,3,Near Capacity,5,0.0,,,,Temple,PROCTER & GAMBLE DISTRIBUTING LLC,,,,[],,false,false,2.33
+,,6083-TTMS,TTMS,6083,Grocery,3PL,10,52,2,8,Near Capacity,90,0.0,,,,Temple,TOTAL TRANSPORTATION OF MISSISSIPPI LLC,,,,[],,true,true,7.0
+,,6084-BCBO,BCBO,6084,Grocery,3PL,5,54,2,3,Over Capacity,23,0.0,,,,Los Lunas,BCB TRANSPORT LLC,,,,[],,false,false,7.5
+,,6084-HAEI,HAEI,6084,Grocery,3PL,2,42,2,0,Over Capacity,0,0.0,,,,Los Lunas,HEARTLAND EXPRESS SERVICES INC,,,,[],,false,false,2.0
+,,6084-MSLV,MSLV,6084,Grocery,3PL,4,45,2,2,Over Capacity,33,0.0,,,,Los Lunas,MESILLA VALLEY TRANSPORTATION,,,,[],,false,false,2.8
+,,6084-SKHP,SKHP,6084,Grocery,3PL,2,62,2,0,Over Capacity,0,0.0,,,,Los Lunas,"Sky Transportation Services, Inc.",,,,[],,false,false,1.0
+,,6085-COTA,COTA,6085,Grocery,3PL,5,48,2,3,Near Capacity,44,0.0,,,,Tobyhanna,CONTRACT TRANSPORT SERVICES INC,,,,[],,false,false,1.75
+,,6085-SCNN,SCNN,6085,Grocery,3PL,1,46,2,0,Near Capacity,0,0.0,,,,Tobyhanna,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,
+,,6090-PRQT,PRQT,6090,Grocery,3PL,2,43,2,0,At Capacity,0,0.0,,,,Corinne,,,,,[],,false,false,1.0
+,,6091-MTEN,MTEN,6091,Grocery,3PL,5,52,2,3,Over Capacity,31,0.0,,,,Henderson,MARTEN TRANSPORT LTD,,,,[],,false,false,1.8
+,,6095-EQUT,EQUT,6095,Grocery,3PL,7,57,2,5,Near Capacity,11,0.0,,,,Opelika,EQUITY TRANSPORTATION COMPANY INC,,,,[],,true,true,6.86
+,,6095-TLIN,TLIN,6095,Grocery,3PL,3,50,2,1,Near Capacity,6,0.0,,,,Opelika,TRANSCO LINES INC,,,,[],,false,false,3.0
+,,6095-TNTI,TNTI,6095,Grocery,3PL,5,51,2,3,Near Capacity,1,0.0,,,,Opelika,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,3.0
+,,6096-BIOS,BIOS,6096,Grocery,3PL,1,46,2,0,At Capacity,0,0.0,,,,Johnstown,BISON TRANSPORT,,,,[],,false,false,5.5
+,,6096-PGDB,PGDB,6096,Grocery,3PL,3,66,2,1,At Capacity,2,0.0,,,,Johnstown,PROCTER & GAMBLE DISTRIBUTING LLC,,,,[],,false,false,12.5
+,,6096-STVV,STVV,6096,Grocery,3PL,3,67,2,1,At Capacity,6,0.0,,,,Johnstown,STEVENS TRANSPORT INC,,,,[],,false,false,2.5
+,,6096-SWFT,SWFT,6096,Grocery,3PL,3,53,2,1,At Capacity,2,0.0,,,,Johnstown,SWIFT,,,,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,false,false,4.0
+,,6097-HJBT,HJBT,6097,Grocery,3PL,6,56,2,4,At Capacity,10,0.0,,,,London,JB HUNT,,,,[],,false,true,7.2
+,,6097-OLIN,OLIN,6097,Grocery,3PL,2,45,2,0,At Capacity,0,0.0,,,,London,ONLINE TRANSPORT INC,,,,[],,false,false,7.0
+,,6097-SJRG,SJRG,6097,Grocery,3PL,9,67,2,7,At Capacity,27,0.0,,,,London,"SCHUGEL, J AND R TRUCKING INC",,,,[],,true,true,9.82
+,,6097-SWFT,SWFT,6097,Grocery,3PL,2,65,2,0,At Capacity,0,0.0,,,,London,SWIFT,,,,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,false,false,4.25
+,,6097-WSXI,WSXI,6097,Grocery,3PL,3,43,2,1,At Capacity,1,0.0,,,,London,WESTERN EXPRESS INC,,,,[],,false,false,2.33
+,,6099-METG,METG,6099,Grocery,3PL,4,46,2,2,Near Capacity,13,0.0,,,,Macclenny,Moeller Trucking Inc.,,,,[],,false,false,2.5
+,,6099-SCNN,SCNN,6099,Grocery,3PL,4,50,2,2,Near Capacity,1,0.0,,,,Macclenny,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,1.2
+,,6099-SWFT,SWFT,6099,Grocery,3PL,4,42,2,2,Near Capacity,4,0.0,,,,Macclenny,SWIFT,,,,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,false,false,3.0
+,,6858-MTEN,MTEN,6858,Grocery,3PL,3,58,2,1,Over Capacity,1,0.0,,,,Mebane,MARTEN TRANSPORT LTD,,,,[],,false,false,1.33
+,,6858-SHAF,SHAF,6858,Grocery,3PL,2,44,2,0,Over Capacity,0,0.0,,,,Mebane,SHAFFER TRUCKING INC,,,,[],,false,false,1.5
+,,7010-SVNT,SVNT,7010,Grocery,3PL,4,57,2,2,At Capacity,14,0.0,,,,New Caney,STEVENS TRUCKING CO,,,,[],,false,false,3.14
+,,7012-CWAC,CWAC,7012,Grocery,3PL,5,63,2,3,At Capacity,1,0.0,,,,Washington Court House,COWAN SYSTEMS LLC (DEDICATED),,,,[],,false,false,1.6
+,,7012-METG,METG,7012,Grocery,3PL,2,54,2,0,At Capacity,0,0.0,,,,Washington Court House,Moeller Trucking Inc.,,,,[],,false,false,1.0
+,,7012-MTEN,MTEN,7012,Grocery,3PL,2,50,2,0,At Capacity,0,0.0,,,,Washington Court House,MARTEN TRANSPORT LTD,,,,[],,false,false,2.0
+,,7012-ROEV,ROEV,7012,Grocery,3PL,2,48,2,0,At Capacity,0,0.0,,,,Washington Court House,ROEHL TRANSPORT INC,,,,[],,false,false,2.0
+,,7013-LEGS,LEGS,7013,Grocery,3PL,3,67,2,1,At Capacity,7,0.0,,,,Casa Grande,New Legend,,,,[],,false,false,11.25
+,,7013-MTEN,MTEN,7013,Grocery,3PL,4,55,2,2,At Capacity,3,0.0,,,,Casa Grande,MARTEN TRANSPORT LTD,,,,[],,false,false,4.0
+,,7013-TNTI,TNTI,7013,Grocery,3PL,7,53,2,5,At Capacity,4,0.0,,,,Casa Grande,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,1.75
+,,7014-CRCR,CRCR,7014,Grocery,3PL,4,50,2,2,Near Capacity,1,0.0,,,,Lewiston,CRETE,,,,[],,false,false,9.25
+,,7014-PGDB,PGDB,7014,Grocery,3PL,4,42,2,2,Near Capacity,9,0.0,,,,Lewiston,PROCTER & GAMBLE DISTRIBUTING LLC,,,,[],,false,false,5.67
+,,7014-SBYM,SBYM,7014,Grocery,3PL,3,52,2,1,Near Capacity,2,0.0,,,,Lewiston,SIBLEY TRANSPORTATION INC,,,,[],,false,false,2.0
+,,7015-SCNN,SCNN,7015,Grocery,3PL,5,54,2,3,Over Capacity,22,0.0,,,,Bartlesville,SCHNEIDER,,"We have other customers that ship in and out of this location so we will need the plan to be increased. Right now, we have a plan of 14. 
+
+Bailey: 
+397319 W 3000 Rd, Ochelata, OK",2024-05-09,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,3.8
+,,7015-STVV,STVV,7015,Grocery,3PL,6,48,2,4,Over Capacity,10,0.0,,,,Bartlesville,STEVENS TRANSPORT INC,,,,[],,false,true,5.33
+,,7015-SWFT,SWFT,7015,Grocery,3PL,5,61,2,3,Over Capacity,20,0.0,,,,Bartlesville,SWIFT,,,,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,false,false,3.63
+,,7015-TLDN,TLDN,7015,Grocery,3PL,6,59,2,4,Over Capacity,7,0.0,,,,Bartlesville,TRANSCO LINES INC (DEDICATED),,,,[],,false,true,5.4
+,,7016-CWAC,CWAC,7016,Grocery,3PL,5,42,2,3,At Capacity,17,0.0,,,,Gordonsville,COWAN SYSTEMS LLC (DEDICATED),,,,[],,false,false,10.8
+,,7016-CWAS,CWAS,7016,Grocery,3PL,4,48,2,2,At Capacity,15,0.0,,,,Gordonsville,COWAN SYSTEMS LLC,,,,[],,false,false,10.0
+,,7016-DART,DART,7016,Grocery,3PL,1,43,2,0,At Capacity,0,0.0,,,,Gordonsville,DART TRANSIT COMPANY,,,,[],,false,false,2.0
+,,7016-PGDB,PGDB,7016,Grocery,3PL,11,64,2,9,At Capacity,90,0.0,,,,Gordonsville,PROCTER & GAMBLE DISTRIBUTING LLC,,,,[],,true,true,8.3
+,,7016-TNTI,TNTI,7016,Grocery,3PL,6,46,2,4,At Capacity,3,0.0,,,,Gordonsville,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,3.6
+,,7017-CVEN,CVEN,7017,Grocery,3PL,5,64,2,3,At Capacity,20,0.0,,,,Wintersville,COVENANT TRANSPORT INC,,,,[],,false,false,3.67
+,,7017-DART,DART,7017,Grocery,3PL,4,50,2,2,At Capacity,5,0.0,,,,Wintersville,DART TRANSIT COMPANY,,,,[],,false,false,5.63
+,,7017-PAMT,PAMT,7017,Grocery,3PL,2,53,2,0,At Capacity,0,0.0,,,,Wintersville,P A M TRANSPORT INC,,,,[],,false,false,3.0
+,,7017-ROEV,ROEV,7017,Grocery,3PL,5,46,2,3,At Capacity,13,0.0,,,,Wintersville,ROEHL TRANSPORT INC,,,,[],,false,false,4.8
+,,7017-SWFT,SWFT,7017,Grocery,3PL,6,57,2,4,At Capacity,7,0.0,,,,Wintersville,SWIFT,,,,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,false,true,4.4
+,,7018-ENGC,ENGC,7018,Grocery,3PL,4,50,2,2,At Capacity,2,0.0,,,,North Platte,CR England,,,,[],,false,false,1.75
+,,7018-HIRS,HIRS,7018,Grocery,3PL,3,44,2,1,At Capacity,26,0.0,,,,North Platte,HIRSCHBACH MOTOR LINES IN,,,,[],,false,false,3.25
+,,7018-LEGS,LEGS,7018,Grocery,3PL,1,49,2,0,At Capacity,0,0.0,,,,North Platte,New Legend,,,,[],,false,false,2.0
+,,7018-NAVJ,NAVJ,7018,Grocery,3PL,5,69,2,3,At Capacity,1,0.0,,,,North Platte,Navajo Express,,,,[],,false,false,5.0
+,,7019-CQQE,CQQE,7019,Grocery,3PL,3,61,2,1,At Capacity,2,0.0,,,,Brundidge,CAM TRANSPORT INC,,,,[],,false,false,4.0
+,,7019-SAGQ,SAGQ,7019,Grocery,3PL,6,56,2,4,At Capacity,90,0.0,,,,Brundidge,SOUTHERN AG CARRIERS INC,,,,[],,true,true,8.6
+,,7021-CRCR,CRCR,7021,Grocery,3PL,4,45,2,2,Over Capacity,40,0.0,,,,Grandview,CRETE,,,,[],,false,false,5.8
+,,7021-CREU,CREU,7021,Grocery,3PL,3,46,2,1,Over Capacity,4,0.0,,,,Grandview,CR England,,,,[],,false,false,7.67
+,,7021-MAYX,MAYX,7021,Grocery,3PL,5,48,2,3,Over Capacity,24,0.0,,,,Grandview,MAY TRUCKING COMPANY,,,,[],,false,false,2.0
+,,7023-ARKY,ARKY,7023,Grocery,3PL,2,42,2,0,Over Capacity,0,0.0,,,,Arcadia,ARKA EXPRESS INC,,,,[],,false,false,3.0
+,,7023-HJBT,HJBT,7023,Grocery,3PL,6,45,2,4,Over Capacity,90,0.0,,,,Arcadia,JB HUNT,,,,[],,true,true,23.0
+,,7024-CPIF,CPIF,7024,Grocery,3PL,5,46,2,3,Over Capacity,38,0.0,,,,Sterling,CARGO PARTNERS INTL INC,,,,[],,false,false,3.5
+,,7024-CREN,CREN,7024,Grocery,3PL,5,45,2,3,Over Capacity,89,0.0,,,,Sterling,CR England,,,,[],,false,false,4.75
+,,7024-CVEN,CVEN,7024,Grocery,3PL,6,66,2,4,Over Capacity,15,0.0,,,,Sterling,COVENANT TRANSPORT INC,,,,[],,true,true,2.83
+,,7024-GRTG,GRTG,7024,Grocery,3PL,6,58,2,4,Over Capacity,34,0.0,,,,Sterling,GARNER TRUCKING INC,,,,[],,true,true,4.25
+,,7024-HEYL,HEYL,7024,Grocery,3PL,5,50,2,3,Over Capacity,90,0.0,,,,Sterling,HEYL LOGISTICS INC,,,,[],,false,false,4.83
+,,7024-HIET,HIET,7024,Grocery,3PL,7,54,2,5,Over Capacity,90,0.0,,,,Sterling,HIEL TRUCKING INC,,,,[],,true,true,6.33
+,,7024-HIRS,HIRS,7024,Grocery,3PL,9,63,2,7,Over Capacity,90,0.0,,,,Sterling,HIRSCHBACH MOTOR LINES IN,,,,[],,true,true,6.5
+,,7024-KNIG,KNIG,7024,Grocery,3PL,11,52,2,9,Over Capacity,90,0.0,,,,Sterling,KNIGHT TRANSPORTATION INC,,,,[],,true,true,13.2
+,,7030-BISN,BISN,7030,Grocery,3PL,3,54,2,1,Near Capacity,9,0.0,,,,Pottsville,BISON TRANSPORT,,,,[],,false,false,3.5
+,,7030-CRCR,CRCR,7030,Grocery,3PL,2,45,2,0,Near Capacity,0,0.0,,,,Pottsville,CRETE,,,,[],,false,false,2.33
+,,7030-CWAC,CWAC,7030,Grocery,3PL,2,52,2,0,Near Capacity,0,0.0,,,,Pottsville,COWAN SYSTEMS LLC (DEDICATED),,,,[],,false,false,4.0
+,,7030-CWAS,CWAS,7030,Grocery,3PL,7,62,2,5,Near Capacity,10,0.0,,,,Pottsville,COWAN SYSTEMS LLC,,,,[],,false,true,4.75
+,,7030-HIRS,HIRS,7030,Grocery,3PL,6,63,2,4,Near Capacity,35,0.0,,,,Pottsville,HIRSCHBACH MOTOR LINES IN,,,,[],,true,true,5.6
+,,7030-MLVC,MLVC,7030,Grocery,3PL,2,44,2,0,Near Capacity,0,0.0,,,,Pottsville,MASSER LOGISTICS SERVICES INC,,,,[],,false,false,2.33
+,,7030-PTES,PTES,7030,Grocery,3PL,2,46,2,0,Near Capacity,0,0.0,,,,Pottsville,H O WOLDING INC D/B/A BISON TRANSPORT USA F/K/A POTTLES TRANSPORTATION LLC,,,,[],,false,false,2.0
+,,7030-ROEV,ROEV,7030,Grocery,3PL,3,43,2,1,Near Capacity,2,0.0,,,,Pottsville,ROEHL TRANSPORT INC,,,,[],,false,false,4.67
+,,7047-DHEX,DHEX,7047,Grocery,3PL,1,67,2,0,Normal Capacity,0,0.0,,,,Fontana,,,,,[],,false,false,1.0
+,,7047-KKWQ,KKWQ,7047,Grocery,3PL,1,61,2,0,Normal Capacity,0,0.0,,,,Fontana,K K W TRUCKING INC,,,,[],,false,false,1.0
+,,7047-LEGS,LEGS,7047,Grocery,3PL,2,66,2,0,Normal Capacity,0,0.0,,,,Fontana,New Legend,,,,[],,false,false,2.0
+,,7048-ATJL,ATJL,7048,Grocery,3PL,1,42,2,0,Over Capacity,0,,,,,McCarran,ATS,,,,[],,false,false,
+,,7048-DFBL,DFBL,7048,Grocery,3PL,3,44,2,1,Over Capacity,6,0.0,,,,McCarran,DOEL Freight Lines,,,,[],,false,false,7.0
+,,7048-KNIG,KNIG,7048,Grocery,3PL,4,69,2,2,Over Capacity,3,0.0,,,,McCarran,KNIGHT TRANSPORTATION INC,,,,[],,false,false,6.33
+,,7055-BAYN,BAYN,7055,Grocery,3PL,2,64,2,0,Near Capacity,0,0.0,,,,Gas City,BAY & BAY TRANSFER CO INC,,,,[],,false,false,2.67
+,,7055-COXS,COXS,7055,Grocery,3PL,1,69,2,0,Near Capacity,0,0.0,,,,Gas City,"CONTINENTAL EXPRESS, INC.",,,,[],,false,false,2.0
+,,7055-FIOP,FIOP,7055,Grocery,3PL,4,65,2,2,Near Capacity,1,0.0,,,,Gas City,FIRST OPTION INC,,,,[],,false,false,
+,,7055-HLEX,HLEX,7055,Grocery,3PL,8,65,2,6,Near Capacity,32,0.0,,,,Gas City,HEARTLAND EXPRESS,,,,[],,true,true,7.81
+,,7055-METG,METG,7055,Grocery,3PL,2,44,2,0,Near Capacity,0,0.0,,,,Gas City,Moeller Trucking Inc.,,,,[],,false,false,2.5
+,,7055-MTEN,MTEN,7055,Grocery,3PL,1,42,2,0,Near Capacity,0,0.0,,,,Gas City,MARTEN TRANSPORT LTD,,,,[],,false,false,2.0
+,,7055-PASC,PASC,7055,Grocery,3PL,2,55,2,0,Near Capacity,0,0.0,,,,Gas City,PASCHALL TRUCK LINES INC (KY-CORP),,,,[],,false,false,3.0
+,,7055-WSXI,WSXI,7055,Grocery,3PL,2,47,2,0,Near Capacity,0,0.0,,,,Gas City,WESTERN EXPRESS INC,,,,[],,false,false,2.67
+,,7077-KNIG,KNIG,7077,Grocery,3PL,10,68,2,8,Near Capacity,21,0.0,,,,Cheyenne,KNIGHT TRANSPORTATION INC,,,,[],,true,true,5.86
+,,7077-TAMI,TAMI,7077,Grocery,3PL,4,45,2,2,Near Capacity,8,0.0,,,,Cheyenne,TRANSAM TRUCKING INC,,,,[],,false,false,2.75
+,,7079-MTEN,MTEN,7079,Grocery,3PL,2,55,2,0,Near Capacity,0,0.0,,,,Mankato,MARTEN TRANSPORT LTD,,,,[],,false,false,1.5
+,,6042-USXI,USXI,6042,Grocery,3PL,8,73,3,5,At Capacity,74,0.0,,,,Pauls Valley,U S XPRESS INC,,,,[],,true,true,7.17
+,,6047-SMTA,SMTA,6047,Grocery,3PL,3,83,3,0,Normal Capacity,0,0.0,,,,Bedford,SMITH TRANSPORT INC,,,,[],,false,false,1.0
+,,6055-CRCR,CRCR,6055,Grocery,3PL,4,79,3,1,Over Capacity,1,0.0,,,,Monroe,CRETE,,,,[],,false,false,2.0
+,,6055-MTEN,MTEN,6055,Grocery,3PL,8,95,3,5,Over Capacity,3,0.0,,,,Monroe,MARTEN TRANSPORT LTD,,,,[],,false,false,3.25
+,,6057-HAEI,HAEI,6057,Grocery,3PL,5,76,3,2,At Capacity,3,0.0,,,,Hammond,HEARTLAND EXPRESS SERVICES INC,,,,[],,false,false,3.25
+,,6059-PGDB,PGDB,6059,Grocery,3PL,4,94,3,1,At Capacity,6,0.0,,,,Olney,PROCTER & GAMBLE DISTRIBUTING LLC,,,,[],,false,false,3.0
+,,6059-TNTI,TNTI,6059,Grocery,3PL,3,93,3,0,At Capacity,0,0.0,,,,Olney,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,3.67
+,,6059-WERE,WERE,6059,Grocery,3PL,4,79,3,1,At Capacity,1,0.0,,,,Olney,WERNER,,,,[],,false,false,33.0
+,,6062-MTEN,MTEN,6062,Grocery,3PL,4,97,3,1,Over Capacity,1,0.0,,,,Shelbyville,MARTEN TRANSPORT LTD,,,,[],,false,false,2.5
+,,6064-COXS,COXS,6064,Grocery,3PL,2,76,3,0,At Capacity,0,0.0,,,,Cleburne,"CONTINENTAL EXPRESS, INC.",,,,[],,false,false,1.5
+,,6065-ENGC,ENGC,6065,Grocery,3PL,2,90,3,0,Over Capacity,0,0.0,,,,Harrisonville,CR England,,,,[],,false,false,8.2
+,,6071-EQUT,EQUT,6071,Grocery,3PL,4,82,3,1,Over Capacity,32,0.0,,,,Winter Haven,EQUITY TRANSPORTATION COMPANY INC,,,,[],,false,false,11.0
+,,6071-HEYL,HEYL,6071,Grocery,3PL,2,93,3,0,Over Capacity,0,0.0,,,,Winter Haven,HEYL LOGISTICS INC,,,,[],,false,false,1.5
+,,6071-HLEX,HLEX,6071,Grocery,3PL,1,75,3,0,Over Capacity,0,0.0,,,,Winter Haven,HEARTLAND EXPRESS,,,,[],,false,false,11.0
+,,6071-JTKY,JTKY,6071,Grocery,3PL,4,93,3,1,Over Capacity,2,0.0,,,,Winter Haven,J TRUCKING COMPANY,,,,[],,false,false,2.6
+,,6071-METG,METG,6071,Grocery,3PL,2,85,3,0,Over Capacity,0,0.0,,,,Winter Haven,Moeller Trucking Inc.,,,,[],,false,false,1.0
+,,6071-PAPT,PAPT,6071,Grocery,3PL,6,94,3,3,Over Capacity,23,0.0,,,,Winter Haven,PAPER TRANSPORT LLC,,,,[],,false,false,3.17
+,,6072-PGDB,PGDB,6072,Grocery,3PL,5,77,3,2,Over Capacity,11,0.0,,,,New Albany,PROCTER & GAMBLE DISTRIBUTING LLC,,,,[],,false,false,2.75
+,,6072-PWRT,PWRT,6072,Grocery,3PL,4,87,3,1,Over Capacity,5,0.0,,,,New Albany,POWER TRANSPORT LLC,,,,[],,false,false,3.0
+,,6073-COXS,COXS,6073,Grocery,3PL,2,71,3,0,Over Capacity,0,0.0,,,,Pageland,"CONTINENTAL EXPRESS, INC.",,,,[],,false,false,
+,,6073-HLEX,HLEX,6073,Grocery,3PL,3,82,3,0,Over Capacity,0,0.0,,,,Pageland,HEARTLAND EXPRESS,,,,[],,false,false,1.33
+,,6073-PGDB,PGDB,6073,Grocery,3PL,6,77,3,3,Over Capacity,1,0.0,,,,Pageland,PROCTER & GAMBLE DISTRIBUTING LLC,,,,[],,false,false,1.86
+,,6073-SHAF,SHAF,6073,Grocery,3PL,2,74,3,0,Over Capacity,0,0.0,,,,Pageland,SHAFFER TRUCKING INC,,,,[],,false,false,1.33
+,,6073-SWFT,SWFT,6073,Grocery,3PL,8,96,3,5,Over Capacity,80,0.0,,,,Pageland,SWIFT,,,,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,true,true,4.0
+,,6082-BWRK,BWRK,6082,Grocery,3PL,9,73,3,6,Over Capacity,25,0.0,,,,Clarksvile,BOWERMAN TRUCKING INC,,,,[],,true,true,5.0
+,,6082-ENGC,ENGC,6082,Grocery,3PL,6,79,3,3,Over Capacity,8,0.0,,,,Clarksvile,CR England,,,,[],,false,false,3.0
+,,6082-MTEN,MTEN,6082,Grocery,3PL,11,86,3,8,Over Capacity,9,0.0,,,,Clarksvile,MARTEN TRANSPORT LTD,,,,[],,false,true,3.56
+,,6082-SCNN,SCNN,6082,Grocery,3PL,8,79,3,5,Over Capacity,1,0.0,,,,Clarksvile,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,13.0
+,,6082-SHAF,SHAF,6082,Grocery,3PL,6,76,3,3,Over Capacity,17,0.0,,,,Clarksvile,SHAFFER TRUCKING INC,,,,[],,false,false,4.25
+,,6083-MGRB,MGRB,6083,Grocery,3PL,6,86,3,3,Near Capacity,14,0.0,,,,Temple,MCGUIRE TRANSPORTATION,,,,[],,false,false,3.17
+,,6084-CRCR,CRCR,6084,Grocery,3PL,5,82,3,2,Over Capacity,11,0.0,,,,Los Lunas,CRETE,,,,[],,false,false,3.0
+,,6085-MTEN,MTEN,6085,Grocery,3PL,3,94,3,0,Near Capacity,0,0.0,,,,Tobyhanna,MARTEN TRANSPORT LTD,,,,[],,false,false,1.33
+,,6085-TNTI,TNTI,6085,Grocery,3PL,1,95,3,0,Near Capacity,0,0.0,,,,Tobyhanna,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,1.0
+,,6090-KNIG,KNIG,6090,Grocery,3PL,6,77,3,3,At Capacity,55,0.0,,,,Corinne,KNIGHT TRANSPORTATION INC,,,,[],,false,false,7.86
+,,6091-PRIJ,PRIJ,6091,Grocery,3PL,4,89,3,1,Over Capacity,1,0.0,,,,Henderson,PRIME INC,,,,[],,false,false,1.0
+,,6095-PRIM,PRIM,6095,Grocery,3PL,8,76,3,5,Near Capacity,14,0.0,,,,Opelika,PRIME SHIPPING INTERNATIONAL INC,,,,[],,true,true,7.0
+,,6096-CWAC,CWAC,6096,Grocery,3PL,6,73,3,3,At Capacity,12,0.0,,,,Johnstown,COWAN SYSTEMS LLC (DEDICATED),,,,[],,false,false,10.5
+,,6096-HRTD,HRTD,6096,Grocery,3PL,11,90,3,8,At Capacity,52,0.0,,,,Johnstown,H O WOLDING INC D/B/A BISON TRANSPORT USA,,,,[],,true,true,8.09
+,,6096-NAFT,NAFT,6096,Grocery,3PL,4,80,3,1,At Capacity,4,0.0,,,,Johnstown,NFI TRANSPORTATION,,,,[],,false,false,10.0
+,,6096-SCNN,SCNN,6096,Grocery,3PL,4,97,3,1,At Capacity,1,0.0,,,,Johnstown,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,3.8
+,,6096-USXI,USXI,6096,Grocery,3PL,4,70,3,1,At Capacity,1,0.0,,,,Johnstown,U S XPRESS INC,,,,[],,false,false,4.0
+,,6096-WSXI,WSXI,6096,Grocery,3PL,5,93,3,2,At Capacity,5,0.0,,,,Johnstown,WESTERN EXPRESS INC,,,,[],,false,false,4.0
+,,6097-CRCR,CRCR,6097,Grocery,3PL,1,72,3,0,At Capacity,0,0.0,,,,London,CRETE,,,,[],,false,false,1.6
+,,6099-SAGQ,SAGQ,6099,Grocery,3PL,8,77,3,5,Near Capacity,90,0.0,,,,Macclenny,SOUTHERN AG CARRIERS INC,,,,[],,true,true,4.57
+,,7010-ATUR,ATUR,7010,Grocery,3PL,5,76,3,2,At Capacity,23,0.0,,,,New Caney,ARTUR EXPRESS INC,,,,[],,false,false,3.5
+,,7010-COXS,COXS,7010,Grocery,3PL,5,74,3,2,At Capacity,10,0.0,,,,New Caney,"CONTINENTAL EXPRESS, INC.",,,,[],,false,false,2.0
+,,7010-SCNN,SCNN,7010,Grocery,3PL,3,80,3,0,At Capacity,0,0.0,,,,New Caney,SCHNEIDER,,Escalated to operations team. Working on a timeline for when trailers will be removed.,2024-04-08,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,1.6
+,,7012-COXS,COXS,7012,Grocery,3PL,3,87,3,0,At Capacity,0,0.0,,,,Washington Court House,"CONTINENTAL EXPRESS, INC.",,,,[],,false,false,1.0
+,,7012-TNTI,TNTI,7012,Grocery,3PL,4,70,3,1,At Capacity,1,0.0,,,,Washington Court House,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,3.5
+,,7013-CRCR,CRCR,7013,Grocery,3PL,4,81,3,1,At Capacity,4,0.0,,,,Casa Grande,CRETE,,,,[],,false,false,3.0
+,,7013-ENGC,ENGC,7013,Grocery,3PL,9,71,3,6,At Capacity,90,0.0,,,,Casa Grande,CR England,,,,[],,true,true,7.0
+,,7013-KNIG,KNIG,7013,Grocery,3PL,4,93,3,1,At Capacity,2,0.0,,,,Casa Grande,KNIGHT TRANSPORTATION INC,,,,[],,false,false,2.0
+,,7013-SWFT,SWFT,7013,Grocery,3PL,14,95,3,11,At Capacity,17,0.0,,,,Casa Grande,SWIFT,,"Based on inbound volume, we need 10 trailers on site to swap out. Working on removing 3-4 trailers.",2024-04-12,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,true,true,4.79
+,,7016-CRCR,CRCR,7016,Grocery,3PL,6,87,3,3,At Capacity,59,0.0,,,,Gordonsville,CRETE,,,,[],,false,false,5.5
+,,7016-HAEI,HAEI,7016,Grocery,3PL,1,90,3,0,At Capacity,0,0.0,,,,Gordonsville,HEARTLAND EXPRESS SERVICES INC,,,,[],,false,false,1.75
+,,7016-HRTD,HRTD,7016,Grocery,3PL,5,76,3,2,At Capacity,2,0.0,,,,Gordonsville,H O WOLDING INC D/B/A BISON TRANSPORT USA,,,,[],,false,false,7.0
+,,7016-MTEN,MTEN,7016,Grocery,3PL,5,70,3,2,At Capacity,69,0.0,,,,Gordonsville,MARTEN TRANSPORT LTD,,,,[],,false,false,2.4
+,,7017-SNIK,SNIK,7017,Grocery,3PL,5,80,3,2,At Capacity,1,0.0,,,,Wintersville,"STRIMBU, NICK INC",,,,[],,false,false,1.67
+,,7018-GIMV,GIMV,7018,Grocery,3PL,6,93,3,3,At Capacity,14,0.0,,,,North Platte,GRAND ISLAND EXPRESS INC,,,,[],,false,false,2.67
+,,7019-CRCR,CRCR,7019,Grocery,3PL,4,70,3,1,At Capacity,3,0.0,,,,Brundidge,CRETE,,,,[],,false,false,4.0
+,,7019-PRIJ,PRIJ,7019,Grocery,3PL,3,77,3,0,At Capacity,0,0.0,,,,Brundidge,PRIME INC,,,,[],,false,false,2.0
+,,7019-SWFT,SWFT,7019,Grocery,3PL,6,89,3,3,At Capacity,1,0.0,,,,Brundidge,SWIFT,,,,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,false,false,2.5
+,,7019-TNTI,TNTI,7019,Grocery,3PL,7,72,3,4,At Capacity,10,0.0,,,,Brundidge,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,true,3.2
+,,7021-JAKO,JAKO,7021,Grocery,3PL,6,97,3,3,Over Capacity,1,0.0,,,,Grandview,JACKO LOGISTICS LLC,,,,[],,false,false,3.0
+,,7021-SUND,SUND,7021,Grocery,3PL,4,87,3,1,Over Capacity,5,0.0,,,,Grandview,SHAFFER TRUCKING INC,,,,[],,false,false,2.0
+,,7023-CRCR,CRCR,7023,Grocery,3PL,6,74,3,3,Over Capacity,21,0.0,,,,Arcadia,CRETE,,,,[],,false,false,7.57
+,,7023-PAPT,PAPT,7023,Grocery,3PL,9,73,3,6,Over Capacity,29,0.0,,,,Arcadia,PAPER TRANSPORT LLC,,,,[],,true,true,2.38
+,,7023-SHAF,SHAF,7023,Grocery,3PL,16,88,3,13,Over Capacity,59,0.0,,,,Arcadia,SHAFFER TRUCKING INC,,,,[],,true,true,6.0
+,,7023-TCTC,TCTC,7023,Grocery,3PL,7,79,3,4,Over Capacity,40,0.0,,,,Arcadia,TRICONT TRUCKING COMPANY,,,,[],,true,true,3.83
+,,7030-HJBT,HJBT,7030,Grocery,3PL,8,73,3,5,Near Capacity,7,0.0,,,,Pottsville,JB HUNT,,,,[],,false,true,3.64
+,,7030-MTEN,MTEN,7030,Grocery,3PL,4,86,3,1,Near Capacity,4,0.0,,,,Pottsville,MARTEN TRANSPORT LTD,,,,[],,false,false,2.67
+,,7030-SWFT,SWFT,7030,Grocery,3PL,6,78,3,3,Near Capacity,3,0.0,,,,Pottsville,SWIFT,,,,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,false,false,7.3
+,,7047-HUBG,HUBG,7047,Grocery,3PL,4,75,3,1,Normal Capacity,1,0.0,,,,Fontana,HUB GROUP,,,,[],,false,false,2.0
+,,7047-SWFT,SWFT,7047,Grocery,3PL,2,76,3,0,Normal Capacity,0,0.0,,,,Fontana,SWIFT,,According to the yard check from Fontana we do not have any trailers at this location,,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,false,false,2.0
+,,7047-WTZJ,WTZJ,7047,Grocery,3PL,5,93,3,2,Normal Capacity,4,0.0,,,,Fontana,WATTEV TRANSPORT LLC,,,,[],,false,false,1.71
+,,7048-LEGS,LEGS,7048,Grocery,3PL,5,83,3,2,Over Capacity,14,0.0,,,,McCarran,New Legend,,,,[],,false,false,9.5
+,,7048-RUNM,RUNM,7048,Grocery,3PL,2,80,3,0,Over Capacity,0,0.0,,,,McCarran,RUN INC,,,,[],,false,false,3.0
+,,7055-ROEV,ROEV,7055,Grocery,3PL,7,97,3,4,Near Capacity,6,0.0,,,,Gas City,ROEHL TRANSPORT INC,,,,[],,false,true,3.83
+,,7055-WSGS,WSGS,7055,Grocery,3PL,11,79,3,8,Near Capacity,87,0.0,,,,Gas City,WEST SIDE TRANSPORT INC,,,,[],,true,true,19.06
+,,7077-CRCR,CRCR,7077,Grocery,3PL,4,82,3,1,Near Capacity,1,0.0,,,,Cheyenne,CRETE,,,,[],,false,false,2.0
+,,7077-SHAF,SHAF,7077,Grocery,3PL,2,88,3,0,Near Capacity,0,0.0,,,,Cheyenne,SHAFFER TRUCKING INC,,,,[],,false,false,3.33
+,,7084-MTEN,MTEN,7084,Grocery,3PL,2,92,3,0,At Capacity,0,0.0,,,,Hunter Park,MARTEN TRANSPORT LTD,,,,[],,false,false,1.5
+,,7084-QTUM,QTUM,7084,Grocery,3PL,2,94,3,0,At Capacity,0,0.0,,,,Hunter Park,QUANTUM TRANSPORTATION LLC,,,,[],,false,false,
+,,8851-HEYL,HEYL,8851,Grocery,3PL,10,94,3,7,Over Capacity,45,0.0,,,,Cocoa,HEYL LOGISTICS INC,,,,[],,true,true,5.3
+,,8851-METG,METG,8851,Grocery,3PL,5,72,3,2,Over Capacity,12,0.0,,,,Cocoa,Moeller Trucking Inc.,,,,[],,false,false,4.0
+,,8851-MTEN,MTEN,8851,Grocery,3PL,4,83,3,1,Over Capacity,2,0.0,,,,Cocoa,MARTEN TRANSPORT LTD,,,,[],,false,false,1.67
+,,6042-CRCR,CRCR,6042,Grocery,3PL,4,113,4,0,At Capacity,0,0.0,,,,Pauls Valley,CRETE,,,,[],,false,false,1.83
+,,6056-STVV,STVV,6056,Grocery,3PL,4,115,4,0,Normal Capacity,0,0.0,,,,Terrell,STEVENS TRANSPORT INC,,,,[],,false,false,1.75
+,,6059-SCNN,SCNN,6059,Grocery,3PL,8,123,4,4,At Capacity,4,0.0,,,,Olney,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,2.5
+,,6059-TRHS,TRHS,6059,Grocery,3PL,5,100,4,1,At Capacity,4,0.0,,,,Olney,TRI-STATE LOGISTICS LLC,,,,[],,false,false,1.5
+,,6065-CRCR,CRCR,6065,Grocery,3PL,2,104,4,0,Over Capacity,0,0.0,,,,Harrisonville,CRETE,,,,[],,false,false,2.4
+,,6065-FRCI,FRCI,6065,Grocery,3PL,7,103,4,3,Over Capacity,9,0.0,,,,Harrisonville,FREMONT CONTRACT CARRIERS INC,,,,[],,false,false,3.67
+,,6071-HAEI,HAEI,6071,Grocery,3PL,3,122,4,0,Over Capacity,0,0.0,,,,Winter Haven,HEARTLAND EXPRESS SERVICES INC,,,,[],,false,false,6.5
+,,6071-SWFT,SWFT,6071,Grocery,3PL,7,104,4,3,Over Capacity,15,0.0,,,,Winter Haven,SWIFT,,planning is working on this trailer pool,,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,false,false,1.83
+,,6072-PRIJ,PRIJ,6072,Grocery,3PL,6,125,4,2,Over Capacity,1,0.0,,,,New Albany,PRIME INC,,,,[],,false,false,1.67
+,,6073-MTNF,MTNF,6073,Grocery,3PL,7,104,4,3,Over Capacity,6,0.0,,,,Pageland,MILLIS TRANSFER INC,,,,[],,false,false,6.67
+,,6074-PRIJ,PRIJ,6074,Grocery,3PL,5,100,4,1,Near Capacity,6,0.0,,,,Garrett,PRIME INC,,,,[],,false,false,1.75
+,,6085-PRIJ,PRIJ,6085,Grocery,3PL,7,108,4,3,Near Capacity,7,0.0,,,,Tobyhanna,PRIME INC,,,,[],,false,false,3.5
+,,6085-ROEK,ROEK,6085,Grocery,3PL,10,103,4,6,Near Capacity,3,0.0,,,,Tobyhanna,ROEHL,,,,[],,false,false,2.43
+,,6090-SWFT,SWFT,6090,Grocery,3PL,18,102,4,14,At Capacity,40,0.0,,,,Corinne,SWIFT,,"We only have 14 trailers here in Corinne we need to keep 7 to 10 trailers to pick up the loads we pick up.  If we remove 13 trailers, we would not be able to cover the freight.",,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,true,true,5.92
+,,6095-MTEN,MTEN,6095,Grocery,3PL,10,110,4,6,Near Capacity,6,0.0,,,,Opelika,MARTEN TRANSPORT LTD,,,,[],,false,true,6.25
+,,6096-CRCR,CRCR,6096,Grocery,3PL,6,106,4,2,At Capacity,2,0.0,,,,Johnstown,CRETE,,,,[],,false,false,8.0
+,,6096-PRIJ,PRIJ,6096,Grocery,3PL,8,123,4,4,At Capacity,8,0.0,,,,Johnstown,PRIME INC,,,,[],,false,true,1.86
+,,6096-SHAF,SHAF,6096,Grocery,3PL,6,113,4,2,At Capacity,27,0.0,,,,Johnstown,SHAFFER TRUCKING INC,,,,[],,false,false,2.63
+,,6096-TNTI,TNTI,6096,Grocery,3PL,18,104,4,14,At Capacity,28,0.0,,,,Johnstown,SCHNEIDER,,"We have additional customers delivering into this location that will drive the pool up at this location. Right now, the 4 week volume doesn't reflect this so we are showing way over plan. How can we mitigate this for newly awarded freight?",2024-05-08,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,true,true,9.59
+,,6097-SCNN,SCNN,6097,Grocery,3PL,3,100,4,0,At Capacity,0,0.0,,,,London,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,1.75
+,,6099-MTEN,MTEN,6099,Grocery,3PL,6,111,4,2,Near Capacity,1,0.0,,,,Macclenny,MARTEN TRANSPORT LTD,,,,[],,false,false,1.25
+,,6099-WENP,WENP,6099,Grocery,3PL,5,100,4,1,Near Capacity,1,0.0,,,,Macclenny,WERNER,,,,[],,false,false,8.0
+,,6858-COXS,COXS,6858,Grocery,3PL,6,114,4,2,Over Capacity,5,0.0,,,,Mebane,"CONTINENTAL EXPRESS, INC.",,,,[],,false,false,2.5
+,,7012-AUEP,AUEP,7012,Grocery,3PL,6,111,4,2,At Capacity,1,0.0,,,,Washington Court House,ACCURATE TRANSPORTATION INC,,,,[],,false,false,2.17
+,,7012-CRCR,CRCR,7012,Grocery,3PL,8,121,4,4,At Capacity,1,0.0,,,,Washington Court House,CRETE,,,,[],,false,false,2.43
+,,7012-PPEA,PPEA,7012,Grocery,3PL,7,110,4,3,At Capacity,2,0.0,,,,Washington Court House,TUCKER FREIGHT LINES,,,,[],,false,false,1.5
+,,7015-MTEN,MTEN,7015,Grocery,3PL,6,101,4,2,Over Capacity,1,0.0,,,,Bartlesville,MARTEN TRANSPORT LTD,,,,[],,false,false,14.0
+,,7017-FASQ,FASQ,7017,Grocery,3PL,3,107,4,0,At Capacity,0,0.0,,,,Wintersville,FRALEY & SCHILLING INC,,,,[],,false,false,1.33
+,,7017-MTEN,MTEN,7017,Grocery,3PL,6,101,4,2,At Capacity,15,0.0,,,,Wintersville,MARTEN TRANSPORT LTD,,,,[],,false,false,2.71
+,,7018-CRCR,CRCR,7018,Grocery,3PL,2,125,4,0,At Capacity,0,0.0,,,,North Platte,CRETE,,,,[],,false,false,1.86
+,,7019-MTNF,MTNF,7019,Grocery,3PL,15,120,4,11,At Capacity,90,0.0,,,,Brundidge,MILLIS TRANSFER INC,,,,[],,true,true,5.58
+,,7021-SWFT,SWFT,7021,Grocery,3PL,4,104,4,0,Over Capacity,0,0.0,,,,Grandview,SWIFT,,"we where just awarded a lane out of fonatan to Grandview, 7 loads per week. this number needs to be increased",,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,false,false,2.25
+,,7023-METG,METG,7023,Grocery,3PL,6,107,4,2,Over Capacity,20,0.0,,,,Arcadia,Moeller Trucking Inc.,,,,[],,false,false,2.83
+,,7023-SWFT,SWFT,7023,Grocery,3PL,4,110,4,0,Over Capacity,0,0.0,,,,Arcadia,SWIFT,,,,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,false,false,3.63
+,,7024-COTA,COTA,7024,Grocery,3PL,5,110,4,1,Over Capacity,90,0.0,,,,Sterling,CONTRACT TRANSPORT SERVICES INC,,,,[],,false,false,3.14
+,,7024-CRCR,CRCR,7024,Grocery,3PL,3,103,4,0,Over Capacity,0,0.0,,,,Sterling,CRETE,,,,[],,false,false,1.4
+,,7024-MTEN,MTEN,7024,Grocery,3PL,5,111,4,1,Over Capacity,2,0.0,,,,Sterling,MARTEN TRANSPORT LTD,,,,[],,false,false,1.75
+,,7048-TNTI,TNTI,7048,Grocery,3PL,12,103,4,8,Over Capacity,25,0.0,,,,McCarran,SCHNEIDER,,"Working on creating space at our Sparks NV yard so make room for the excess equipment here. 
+
+Bailey: 2155 Usa Pkwy, Sparks, NV",2024-05-08,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,true,true,7.38
+,,7055-CRCR,CRCR,7055,Grocery,3PL,4,120,4,0,Near Capacity,0,0.0,,,,Gas City,CRETE,,,,[],,false,false,1.6
+,,7077-STVV,STVV,7077,Grocery,3PL,6,123,4,2,Near Capacity,3,0.0,,,,Cheyenne,STEVENS TRANSPORT INC,,,,[],,false,false,2.6
+,,6042-TFYI,TFYI,6042,Grocery,3PL,13,129,5,8,At Capacity,12,0.0,,,,Pauls Valley,TRUCKS FOR YOU INC,,,,[],,true,true,8.92
+,,6047-NBTC,NBTC,6047,Grocery,3PL,13,142,5,8,Normal Capacity,13,0.0,,,,Bedford,NEW BERN TRANSPORT CORPORATION,,,,[],,true,true,7.46
+,,6055-SCNN,SCNN,6055,Grocery,3PL,7,143,5,2,Over Capacity,16,0.0,,,,Monroe,SCHNEIDER,,Escalated to operations team. Working on a timeline for when trailers will be removed.,2024-04-08,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,2.83
+,,6059-CRCR,CRCR,6059,Grocery,3PL,6,131,5,1,At Capacity,6,0.0,,,,Olney,CRETE,,,,[],,false,false,7.8
+,,6072-MTEN,MTEN,6072,Grocery,3PL,3,151,5,0,Over Capacity,0,0.0,,,,New Albany,MARTEN TRANSPORT LTD,,,,[],,false,false,3.33
+,,6072-SHAF,SHAF,6072,Grocery,3PL,6,142,5,1,Over Capacity,6,0.0,,,,New Albany,SHAFFER TRUCKING INC,,,,[],,false,false,1.5
+,,6073-MTEN,MTEN,6073,Grocery,3PL,7,129,5,2,Over Capacity,13,0.0,,,,Pageland,MARTEN TRANSPORT LTD,,,,[],,false,false,1.71
+,,6073-PRIM,PRIM,6073,Grocery,3PL,4,146,5,0,Over Capacity,0,0.0,,,,Pageland,PRIME SHIPPING INTERNATIONAL INC,,,,[],,false,false,2.0
+,,6082-CRCR,CRCR,6082,Grocery,3PL,6,150,5,1,Over Capacity,2,0.0,,,,Clarksvile,CRETE,,,,[],,false,false,2.58
+,,6082-STVV,STVV,6082,Grocery,3PL,4,129,5,0,Over Capacity,0,0.0,,,,Clarksvile,STEVENS TRANSPORT INC,,,,[],,false,false,2.6
+,,6083-MTEN,MTEN,6083,Grocery,3PL,4,140,5,0,Near Capacity,0,0.0,,,,Temple,MARTEN TRANSPORT LTD,,,,[],,false,false,2.33
+,,6085-CRCR,CRCR,6085,Grocery,3PL,6,136,5,1,Near Capacity,4,0.0,,,,Tobyhanna,CRETE,,,,[],,false,false,2.88
+,,6090-CRCR,CRCR,6090,Grocery,3PL,4,134,5,0,At Capacity,0,0.0,,,,Corinne,CRETE,,,,[],,false,false,1.0
+,,6095-CRCR,CRCR,6095,Grocery,3PL,11,135,5,6,Near Capacity,5,0.0,,,,Opelika,CRETE,,,,[],,false,false,3.89
+,,6858-PRIJ,PRIJ,6858,Grocery,3PL,6,135,5,1,Over Capacity,1,0.0,,,,Mebane,PRIME INC,,,,[],,false,false,3.0
+,,7010-MTEN,MTEN,7010,Grocery,3PL,6,152,5,1,At Capacity,6,0.0,,,,New Caney,MARTEN TRANSPORT LTD,,,,[],,false,false,2.88
+,,7010-SDLC,SDLC,7010,Grocery,3PL,3,152,5,0,At Capacity,0,0.0,,,,New Caney,SADDLE CREEK TRANSPORTATION INC,,,,[],,false,false,2.33
+,,7013-KTPS,KTPS,7013,Grocery,3PL,11,147,5,6,At Capacity,27,0.0,,,,Casa Grande,KNIGHT TRANSPORTATION INC,,,,[],,true,true,4.0
+,,7015-CRCR,CRCR,7015,Grocery,3PL,10,145,5,5,Over Capacity,4,0.0,,,,Bartlesville,CRETE,,,,[],,false,false,3.0
+,,7015-PRIJ,PRIJ,7015,Grocery,3PL,8,137,5,3,Over Capacity,3,0.0,,,,Bartlesville,PRIME INC,,,,[],,false,false,4.7
+,,7017-CRCR,CRCR,7017,Grocery,3PL,7,145,5,2,At Capacity,1,0.0,,,,Wintersville,CRETE,,,,[],,false,false,3.67
+,,7018-SHAF,SHAF,7018,Grocery,3PL,9,148,5,4,At Capacity,7,0.0,,,,North Platte,SHAFFER TRUCKING INC,,,,[],,false,true,2.5
+,,7023-OKLE,OKLE,7023,Grocery,3PL,15,129,5,10,Over Capacity,20,0.0,,,,Arcadia,OAKLEY TRANSPORT INC,,,,[],,true,true,11.54
+,,7024-PRIM,PRIM,7024,Grocery,3PL,7,145,5,2,Over Capacity,5,0.0,,,,Sterling,PRIME SHIPPING INTERNATIONAL INC,,,,[],,false,false,2.63
+,,7030-PGDB,PGDB,7030,Grocery,3PL,10,135,5,5,Near Capacity,8,0.0,,,,Pottsville,PROCTER & GAMBLE DISTRIBUTING LLC,,,,[],,false,true,4.22
+,,7047-ANJL,ANJL,7047,Grocery,3PL,2,144,5,0,Normal Capacity,0,0.0,,,,Fontana,ANDRUS TRANSPORTATION SERVICES INC,,,,[],,false,false,1.25
+,,6047-SCNN,SCNN,6047,Grocery,3PL,11,155,6,5,Normal Capacity,40,0.0,,,,Bedford,SCHNEIDER,,Working all capacity types to remove equipment. We have an excess of trailers in the NE so we are working through these as soon as possible.,2024-05-10,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,true,true,3.33
+,,6071-OKLE,OKLE,6071,Grocery,3PL,1,179,6,0,Over Capacity,0,0.0,,,,Winter Haven,OAKLEY TRANSPORT INC,,,,[],,false,false,2.0
+,,6072-TLIN,TLIN,6072,Grocery,3PL,4,155,6,0,Over Capacity,0,0.0,,,,New Albany,TRANSCO LINES INC,,,,[],,false,false,2.83
+,,6072-TNTI,TNTI,6072,Grocery,3PL,4,165,6,0,Over Capacity,0,0.0,,,,New Albany,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,84.13
+,,6073-WSXI,WSXI,6073,Grocery,3PL,8,166,6,2,Over Capacity,3,0.0,,,,Pageland,WESTERN EXPRESS INC,,,,[],,false,false,3.86
+,,6083-CRCR,CRCR,6083,Grocery,3PL,7,160,6,1,Near Capacity,5,0.0,,,,Temple,CRETE,,,,[],,false,false,2.17
+,,6085-SJRG,SJRG,6085,Grocery,3PL,3,154,6,0,Near Capacity,0,0.0,,,,Tobyhanna,"SCHUGEL, J AND R TRUCKING INC",,,,[],,false,false,1.0
+,,6085-TTLQ,TTLQ,6085,Grocery,3PL,12,161,6,6,Near Capacity,3,0.0,,,,Tobyhanna,Taylor Truckline INC.,,,,[],,false,false,7.56
+,,6095-SWFT,SWFT,6095,Grocery,3PL,21,173,6,15,Near Capacity,11,0.0,,,,Opelika,SWIFT,,,,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,true,true,3.93
+,,6097-OKLE,OKLE,6097,Grocery,3PL,2,157,6,0,At Capacity,0,0.0,,,,London,OAKLEY TRANSPORT INC,,,,[],,false,false,1.38
+,,6099-CRCR,CRCR,6099,Grocery,3PL,4,170,6,0,Near Capacity,0,0.0,,,,Macclenny,CRETE,,,,[],,false,false,1.5
+,,6099-ETCA,ETCA,6099,Grocery,3PL,7,164,6,1,Near Capacity,2,0.0,,,,Macclenny,E-TRANSPORT CARRIERS LLC,,,,[],,false,false,1.25
+,,7014-PTES,PTES,7014,Grocery,3PL,4,168,6,0,Near Capacity,0,0.0,,,,Lewiston,H O WOLDING INC D/B/A BISON TRANSPORT USA F/K/A POTTLES TRANSPORTATION LLC,,,,[],,false,false,4.5
+,,7019-MTEN,MTEN,7019,Grocery,3PL,17,180,6,11,At Capacity,42,0.0,,,,Brundidge,MARTEN TRANSPORT LTD,,,,[],,true,true,3.62
+,,7024-TNTI,TNTI,7024,Grocery,3PL,13,177,6,7,Over Capacity,13,0.0,,,,Sterling,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,true,true,4.37
+,,7030-HRTD,HRTD,7030,Grocery,3PL,22,160,6,16,Near Capacity,9,0.0,,,,Pottsville,H O WOLDING INC D/B/A BISON TRANSPORT USA,,,,[],,false,true,7.43
+,,7030-PRIJ,PRIJ,7030,Grocery,3PL,6,172,6,0,Near Capacity,0,0.0,,,,Pottsville,PRIME INC,,,,[],,false,false,3.6
+,,7055-PRIJ,PRIJ,7055,Grocery,3PL,6,164,6,0,Near Capacity,0,0.0,,,,Gas City,PRIME INC,,,,[],,false,false,2.4
+,,7055-SCNN,SCNN,7055,Grocery,3PL,4,170,6,0,Near Capacity,0,0.0,,,,Gas City,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,1.33
+,,7077-PRIJ,PRIJ,7077,Grocery,3PL,11,175,6,5,Near Capacity,18,0.0,,,,Cheyenne,PRIME INC,,,,[],,true,true,3.0
+,,6047-PRIJ,PRIJ,6047,Grocery,3PL,6,196,7,0,Normal Capacity,0,0.0,,,,Bedford,PRIME INC,,,,[],,false,false,1.25
+,,6057-MTEN,MTEN,6057,Grocery,3PL,5,201,7,0,At Capacity,0,0.0,,,,Hammond,MARTEN TRANSPORT LTD,,,,[],,false,false,2.1
+,,6071-MTEN,MTEN,6071,Grocery,3PL,6,190,7,0,Over Capacity,0,0.0,,,,Winter Haven,MARTEN TRANSPORT LTD,,,,[],,false,false,2.0
+,,6072-CRCR,CRCR,6072,Grocery,3PL,9,189,7,2,Over Capacity,8,0.0,,,,New Albany,CRETE,,,,[],,false,false,1.89
+,,6073-CRCR,CRCR,6073,Grocery,3PL,6,194,7,0,Over Capacity,0,0.0,,,,Pageland,CRETE,,,,[],,false,false,1.11
+,,6085-ROEV,ROEV,6085,Grocery,3PL,9,194,7,2,Near Capacity,4,0.0,,,,Tobyhanna,ROEHL TRANSPORT INC,,,,[],,false,false,3.0
+,,7010-CRCR,CRCR,7010,Grocery,3PL,5,209,7,0,At Capacity,0,0.0,,,,New Caney,CRETE,,,,[],,false,false,2.0
+,,7010-SWFT,SWFT,7010,Grocery,3PL,16,196,7,9,At Capacity,13,0.0,,,,New Caney,SWIFT,,"Based on inbound linehaul and dedicated volume, we need 26 trailers on site to swap out. 
+111483 and 151200 will be swapped out next to reduce high idle trailers.",2024-04-12,"[{'email': 'audree.baker@swifttrans.com', 'id': '66211420.kyp8', 'name': 'Audree Baker'}, {'email': 'bobbie_mason@swifttrans.com', 'id': '65820164.4qr4', 'name': 'Bobbie Mason'}, {'email': 'casey_snodgrass@swifttrans.com', 'id': '62929050.kwg5', 'name': 'Casey Snodgrass'}, {'email': 'cassie_park@swifttrans.com', 'id': '64415380.cnsg', 'name': 'Cassie Park'}, {'email': 'daniella_martinez@swifttrans.com', 'id': '64415377.d8q9', 'name': 'Daniella Martinez'}, {'email': 'Jeffrey_anderson@swifttrans.com', 'id': '64415374.d3dn', 'name': 'Jeff Anderson'}, {'email': 'jodie_hopcus@swifttrans.com', 'id': '65228118.c9ht', 'name': 'Jodie Hopcus'}, {'email': 'Rocio_castaneda@swifttrans.com', 'id': '64415376.74v9', 'name': 'Rocio Castaneda'}, {'email': 'sarah_huss@swifttrans.com', 'id': '66211422.ghw9', 'name': 'Sarah Huss'}, {'email': 'thomas_repko@swifttrans.com', 'id': '66211421.ds35', 'name': 'Thomas Repko'}, {'email': 'Tina_Chafin@swifttrans.com', 'id': '62979909.ba8y', 'name': 'Tina Johnson'}]",,true,true,3.25
+,,7014-PRIJ,PRIJ,7014,Grocery,3PL,13,194,7,6,Near Capacity,29,0.0,,,,Lewiston,PRIME INC,,,,[],,true,true,19.36
+,,7016-NPAT,NPAT,7016,Grocery,3PL,13,209,7,6,At Capacity,19,0.0,,,,Gordonsville,NAPA TRANSPORTATION INC,,,,[],,true,true,4.8
+,,7030-SCNN,SCNN,7030,Grocery,3PL,13,208,7,6,Near Capacity,1,0.0,,,,Pottsville,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,3.6
+,,7047-DRER,DRER,7047,Grocery,3PL,11,187,7,4,Normal Capacity,25,0.0,,,,Fontana,DIRECT TRANSPORT,,,,[],,true,true,2.12
+,,6071-SCNN,SCNN,6071,Grocery,3PL,13,235,8,5,Over Capacity,1,0.0,,,,Winter Haven,SCHNEIDER,,We escalated to Operations. Pushing for a timeline and ETA,2024-04-08,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,2.78
+,,7030-WSXI,WSXI,7030,Grocery,3PL,9,218,8,1,Near Capacity,5,0.0,,,,Pottsville,WESTERN EXPRESS INC,,,,[],,false,false,4.23
+,,6057-CRCR,CRCR,6057,Grocery,3PL,11,246,9,2,At Capacity,12,0.0,,,,Hammond,CRETE,,,,[],,false,false,2.38
+,,6084-LSPI,LSPI,6084,Grocery,3PL,8,259,9,0,Over Capacity,0,0.0,,,,Los Lunas,LAZER SPOT INC,,,,[],,false,false,5.33
+,,7021-MTEN,MTEN,7021,Grocery,3PL,6,265,9,0,Over Capacity,0,0.0,,,,Grandview,MARTEN TRANSPORT LTD,,,,[],,false,false,1.29
+,,6059-PRIJ,PRIJ,6059,Grocery,3PL,12,290,10,2,At Capacity,6,0.0,,,,Olney,PRIME INC,,,,[],,false,false,3.11
+,,6065-MTEN,MTEN,6065,Grocery,3PL,8,274,10,0,Over Capacity,0,0.0,,,,Harrisonville,MARTEN TRANSPORT LTD,,,,[],,false,false,2.0
+,,6073-TNTI,TNTI,6073,Grocery,3PL,9,281,10,0,Over Capacity,0,0.0,,,,Pageland,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,2.75
+,,6095-LSPI,LSPI,6095,Grocery,3PL,12,285,10,2,Near Capacity,3,0.0,,,,Opelika,LAZER SPOT INC,,,,[],,false,false,3.13
+,,7012-PRIM,PRIM,7012,Grocery,3PL,7,267,10,0,At Capacity,0,0.0,,,,Washington Court House,PRIME SHIPPING INTERNATIONAL INC,,,,[],,false,false,1.45
+,,7014-WSXI,WSXI,7014,Grocery,3PL,4,286,10,0,Near Capacity,0,0.0,,,,Lewiston,WESTERN EXPRESS INC,,,,[],,false,false,8.83
+,,6062-PRIJ,PRIJ,6062,Grocery,3PL,10,315,11,0,Over Capacity,0,0.0,,,,Shelbyville,PRIME INC,,,,[],,false,false,1.25
+,,7023-MTEN,MTEN,7023,Grocery,3PL,14,306,11,3,Over Capacity,2,0.0,,,,Arcadia,MARTEN TRANSPORT LTD,,,,[],,false,false,3.1
+,,6064-TNTI,TNTI,6064,Grocery,3PL,8,324,12,0,At Capacity,0,0.0,,,,Cleburne,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,2.08
+,,7013-TRUA,TRUA,7013,Grocery,3PL,15,340,12,3,At Capacity,8,0.0,,,,Casa Grande,TRULINE Dedicated,,,,[],,false,false,4.25
+,,7016-WSXI,WSXI,7016,Grocery,3PL,8,334,12,0,At Capacity,0,0.0,,,,Gordonsville,WESTERN EXPRESS INC,,,,[],,false,false,3.67
+,,7023-SCNN,SCNN,7023,Grocery,3PL,34,329,12,22,Over Capacity,10,0.0,,,,Arcadia,SCHNEIDER,,"They have already gone down 6 trailers so far this week.
+It looks like this location had a steady increase of IB the last couple weeks of March, and were not releasing the empties they did have. We are also seeing they didn't unload until last week which is what caused them to net up so high. We are continuing to work to remove these excess empties.",2024-04-30,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,true,6.67
+,,7017-PRIM,PRIM,7017,Grocery,3PL,6,356,13,0,At Capacity,0,0.0,,,,Wintersville,PRIME SHIPPING INTERNATIONAL INC,,,,[],,false,false,1.83
+,,6090-TNTI,TNTI,6090,Grocery,3PL,7,417,15,0,At Capacity,0,0.0,,,,Corinne,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,3.0
+,,6083-BNGV,BNGV,6083,Grocery,3PL,2,472,17,0,Near Capacity,0,0.0,,,,Temple,BOONE LOGISTICS SERVICES LLC,,,,[],,false,false,29.0
+,,7017-TNTI,TNTI,7017,Grocery,3PL,29,594,21,8,At Capacity,2,0.0,,,,Wintersville,SCHNEIDER,,,,"[{'email': 'DessartE@schneider.com', 'id': '65105759.b4i8', 'name': 'Emmie Kucera'}, {'email': 'szymikj1@schneider.com', 'id': '65107323.2kbk', 'name': 'Jenna Szymik'}, {'email': 'geraldm@schneider.com', 'id': '65105757.dccb', 'name': 'Megan Mocco'}]",,false,false,1.69

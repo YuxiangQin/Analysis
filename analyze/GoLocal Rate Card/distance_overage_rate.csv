@@ -1,0 +1,3 @@
+﻿tenant_id,tenant_nm,overage_tier_id,rate_start_date,rate_end_date,min_val,overage_rate
+1091,1-800-Flowers,1,2023-06-01,9999-12-31,20,1
+1408,West Marine,1,2023-06-01,9999-12-31,10,2.5

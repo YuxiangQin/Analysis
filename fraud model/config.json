@@ -1,0 +1,103 @@
+{   
+    "bq_connector": "Google_BigQuery_Connector",
+    "bq_query": "select * from wmt-tebi.RogerQin.driver_fraud_anomaly_detection_base_table where total_trip_cnt != 0",
+    "data_type_convert": {
+        "int": [
+            "DRVR_RATG_NBR",
+            "total_item_cnt", 
+            "missing_item_cnt", 
+            "MISSING_ITEM_DOLLAR_VALUE",
+            "ordered_dollar_value",
+            "max_freq_amt"
+        ],
+        "datetime64[ns]": ["data_start_dt_pt", "data_end_dt_pt"]
+    },
+    "top_deactivate_reasons": [
+        "Shared Account", 
+        "Critical", 
+        "Behavior", 
+        "The driver has been Reinstated", 
+        "Automatic"
+    ],
+    "ratio_mapping": {
+        "total_po_cnt":["missing_po_cnt"],
+        "total_trip_cnt":[
+            "same_cust_email_trip_cnt", 
+            "same_cust_phone_trip_cnt",
+            "same_cust_email_phone_trip_cnt",
+            "large_pay_amt_cnt", 
+            "max_freq_amt_cnt",
+            "drop_after_arrived_at_store_trip_cnt",
+            "swipe_abuse_trip_cnt", 
+            "return_abuse_trip_cnt", 
+            "scan_abuse_trip_cnt",
+            "drop_abuse_trip_cnt", 
+            "multi_drop_abuse_trip_cnt",
+            "prop_22_abuse_trip_cnt", 
+            "shop_n_deliver_nil_pick_abuse_trip_cnt"
+        ],
+        "total_accpt_trip_cnt": ["express_accpt_trip_cnt"],
+        "total_item_cnt": ["missing_item_cnt"]
+    },
+    "new_features": [
+        "missing_po_pct",
+        "same_cust_email_phone_trip_pct",
+        "large_pay_amt_pct",
+        "max_freq_amt_pct",
+        "drop_after_arrived_at_store_trip_pct",
+        "express_accpt_trip_pct"
+    ],
+    "all_features": [
+        "missing_po_pct",
+        "same_cust_email_phone_trip_pct",
+        "large_pay_amt_pct",
+        "max_freq_amt_pct",
+        "drop_after_arrived_at_store_trip_pct",
+        "express_accpt_trip_pct",
+        "swipe_abuse_trip_pct", 
+        "return_abuse_trip_pct", 
+        "scan_abuse_trip_pct",
+        "multi_drop_abuse_trip_pct",
+        "prop_22_abuse_trip_pct", 
+        "shop_n_deliver_nil_pick_abuse_trip_pct"
+    ],
+    "n_clusters": 4,
+    "columns_to_analyze": [
+        "driver_tenure_day", 
+        "DRVR_RATG_NBR",
+        "total_trip_cnt",
+        "missing_item_cnt",
+        "missing_item_pct",
+        "missing_po_cnt",
+        "missing_po_pct",
+        "same_cust_email_phone_trip_cnt",
+        "same_cust_email_phone_trip_pct",
+        "large_pay_amt_cnt",
+        "large_pay_amt_pct",
+        "max_freq_amt",
+        "max_freq_amt_cnt",
+        "max_freq_amt_pct",
+        "drop_after_arrived_at_store_trip_cnt",
+        "drop_after_arrived_at_store_trip_pct",
+        "express_accpt_trip_cnt",
+        "express_accpt_trip_pct",
+        "swipe_abuse_trip_cnt",
+        "return_abuse_trip_cnt",
+        "scan_abuse_trip_cnt",
+        "drop_abuse_trip_cnt",
+        "multi_drop_abuse_trip_cnt",
+        "prop_22_abuse_trip_cnt",
+        "shop_n_deliver_nil_pick_abuse_trip_cnt",
+        "swipe_abuse_trip_pct",
+        "return_abuse_trip_pct",
+        "scan_abuse_trip_pct",
+        "drop_abuse_trip_pct",
+        "multi_drop_abuse_trip_pct",
+        "prop_22_abuse_trip_pct",
+        "shop_n_deliver_nil_pick_abuse_trip_pct"
+    ],
+    "clusters_to_share": 2,
+    "log_name": "UAT - Potential_Fraud_Driver_Anomalies_KMeans",
+    "log_sender": "noreply@walmart.com",
+    "log_to": "Umar.Cheema@walmart.com; Amit.Yadav1@walmart.com; Adam.Karafinski@walmart.com; roger.qin@walmart.com"
+}
