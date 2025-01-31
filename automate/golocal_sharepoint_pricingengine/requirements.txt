@@ -1,0 +1,8 @@
+pandas
+pytz
+datetime
+office365-python-client
+email
+smtplib
+python-dotenv
+google-cloud-bigquery

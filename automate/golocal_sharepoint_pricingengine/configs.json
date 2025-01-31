@@ -1,0 +1,21 @@
+{   
+    "username": "y0q00wv@homeoffice.wal-mart.com",
+    "url": "https://teams.wal-mart.com/sites/LastMileDelivery-DataAnalytics",
+    "site_path": "\\sites\\LastMileDelivery-DataAnalytics",
+    "folder_path": "Shared Documents\\GoLocal",
+    "file_name": "PricingEngine_Transition_E2E.xlsx",
+    "sheet_nm": "in",
+    "unique_key": ["Pickup_Point_ID", "Type_Of_Delivery", "Start_Date", "Source"],
+    "data_type_convert": {
+        "Client_ID": "int",
+        "Pickup_Point_ID": "int",
+        "Start_Date": "datetime64[ns]",
+        "End_Date": "datetime64[ns]"
+    },
+    "log_name": "Golocal PricingEngine Transition File Transfer",
+    "log_sender": "noreply@walmart.com",
+    "log_to": "roger.qin@walmart.com; saurabh.shukla1@walmart.com",
+    "log_with_attachment": "\nThere're missing and/or duplicated values in excel file, list in attachment, those records are not uploaded to BigQuery table.",
+    "bq_connector": "Google_BigQuery_Connector",
+    "bq_table_nm": "wmt-edw-sandbox.LM_IAD_DAAS.pricing_engine_transition_cutoff_table"
+}

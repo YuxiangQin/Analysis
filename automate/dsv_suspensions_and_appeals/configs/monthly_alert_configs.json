@@ -1,0 +1,25 @@
+{
+    "subject": "Action Required: Drop Ship Vendor Performance Alert",
+    "sender": "Performancemanageme@wal-mart.com",
+    "html_template": "/data/DSV/Email_Templates/monthly_alert_template.html",
+    "query": "monthly_alert_query.sql",
+    "log_config": {
+        "subject": "DSV Montly Alert Run Log",
+        "sender": "Performancemanageme@wal-mart.com",
+        "to": "Jeremy.Einess@walmart.com",
+        "cc": "roger.qin@walmart.com",
+        "html_template": "/data/DSV/Email_Templates/monthly_alert_log.html",
+        "filepath": "/data/DSV/Run_Logs",
+        "filename": "Monthly Chargebacks Alert Log",
+        "cols": [
+            "year",
+            "month",
+            "VENDOR_ID",
+            "VENDOR_NAME",
+            "owner",
+            "OwnerEmail",
+            "Chargebacks",
+            "Comments"
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+{   
+    "username": "y0q00wv@homeoffice.wal-mart.com",
+    "url": "https://teams.wal-mart.com/sites/ProjectFranklin",
+    "site_path": "\\sites\\ProjectFranklin",
+    "folder_path": "Shared Documents\\1_Operations\\10.%20Field%20Operations%20PlayBook\\Scale%20and%20Integration\\InHome%20Launch\\FY25%20Expansion\\Working%20Files%20(Program%20Team%20Use%20ONLY)",
+    "file_name": "Store%20Van_Catchment%20Data.xlsx",
+    "sheet_names": ["New Store Launch"],
+    "unique_key": ["Store", "Start_Date"],
+    "data_type_convert": {
+        "Store": "int",
+        "Start_Date": "datetime64[ns]",
+        "End_Date": "datetime64[ns]"
+    },
+    "log_name": "InHome New Store Launch File Transfer",
+    "log_sender": "noreply@walmart.com",
+    "log_to": "Sai.Bhargav.Nimmagadda@walmart.com; Adam.Karafinski@walmart.com; Shilpa.Mandala@walmart.com; roger.qin@walmart.com",
+    "log_with_attachment": "\nThere're missing and/or duplicated values in excel file, list in attachment, those records are not uploaded to BigQuery table.",
+    "bq_connector": "Google_BigQuery_Connector",
+    "bq_table_nm": "wmt-tebi.inhome.new_store_launch"
+}
